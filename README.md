@@ -1,0 +1,1 @@
+# 6yozo.github.io
