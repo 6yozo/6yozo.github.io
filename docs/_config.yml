@@ -14,3 +14,9 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+collections:
+  windows11:
+    output: true
+  typing:
+    output: true
