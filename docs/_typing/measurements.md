@@ -1,13 +1,22 @@
 ---
 layout: default
-title: Measurents
+title: Measurements
 date: 30 06 2023
 author: GG
-tags: Typing, Colemak-DH
+tags: Typing, Colemak-DH, Colmak Club
 ---
 
 Test results
 ============
+
+2023-07-01
+----------
+
+| Level | BPM | Accuracy (%) |   WPM |
+|:------|----:|-------------:|------:|
+| L6    | 107 |        99.75 | 21.35 |
+|       | 108 |        99.02 | 21.23 |
+|       | 109 |       100.00 | 21.80 |
 
 2023-06-30
 ----------
