@@ -9,6 +9,53 @@ tags: Typing, Colemak-DH, Colmak Club
 Test results
 ============
 
+
+2023-12-19
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+|  80 | ENG  | 10 min |        97.95 | 15.11 |
+|  80 | ENG  | 12 min |        98.56 | 15.59 |
+|  80 | ENG  | group1 |       100.00 | 16.16 |
+|  80 | ENG  | group2 |        99.27 | 11.97 |
+|  80 | ENG  | group2 |        98.19 | 15.62 |
+|  80 | ENG  | group2 |        98.91 | 15.93 |
+|  80 | ENG  | group2 |        99.63 | 16.03 |
+|  80 | ENG  | group2 |        98.91 | 15.80 |
+|  80 | ENG  | group2 |       100.00 | 15.97 |
+|  80 | ENG  | 10 min |        98.87 | 15.76 |
+|  80 | ENG  | group3 |       100.00 | 16.07 |
+
+Missed words:
+
+- group3:
+  juice authorize underground hazard authorize ground juice ground
+  dollar custody dollar underground glorious ground authorize
+  underground authorize underground glorious custody custody juice
+  glorious underground underground glorious authorize juice custody
+  dollar custody ground underground custody authorize authorize
+  custody glorious authorize authorize
+
+- group1
+underground judicial thoroughly lazy jurisdiction jurisdiction
+underground college underground household household jurisdiction
+thoroughly college thoroughly thoroughly secondly lazy thoroughly
+secondly jurisdiction secondly thoroughly underground college college
+lazy secondly household thoroughly thoroughly layout underground
+
+- group2
+thoroughly college jurisdiction indigenous jurisdiction jurisdiction
+secondly thoroughly thoroughly thoroughly technology lazy thoroughly
+judicial college judicial college jurisdiction college thoroughly
+college college indigenous underground underground secondly college
+
+---
+
+Switch to MonkeType, Bunya-DTM
+
+---
+
 Switch to keybr
 
 2023-08-24
@@ -1385,3 +1432,4 @@ Colemak DOX
 |       |     |        99.05 | 13.03 |
 |       |     |       100.00 | 12.90 |
 |       |     |        99.69 | 14.01 |
+
