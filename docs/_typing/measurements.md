@@ -3,12 +3,70 @@ layout: default
 title: Measurements
 date: 30 06 2023
 author: GG
-tags: Typing, Colemak-DH, Colmak Club
+tags: Typing, Colemak-DH, Colmak Club, Bunya-DTM, Monkeytpe
 ---
 
 Test results
 ============
 
+2023-12-22
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+|  85 | HUN  | 10 min |        99.05 | 16.56 |
+|  85 | HUN  | group1 |       100.00 | 16.88 |
+
+- group1
+
+dolga ezúttal ezúttal ezúttal híres ezúttal dolog gazdag dolga dolga
+ugye ezúttal gazdag gazdag ezúttal dolog ugye ugye nyugati dolog
+nyugati ugye ezúttal híres nyugati híres ezúttal dolga ezúttal híres
+nyugati nyugati híres híres ugye
+
+2023-12-21
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+|  85 | ENG  | 10 min |        99.41 | 16.68 |
+|  85 | ENG  | group1 |       100.00 | 17.03 |
+
+- group1
+
+journey countryside journey journey countryside educational
+countryside technological educational journey countryside countryside
+ridiculous countryside technological technological journey journey
+technological technological technological journey technological
+technological technological
+
+
+2023-12-20
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+|  80 | ENG  | 10 min |        99.38 | 15.88 |
+|  80 | ENG  | group1 |        99.58 | 15.90 |
+|  80 | ENG  | group1 |        98.76 | 14.84 |
+|  80 | ENG  | group1 |        99.17 | 15.96 |
+|  80 | ENG  | group1 |       100.00 | 16.09 |
+|  80 | HUN  | 10 min |        99.50 | 15.80 |
+|  80 | HUN  | group2 |       100.00 | 15.86 |
+
+
+- group2
+
+hírt helyszínen helyszínen gondolja ugyanúgy hírt gondolja gondolja
+hírt ugyanúgy ugyanúgy helyszínen helyszínen hírt helyszínen
+helyszínen helyszínen ugyanúgy gondolja gondolja
+
+- group1
+
+colleague colleague dollar dollar colleague dollar colleague
+colleague solidarity solidarity solidarity colleague dangerous dollar
+accordingly dollar dollar dangerous dangerous solidarity solidarity
+accordingly dangerous accordingly dollar
 
 2023-12-19
 ----------
@@ -1432,4 +1490,3 @@ Colemak DOX
 |       |     |        99.05 | 13.03 |
 |       |     |       100.00 | 12.90 |
 |       |     |        99.69 | 14.01 |
-
