@@ -9,6 +9,48 @@ tags: Typing, Colemak-DH, Colmak Club, Bunya-DTM, Monkeytpe
 Test results
 ============
 
+2023-12-26
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 100 | HUN  | 10 min |       99.59  | 19.62 |
+| 100 | HUN  | group1 |      100.00  | 20.17 |
+
+- group1
+
+tudod híres oldalon tízezer tudod híres oldalon tudod tudod tudod
+tízezer tízezer tízezer tízezer tudod híres oldalon tudod tízezer
+híres
+
+2023-12-23
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 100 | ENG  | 10 min |       99.90  | 19.54 |
+| 100 | ENG  | group1 |      100.00  | 20.68 |
+
+- group1
+
+joy joy joy joy joy
+
+2023-12-22
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+|  95 | ENG  | 10 min |        99.68 | 18.52 |
+|  95 | ENG  | group0 |       100.00 | 19.13 |
+|  95 | HUN  | 10 min |        99.36 | 18.54 |
+|  95 | HUN  | group1 |       100.00 | 19.05 |
+
+- group1
+
+tudod tudod tudod tudod tudod tudod túli segíteni tudod helyszínen
+segíteni helyszínen tudod helyszínen helyszínen július tudod segíteni
+túli július július helyszínen túli tudod tudod
+
 2023-12-22
 ----------
 
@@ -16,6 +58,37 @@ Test results
 |-----+------+--------+--------------+-------|
 |  85 | HUN  | 10 min |        99.05 | 16.56 |
 |  85 | HUN  | group1 |       100.00 | 16.88 |
+|  90 | ENG  | 10 min |        98.98 | 17.36 |
+|  90 | ENG  | group2 |       100.00 | 17.97 |
+|  90 | ENG  | 10 min |        99.10 | 17.60 |
+|  90 | ENG  | group3 |       100.00 | 17.97 |
+|  90 | HUN  | 10 min |        99.44 | 17.54 |
+|  90 | HUN  | group4 |        98.86 | 17.68 |
+|  90 | HUN  | group4 |       100.00 | 18.02 |
+
+- group4
+
+tulajdonos augusztus helyszínen tulajdonosa augusztus tulajdonosa
+tulajdonos tulajdonosa tulajdonosa helyszínen tízezer tízezer
+augusztus tulajdonosa helyszínen augusztus tulajdonos helyszínen
+augusztus tízezer tízezer tulajdonosa tulajdonos tulajdonos tízezer
+
+- group3
+
+totally delegation lazy regulatory lazy countryside delegation
+regulatory lazy holiday regulatory lazy layout delegation totally
+drought layout delegation totally layout layout regulatory regulatory
+holiday totally drought countryside lazy delegation regulatory
+delegation holiday layout delegation regulatory holiday delegation
+totally layout layout
+
+- group2
+
+junction gold landlord dangerous hydrogen custody dangerous junction
+custody custody solidarity dangerous dangerous solidarity custody
+landlord dangerous junction junction landlord dangerous dangerous joy
+solidarity junction junction joy landlord junction landlord gold gold
+landlord gold joy landlord junction joy joy landlord
 
 - group1
 
