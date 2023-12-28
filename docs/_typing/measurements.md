@@ -9,13 +9,156 @@ tags: Typing, Colemak-DH, Colmak Club, Bunya-DTM, Monkeytpe
 Test results
 ============
 
-2023-12-26
+2023-12-28
 ----------
 
 | BPM | Lang | Type   | Accuracy (%) |   WPM |
 |-----+------+--------+--------------+-------|
-| 100 | HUN  | 10 min |       99.59  | 19.62 |
-| 100 | HUN  | group1 |      100.00  | 20.17 |
+| 110 | HUN  | 10 min |        99.35 | 21.30 |
+| 110 | HUN  | group1 |       100.00 | 22.22 |
+| 110 | ENG  | 10 min |        99.36 | 21.60 |
+| 110 | ENG  | group2 |        98.21 | 21.26 |
+| 110 | ENG  | group2 |        98.80 | 21.37 |
+| 110 | ENG  | group2 |       100.00 | 21.94 |
+| 115 | ENG  | 10 min |        99.38 | 22.52 |
+| 115 | ENG  | group3 |        98.52 | 22.25 |
+| 115 | ENG  | group3 |        99.40 | 22.85 |
+| 115 | ENG  | group3 |       100.00 | 22.98 |
+| 115 | HUN  | 10 min |        99.65 | 22.64 |
+| 115 | HUN  | group4 |        98.62 | 22.33 |
+| 115 | HUN  | group4 |        96.64 | 21.20 |
+| 115 | HUN  | group4 |       100.00 | 22.83 |
+| 120 | ENG  | 10 min |       100.00 | 23.70 |
+
+- group4
+
+nyújt nyújt gyenge nyújt gyenge gondolta eddig nyújt eddig gyenge
+gondolta gondolta eddig nyújt gondolta gondolta nyújt gondolta eddig
+gondolta
+
+- group3
+
+surrounding gorgeous congratulate surrounding hazard encouraging
+hazard congratulate surrounding enjoy congratulate gorgeous hazard
+encouraging enjoy congratulate drought gorgeous enjoy congratulate
+enjoy congratulate congratulate hazard drought surrounding hazard
+hazard surrounding hazard encouraging encouraging enjoy enjoy hazard
+
+- group2
+
+  loyalty drought should loyalty junction junction recognize loyalty
+  drought recognize drought solidarity junction junction calculation
+  recognize loyalty calculation recognize junction solidarity drought
+  loyalty calculation solidarity junction solidarity recognize
+  calculation recognize should loyalty recognize solidarity junction
+
+- group1
+
+  joggal indul szigorú dolgozott dolgozott joggal szigorú szigorú
+  szigorú indul színes joggal szigorú színes dolgozott színes
+  dolgozott szigorú indul dolgozott indul indul szigorú dolgozott
+  szigorú
+
+2023-12-27
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 105 | ENG  | 10 min   |        98.83 | 20.26 |
+| 105 | ENG  | group1-2 |        99.30 | 20.78 |
+| 105 | ENG  | group1   |       100.00 | 21.14 |
+| 105 | ENG  | group2   |        99.53 | 20.84 |
+| 105 | ENG  | group2   |        99.07 | 20.91 |
+| 105 | ENG  | group2   |       100.00 | 21.23 |
+| 105 | ENG  | 10 min   |        99.51 | 20.14 |
+| 105 | ENG  | group3   |       100.00 | 21.05 |
+| 105 | HUN  | 10 min   |        99.14 | 20.46 |
+| 105 | HUN  | group4-5 |        99.39 | 20.87 |
+| 105 | HUN  | group4   |        99.38 | 20.72 |
+| 105 | HUN  | group4   |        99.39 | 20.99 |
+| 105 | HUN  | group4   |        99.39 | 20.89 |
+| 105 | HUN  | group4   |       100.00 | 21.27 |
+| 105 | HUN  | group5   |       100.00 | 20.85 |
+| 110 | ENG  | 10 min   |        99.36 | 21.56 |
+| 110 | ENG  | group6   |        98.95 | 21.55 |
+| 110 | ENG  | group6   |       100.00 | 21.93 |
+| 110 | HUN  | 10 min   |        99.17 | 21.62 |
+
+- group6
+
+  loyalty gallon gallon drought gallon closely gallon lazy closely
+  educational loyalty drought loyalty closely lazy drought gallon
+  gallon technology technology technology lazy loyalty technology
+  technology technology gallon gallon drought lazy loyalty gallon
+  loyalty gallon educational
+
+- group4
+
+tudod tudod jelenleg eredetileg eredetileg eredetileg indult nyugati
+jelenleg jelenleg tudod nyújtott eredetileg nyílt nyílt nyílt indult
+eredetileg nyújtott nyílt
+
+- group5
+
+nyugati eredetileg indult nyugati nyílt eredetileg nyílt jelenleg
+segíteni indult segíteni indult tudod segíteni indult nyugati segíteni
+nyugati segíteni jelenleg
+
+- group3
+
+organized analogy organizational household organizational originally
+organizational analogy originally household organizational originally
+organized originally analogy household analogy organized
+organizational organized analogy analogy originally household
+organized
+
+- group1
+
+closely logical educational loyalty technology educational logical
+educational ironically educational educational technology logical
+technology holiday educational technology should logical educational
+loyalty
+
+- group2
+
+ironically holiday closely closely logical technology loyalty should
+holiday closely should technology educational technology logical
+holiday ironically holiday holiday ironically ironically holiday
+closely holiday
+
+2023-12-26
+----------
+
+| BPM | Lang | Type         | Accuracy (%) |   WPM |
+|-----+------+--------------+--------------+-------|
+| 100 | HUN  | 10 min       |        99.59 | 19.62 |
+| 100 | HUN  | group1       |       100.00 | 20.17 |
+| 105 | ENG  | 10 min       |        98.18 | 19.40 |
+| 105 | ENG  | group2, 3, 4 |        97.75 | 17.08 |
+| 105 | ENG  | group2       |       100.00 | 21.97 |
+| 105 | ENG  | group3       |        99.15 | 21.94 |
+| 105 | ENG  | group3       |       100.00 | 21.21 |
+| 105 | ENG  | group4       |       100.00 | 21.03 |
+
+- group2
+
+should additional logical ideology junior indigenous jail additional
+logical ironically legislation ironically logical ironically ideology
+should logical legislation logical jail logical jail catalogue logical
+
+- group3
+
+legislation jail catalogue jail surrounding catalogue jail surrounding
+ironically jury indigenous catalogue additional indigenous jail
+legislation ideology alongside junior totally legislation jury junior
+indigenous household logical
+
+- group4
+
+logical logical jail logical logical alongside logical alongside
+junior surrounding junior jury should legislation indigenous totally
+logical alongside indigenous jury indigenous surrounding logical jury
+jail household
 
 - group1
 
