@@ -9,6 +9,115 @@ tags: Typing, Colemak-DH, Colmak Club, Bunya-DTM, Monkeytpe
 Test results
 ============
 
+2023-12-30
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 130 | ENG  | 10 min   |        99.61 | 25.44 |
+| 130 | ENG  | group1   |        99.57 | 25.90 |
+| 130 | ENG  | group1   |          100 | 26.14 |
+| 130 | HUN  | 10 min   |        99.22 | 25.30 |
+| 130 | HUN  | group2   |       100.00 | 26.00 |
+| 135 | ENG  | 10 min   |        99.62 | 26.30 |
+| 135 | ENG  | group2   |       100.00 | 27.20 |
+| 135 | HUN  | 10 min   |        98.32 | 25.74 |
+| 135 | HUN  | group3-5 |      99.1414 | 26.00 |
+| 135 | HUN  | group3   |        99.02 | 25.66 |
+| 135 | HUN  | group3   |        97.12 | 24.93 |
+| 135 | HUN  | group3   |        99.51 | 26.30 |
+| 135 | HUN  | group3   |        99.51 | 26.26 |
+| 135 | HUN  | group3   |        99.51 | 26.55 |
+| 135 | HUN  | group3   |       100.00 | 26.93 |
+| 135 | HUN  | group4   |        97.92 | 25.60 |
+| 135 | HUN  | group4   |        99.47 | 26.35 |
+| 135 | HUN  | group4   |        97.41 | 25.66 |
+| 135 | HUN  | group4   |        98.95 | 26.58 |
+| 135 | HUN  | group4   |        99.46 | 26.91 |
+| 135 | HUN  | group4   |       100.00 | 26.87 |
+| 135 | HUN  | group5   |        99.47 | 26.58 |
+| 135 | HUN  | group5   |       100.00 | 27.05 |
+
+- group3
+
+ugyanúgy addig díjat tízezer díjat úgy tudod színes színes díjat díjat
+egyedi oldal ugyanolyan híd helyszínen színes díjat tudod ugyanolyan
+ugyanolyan híd addig színes úgy ugyan helyszínen tízezer tudod
+
+- group4
+
+ugyanolyan díjat helyszínen oldal ugyan ugyanúgy helyszínen ugyanúgy
+helyszínen ugyan úgy tudod ugyanaz augusztus tízezer ugyanis híd
+egyedi híd ugyanis ugyanis ugyanis oldal tízezer ugyan
+
+- group5
+
+ugyanolyan ugyanis ugyan ugyan ugyan ugyanis egyedi egyedi színes
+színes tudod tudod tízezer ugyanolyan ugyanolyan ugyanúgy addig híd
+díjat tízezer színes díjat tudod ugyan ugyanis tudod
+
+- group1
+
+ridiculous countryside outstanding ridiculous encouraging countryside
+countryside ridiculous countryside encouraging encouraging ridiculous
+countryside encouraging countryside ridiculous ridiculous countryside
+ridiculous ridiculous
+
+2023-12-29
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 100 | HUN  | 10 min   |        99.50 | 20.06 |
+| 100 | HUN  | group1   |       100.00 | 20.21 |
+| 120 | HUN  | 10 min   |        98.81 | 23.16 |
+| 120 | HUN  | group2-3 |        99.32 | 23.22 |
+| 120 | HUN  | group2   |       100.00 | 23.75 |
+| 120 | HUN  | group3   |       100.00 | 23.88 |
+| 120 | HUN  | 10 min   |        99.49 | 23.46 |
+| 120 | HUN  | group4   |        97.30 | 21.72 |
+| 120 | HUN  | group4   |       100.00 | 23.36 |
+| 125 | ENG  | 10 min   |        99.92 | 24.64 |
+| 125 | ENG  | group5   |       100.00 | 25.52 |
+| 125 | HUN  | 10 min   |        99.43 | 24.36 |
+| 125 | HUN  | group6   |       100.00 | 24.79 |
+
+
+- group6
+
+ideiglenes súlyos oldal ezúttal súlyos egyúttal tulajdonos ezúttal
+ideiglenes egyúttal ideiglenes oldal ideiglenes súlyos súlyos súlyos
+tulajdonos egyúttal egyúttal egyúttal ideiglenes súlyos egyúttal
+súlyos tulajdonos súlyos tulajdonos egyúttal súlyos egyúttal
+
+- group5
+
+  dangerous dangerous dangerous dangerous dangerous
+
+- group4
+
+  tulajdonos segíteni tulajdonos súlyos egyidejűleg súlyos tulajdonos
+  segíteni súlyos segíteni híres nyílt híres nyílt segíteni nyílt
+  híres nyílt nyílt tulajdonos híres egyidejűleg tulajdonos
+  egyidejűleg segíteni súlyos nyílt egyidejűleg segíteni híres
+
+- group2
+
+túli tudod úti úti nyújtott nyújtott úti oldal helyszínen tudod úti
+indult indult segíteni nyújtott nyújtott túli úti segíteni helyszínen
+indult
+
+- group3
+
+oldal helyszínen nyújtott nyújtott tudod nyújtott nyújtott tudod
+segíteni indult úti indult nyújtott indult helyszínen indult nyújtott
+tudod nyújtott
+
+- group1
+
+tíz tíz túli túli tíz túli túli túli tíz tíz nyugati tíz tíz túli tíz
+túli oldal nyugati túli tíz
+
 2023-12-28
 ----------
 
@@ -32,8 +141,8 @@ Test results
 
 - group4
 
-ny�jt ny�jt gyenge ny�jt gyenge gondolta eddig ny�jt eddig gyenge
-gondolta gondolta eddig ny�jt gondolta gondolta ny�jt gondolta eddig
+nyújt nyújt gyenge nyújt gyenge gondolta eddig nyújt eddig gyenge
+gondolta gondolta eddig nyújt gondolta gondolta nyújt gondolta eddig
 gondolta
 
 - group3
@@ -54,10 +163,10 @@ hazard surrounding hazard encouraging encouraging enjoy enjoy hazard
 
 - group1
 
-  joggal indul szigor� dolgozott dolgozott joggal szigor� szigor�
-  szigor� indul sz�nes joggal szigor� sz�nes dolgozott sz�nes
-  dolgozott szigor� indul dolgozott indul indul szigor� dolgozott
-  szigor�
+  joggal indul szigorú dolgozott dolgozott joggal szigorú szigorú
+  szigorú indul színes joggal szigorú színes dolgozott színes
+  dolgozott szigorú indul dolgozott indul indul szigorú dolgozott
+  szigorú
 
 2023-12-27
 ----------
@@ -95,14 +204,14 @@ hazard surrounding hazard encouraging encouraging enjoy enjoy hazard
 - group4
 
 tudod tudod jelenleg eredetileg eredetileg eredetileg indult nyugati
-jelenleg jelenleg tudod ny�jtott eredetileg ny�lt ny�lt ny�lt indult
-eredetileg ny�jtott ny�lt
+jelenleg jelenleg tudod nyújtott eredetileg nyílt nyílt nyílt indult
+eredetileg nyújtott nyílt
 
 - group5
 
-nyugati eredetileg indult nyugati ny�lt eredetileg ny�lt jelenleg
-seg�teni indult seg�teni indult tudod seg�teni indult nyugati seg�teni
-nyugati seg�teni jelenleg
+nyugati eredetileg indult nyugati nyílt eredetileg nyílt jelenleg
+segíteni indult segíteni indult tudod segíteni indult nyugati segíteni
+nyugati segíteni jelenleg
 
 - group3
 
@@ -162,9 +271,9 @@ jail household
 
 - group1
 
-tudod h�res oldalon t�zezer tudod h�res oldalon tudod tudod tudod
-t�zezer t�zezer t�zezer t�zezer tudod h�res oldalon tudod t�zezer
-h�res
+tudod híres oldalon tízezer tudod híres oldalon tudod tudod tudod
+tízezer tízezer tízezer tízezer tudod híres oldalon tudod tízezer
+híres
 
 2023-12-23
 ----------
@@ -190,9 +299,9 @@ joy joy joy joy joy
 
 - group1
 
-tudod tudod tudod tudod tudod tudod t�li seg�teni tudod helysz�nen
-seg�teni helysz�nen tudod helysz�nen helysz�nen j�lius tudod seg�teni
-t�li j�lius j�lius helysz�nen t�li tudod tudod
+tudod tudod tudod tudod tudod tudod túli segíteni tudod helyszínen
+segíteni helyszínen tudod helyszínen helyszínen július tudod segíteni
+túli július július helyszínen túli tudod tudod
 
 2023-12-22
 ----------
@@ -211,10 +320,10 @@ t�li j�lius j�lius helysz�nen t�li tudod tudod
 
 - group4
 
-tulajdonos augusztus helysz�nen tulajdonosa augusztus tulajdonosa
-tulajdonos tulajdonosa tulajdonosa helysz�nen t�zezer t�zezer
-augusztus tulajdonosa helysz�nen augusztus tulajdonos helysz�nen
-augusztus t�zezer t�zezer tulajdonosa tulajdonos tulajdonos t�zezer
+tulajdonos augusztus helyszínen tulajdonosa augusztus tulajdonosa
+tulajdonos tulajdonosa tulajdonosa helyszínen tízezer tízezer
+augusztus tulajdonosa helyszínen augusztus tulajdonos helyszínen
+augusztus tízezer tízezer tulajdonosa tulajdonos tulajdonos tízezer
 
 - group3
 
@@ -235,10 +344,10 @@ landlord gold joy landlord junction joy joy landlord
 
 - group1
 
-dolga ez�ttal ez�ttal ez�ttal h�res ez�ttal dolog gazdag dolga dolga
-ugye ez�ttal gazdag gazdag ez�ttal dolog ugye ugye nyugati dolog
-nyugati ugye ez�ttal h�res nyugati h�res ez�ttal dolga ez�ttal h�res
-nyugati nyugati h�res h�res ugye
+dolga ezúttal ezúttal ezúttal híres ezúttal dolog gazdag dolga dolga
+ugye ezúttal gazdag gazdag ezúttal dolog ugye ugye nyugati dolog
+nyugati ugye ezúttal híres nyugati híres ezúttal dolga ezúttal híres
+nyugati nyugati híres híres ugye
 
 2023-12-21
 ----------
@@ -273,9 +382,9 @@ technological technological
 
 - group2
 
-h�rt helysz�nen helysz�nen gondolja ugyan�gy h�rt gondolja gondolja
-h�rt ugyan�gy ugyan�gy helysz�nen helysz�nen h�rt helysz�nen
-helysz�nen helysz�nen ugyan�gy gondolja gondolja
+hírt helyszínen helyszínen gondolja ugyanúgy hírt gondolja gondolja
+hírt ugyanúgy ugyanúgy helyszínen helyszínen hírt helyszínen
+helyszínen helyszínen ugyanúgy gondolja gondolja
 
 - group1
 
