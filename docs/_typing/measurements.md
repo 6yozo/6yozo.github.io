@@ -6,8 +6,192 @@ author: GG
 tags: Typing, Colemak-DH, Colmak Club, Bunya-DTM, Monkeytpe
 ---
 
+ENG
+
+accordingly additional adjacent adjust allegation alongside although
+analogy analyze authorize calculation catalogue childhood closely
+cloud colleague college conclude congratulate continually could
+counseling countryside crazy custody dangerous delegation delicious
+dialogue disclosure discourage dollar dozen drought ecological
+educational encouraging enjoy gallon gaze glorious glory gold gorgeous
+ground hazard holiday household hydrogen ideology illusion
+illustration indigenous injured injustice ironically jail journal
+journey joy judge judicial juice junction junior jurisdiction jury
+just landlord layout lazy legislation logical lonely loud loyalty
+occasionally organizational organized originally outstanding realize
+recognize regulation regulatory religious ridiculous roughly secondly
+seriously should solely solidarity strongly suggestion surrounding
+technological technology theology thoroughly throughout totally
+underground utilize young
+
+HUN WORDLIST:
+
+addig augusztus dolga dolgot dolgozni dolgozott dolog díj díjat eddig
+eddigi egyedi egyetlen egyidejűleg egyúttal eredetileg ezúttal gazdag
+gondolat gondolja gondolta gyenge hangsúlyozta helyszínen holland híd
+hír híres hírt ideiglenes indul indult jelenleg jelenlegi jellegű
+joggal július június legyen lengyel nyugati nyugodtan nyílt nyújt
+nyújtott oldal oldalon reggel segít segíteni szigorú színes súlyos
+tudod tulajdonos tulajdonosa tíz tízezer túl túli ugyan ugyanaz
+ugyanis ugyanolyan ugyanúgy ugye így ír írja írni írt írta úgy úgyhogy
+úgyis úti
+
 Test results
 ============
+
+2024-01-15
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 150 | ENG  | 10 min   |        99.52 | 29.00 |
+| 150 | ENG  | group1   |        99.06 | 29.89 |
+| 150 | ENG  | group1   |       100.00 | 30.00 |
+| 150 | HUN  | 10 min   |        99.18 | 28.80 |
+| 150 | HUN  | group2   |       100.00 | 29.47 |
+| 155 | ENG  | 10 min   |        99.46 | 29.58 |
+| 155 | ENG  | group3-4 |        99.10 | 29.87 |
+| 155 | ENG  | group3   |        98.84 | 29.97 |
+| 155 | ENG  | group3   |        99.42 | 30.42 |
+| 155 | ENG  | group3   |       100.00 | 30.97 |
+| 155 | ENG  | group4   |        99.37 | 29.88 |
+| 155 | ENG  | group4   |        96.95 | 27.86 |
+| 155 | ENG  | group4   |       100.00 | 31.23 |
+
+- group3
+
+  drought gold lazy legislation alongside lazy lazy childhood custody
+  alongside seriously seriously alongside custody childhood alongside
+  gold childhood custody lazy custody
+
+- group4
+
+  custody lazy alongside legislation gold alongside legislation
+  drought custody legislation custody lazy drought gold gold
+  legislation custody seriously custody
+
+- group1
+
+characterization zeroes zero ejection rajah rajah rajah rajah zest
+zero zero rajah rajah zero ejection zero ejection characterization
+rajah zero ejection zero ejection rajah zeroes ejection zero rajah
+zero rajah
+
+2024-01-14
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 145 | HUN  | 10 min   |        99.29 | 27.82 |
+| 145 | HUN  | group1-2 |        99.24 | 28.31 |
+| 145 | HUN  | group1   |        98.96 | 28.29 |
+| 145 | HUN  | group1   |        99.48 | 28.78 |
+| 145 | HUN  | group1   |        98.96 |  2833 |
+| 145 | HUN  | group1   |          100 | 29.05 |
+| 145 | HUN  | group2   |          100 | 28.80 |
+
+- group1
+
+  tulajdonosa oldalon nyújt gyenge június gyenge tudod nyújt gyenge
+  tulajdonosa ugyanis tulajdonosa ugyanis június tulajdonos
+  tulajdonosa tulajdonosa ugyanis tulajdonos ugyanis tulajdonos tudod
+
+- group2
+
+  tulajdonosa tulajdonosa június gyenge tulajdonosa tudod tulajdonosa
+  tulajdonosa oldalon addig addig tulajdonosa nyújt oldalon gyenge
+  tudod gyenge ugyanis tulajdonosa gyenge addig tulajdonosa tulajdonos
+
+2024-01-12
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 145 | ENG  | group1 |        98.83 | 28.06 |
+| 145 | ENG  | group1 |        99.22 | 28.10 |
+| 145 | ENG  | group1 |       100.00 | 28.96 |
+| 145 | ENG  | group2 |        98.05 | 27.67 |
+| 145 | ENG  | group2 |        99.60 | 28.54 |
+| 145 | ENG  | group2 |        99.60 | 28.74 |
+| 145 | ENG  | group2 |       100.00 | 29.34 |
+| 145 | ENG  | group3 |        99.10 | 28.33 |
+| 145 | ENG  | group3 |        99.10 | 28.54 |
+| 145 | ENG  | group3 |        99.55 | 28.78 |
+| 145 | ENG  | group3 |        99.10 | 28.44 |
+| 145 | ENG  | group3 |        98.22 | 28.14 |
+| 145 | ENG  | group3 |        99.55 | 28.73 |
+| 145 | ENG  | group3 |       100.00 | 29.20 |
+| 145 | ENG  | 10 min |        99.51 | 28.40 |
+| 145 | ENG  | group4 |       100.00 | 28.76 |
+
+- group4
+
+  analogy analogy solidarity solidarity juice analogy solidarity
+  religious solidarity solidarity religious solidarity analogy juice
+  solidarity outstanding outstanding juice analogy analogy young
+  religious young young solidarity juice juice solidarity outstanding
+  solidarity
+
+2024-01-11
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 145 | ENG  | 10 min   |        98.16 | 27.64 |
+| 145 | ENG  | group1-3 |        97.72 | 27.11 |
+
+- group1
+
+loyalty loyalty custody continually solidarity originally solidarity
+custody loyalty originally organized loyalty solidarity originally
+solidarity illusion enjoy injured originally catalogue loyalty could
+continually thoroughly loyalty solidarity injured
+
+- group2
+
+household organized loyalty enjoy enjoy loyalty could continually
+enjoy injured organized loyalty originally logical originally loyalty
+enjoy organized originally continually catalogue household continually
+solidarity loyalty custody loyalty injured
+
+- group3
+
+injured could enjoy custody custody logical roughly enjoy loyalty
+enjoy thoroughly could solidarity loyalty injured legislation
+legislation originally solidarity custody solidarity catalogue
+continually  originally logical
+
+2024-01-02
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 140 | HUN  | 10 min |        99.35 | 27.54 |
+| 140 | HUN  | group1 |       100.00 | 27.89 |
+
+2024-01-01
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 140 | ENG  | 10 min |        99.28 | 27.62 |
+| 140 | ENG  | group1 |        98.62 | 26.98 |
+| 140 | ENG  | group1 |       100.00 | 28.07 |
+
+2023-12-31
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 135 | HUN  | 10 min |        99.55 | 26.50 |
+| 135 | HUN  | group1 |        98.54 | 26.14 |
+| 135 | HUN  | group1 |       100.00 | 26.94 |
+
+- group1
+
+gondolja gondolja egyúttal szigorú szigorú egyúttal gondolja úti úti
+ezúttal szigorú gondolja egyúttal szigorú gondolja szigorú szigorú
+gondolja ezúttal gondolja úti egyúttal gondolja gondolja gondolja
 
 2023-12-30
 ----------
