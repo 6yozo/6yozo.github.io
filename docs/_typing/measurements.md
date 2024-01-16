@@ -39,6 +39,92 @@ ugyanis ugyanolyan ugyanúgy ugye így ír írja írni írt írta úgy úgyhogy
 Test results
 ============
 
+2024-01-16
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 155 | HUN  | 10 min   |        99.02 | 29.98 |
+| 155 | HUN  | group1-2 |        99.50 | 30.84 |
+| 155 | HUN  | group1   |        99.51 | 31.72 |
+| 155 | HUN  | group1   |       100.00 | 31.30 |
+| 155 | HUN  | group2   |        97.97 | 30.03 |
+| 155 | HUN  | group2   |        98.47 | 30.39 |
+| 155 | HUN  | group2   |       100.00 | 30.86 |
+| 160 | ENG  | 10 min   |        98.89 | 30.08 |
+| 160 | ENG  | group3-4 |        99.86 | 30.07 |
+| 160 | ENG  | group3   |       100.00 | 31.46 |
+| 160 | ENG  | group4   |        99.63 | 31.48 |
+| 160 | ENG  | group4   |        98.92 | 30.92 |
+| 160 | ENG  | group4   |        99.63 | 31.46 |
+| 160 | ENG  | group4   |       100.00 | 31.82 |
+| 160 | ENG  | 10 min   |        99.75 | 31.36 |
+| 160 | ENG  | group5   |       100.00 | 31.54 |
+| 160 | HUN  | 10 min   |        99.10 | 30.76 |
+| 160 | HUN  | group6-7 |        98.46 | 30.40 |
+| 160 | HUN  | group6   |       100.00 | 31.56 |
+| 160 | HUN  | group7   |        99.26 | 31.11 |
+| 160 | HUN  | group7   |        97.47 | 30.05 |
+| 160 | HUN  | group7   |        99.63 | 31.70 |
+| 160 | HUN  | group7   |       100.00 | 31.95 |
+| 165 | ENG  | 10 min   |        99.69 | 32.69 |
+| 165 | ENG  | group8   |        98.15 | 31.36 |
+| 165 | ENG  | group8   |       100.00 | 32.52 |
+
+- group 8
+
+ironically ironically solidarity authorize authorize authorize
+ironically ironically delicious authorize ironically solidarity
+authorize ironically ironically delicious delicious authorize
+solidarity ironically
+
+- group 7
+
+tulajdonosa oldalon úgyis nyugati ugyanis joggal oldal ugyanis ezúttal
+gyenge ugyanis dolgot indult indult nyugati nyugati tulajdonosa
+tulajdonosa dolgot tulajdonos joggal dolgot dolgot ugyanis úgyis
+tulajdonosa oldal tíz úgyis oldal nyugati joggal úgyis oldalon indult
+
+- group 6
+
+tulajdonosa dolgot ugyanis tíz oldalon tulajdonosa tulajdonos oldal
+tulajdonosa oldalon úgyis tíz oldal tulajdonosa tulajdonosa gyenge
+gyenge gyenge dolgot indult tíz gyenge gyenge úgyis oldalon
+tulajdonosa indult tulajdonos joggal oldalon
+
+- group 5
+
+religious legislation legislation counseling religious educational
+educational religious legislation educational legislation educational
+religious educational educational legislation legislation counseling
+educational legislation
+
+- group 3
+
+religious hydrogen underground drought drought dozen lonely religious
+religious underground ridiculous colleague lonely drought drought
+drought drought drought ridiculous secondly drought hydrogen
+underground dozen religious drought underground secondly secondly
+
+- group 4
+
+ridiculous dozen drought ridiculous although dozen drought religious
+lonely although drought congratulate secondly underground secondly
+dozen although colleague ridiculous ridiculous congratulate although
+secondly colleague dozen lonely dozen dozen drought drought drought
+
+- group 1
+
+egyetlen oldal gondolta gondolta gondolta oldal dolog dolog egyetlen
+indult egyetlen ugyanúgy gondolta gondolta lengyel gondolta egyetlen
+egyetlen oldal egyetlen dolog oldal ugyanúgy dolog indult gondolta
+
+- group 2
+
+egyetlen oldal lengyel dolog oldal lengyel egyetlen ugyanúgy
+hangsúlyozta egyetlen oldal egyetlen egyetlen ugyanúgy indult indult
+lengyel egyetlen egyetlen gondolta túl egyetlen egyetlen indult
+
 2024-01-15
 ----------
 
@@ -56,7 +142,7 @@ Test results
 | 155 | ENG  | group3   |       100.00 | 30.97 |
 | 155 | ENG  | group4   |        99.37 | 29.88 |
 | 155 | ENG  | group4   |        96.95 | 27.86 |
-| 155 | ENG  | group4   |       100.00 | 31.23 |
+| 155 | ENG  | group4   |       100.00 | 31.23 |
 
 - group3
 
