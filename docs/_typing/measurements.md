@@ -39,6 +39,136 @@ ugyanis ugyanolyan ugyanúgy ugye így ír írja írni írt írta úgy úgyhogy
 Test results
 ============
 
+2024-01-19
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 175 | HUN  | 10 min   |        99.41 | 33.82 |
+| 175 | HUN  | group1-2 |        99.65 | 34.46 |
+| 175 | HUN  | group1   |        99.32 | 34.06 |
+| 175 | HUN  | group1   |        98.03 | 32.73 |
+| 175 | HUN  | group1   |        98.67 | 34.23 |
+| 175 | HUN  | group1   |        99.32 | 32.66 |
+| 175 | HUN  | group1   |        99.32 | 33.33 |
+| 175 | HUN  | group1   |       100.00 | 34.02 |
+| 175 | HUN  | group2   |        99.27 | 33.77 |
+| 175 | HUN  | group2   |       100.00 | 33.90 |
+| 180 | ENG  | 10 min   |        99.66 | 35.04 |
+| 180 | ENG  | group3   |        98.94 | 34.21 |
+| 180 | ENG  | group3   |        99.64 | 34.96 |
+| 180 | ENG  | group3   |        98.58 | 33.75 |
+| 180 | ENG  | group3   |        99.64 | 35.41 |
+| 180 | ENG  | group3   |        99.29 | 35.91 |
+| 180 | ENG  | group3   |       100.00 | 35.65 |
+
+-group3
+
+continually cloud alongside cloud cloud organizational analogy
+continually analyze organizational organizational analogy cloud
+analyze alongside organizational cloud analogy alongside analyze
+analogy analyze cloud cloud continually cloud alongside analogy
+analogy organizational
+
+- group 2
+
+ezúttal jellegű így segíteni ezúttal ezúttal ezúttal nyugati így
+jellegű dolga jelenleg így ezúttal így ezúttal jelenleg nyugati
+ezúttal
+
+- group 1
+
+nyugati segíteni dolga dolga segíteni dolga ezúttal jelenleg ezúttal
+nyugati nyugati így nyugati díj így így díj nyugati ezúttal segíteni
+segíteni
+
+2024-01-18
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 170 | HUN  | group4   |        98.99 | 32.90 |
+| 170 | HUN  | group4   |        99.49 | 33.73 |
+| 170 | HUN  | group4   |        99.00 | 32.71 |
+| 170 | HUN  | group4   |       100.00 | 33.08 |
+| 170 | HUN  | group5   |        99.49 | 32.13 |
+| 170 | HUN  | group5   |       100.00 | 34.00 |
+| 170 | ENG  | 10 min   |        99.58 | 33.22 |
+| 175 | ENG  | group1   |        97.46 | 31.96 |
+| 175 | ENG  | group1   |       100.00 | 34.31 |
+| 175 | ENG  | 10 min   |        89.94 | 33.54 |
+| 175 | ENG  | group2-4 |        98.53 | 33.22 |
+| 175 | ENG  | group2   |       100.00 | 33.75 |
+| 175 | ENG  | group3   |       100.00 | 34.14 |
+| 175 | ENG  | group4   |       100.00 | 34.58 |
+| 175 | ENG  | 10 min   |        99.18 | 33.76 |
+| 175 | ENG  | group5-6 |        99.07 | 33.33 |
+| 175 | ENG  | group5   |              |       |
+
+- group
+
+- group 4
+
+authorize secondly underground counseling continually secondly
+household adjust landlord secondly drought delegation counseling
+landlord although delegation underground household glorious delegation
+adjust continually
+
+- group 3
+
+gorgeous authorize household drought although continually adjust
+glorious journey although glorious journey although drought drought
+secondly delegation gorgeous household underground delegation adjust
+landlord landlord
+
+- group 2
+
+counseling although continually secondly gorgeous secondly drought
+journey authorize although household authorize secondly although
+adjust although continually household glorious continually delegation
+secondly landlord although
+
+2024-01-17
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 165 | HUN  | 10 min   |        99.26 | 32.34 |
+| 165 | HUN  | group1   |       100.00 | 32.35 |
+| 170 | ENG  | 10 min   |        99.21 | 32.42 |
+| 170 | ENG  | group2-3 |        99.24 | 32.97 |
+| 170 | ENG  | group2   |       100.00 | 33.70 |
+| 170 | ENG  | group3   |       100.00 | 33.93 |
+| 170 | HUN  | 10 min   |        99.27 | 32.58 |
+| 170 | HUN  | group4-5 |        98.74 | 32.35 |
+| 170 | HUN  | group4   |        98.99 | 31.63 |
+
+- group 4
+
+gondolta gondolta gondolta ezúttal ezúttal ezúttal egyedi szigorú
+dolgozni hangsúlyozta szigorú dolgozni szigorú gondolta ezúttal
+ezúttal dolgozni szigorú ugyanolyan egyedi dolgozni gondolta egyedi
+
+- group 5
+
+dolgozni jelenlegi hangsúlyozta gondolta jelenlegi díjat díjat ezúttal
+ezúttal hangsúlyozta egyedi hangsúlyozta díjat egyedi díjat ezúttal
+egyedi dolgozni ugyanolyan hangsúlyozta egyedi jelenlegi
+
+- group 3
+
+solidarity educational solidarity catalogue secondly secondly hazard
+household jurisdiction allegation jurisdiction strongly catalogue
+educational strongly solidarity solidarity solidarity secondly
+educational educational strongly catalogue household solidarity
+
+- group 2
+
+allegation solidarity hazard household solidarity jurisdiction
+solidarity educational solidarity household allegation catalogue
+hazard technology solidarity catalogue solidarity hazard household
+catalogue allegation solidarity jurisdiction household household
+
 2024-01-16
 ----------
 
