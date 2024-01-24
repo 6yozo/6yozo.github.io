@@ -39,6 +39,99 @@ ugyanis ugyanolyan ugyanúgy ugye így ír írja írni írt írta úgy úgyhogy
 Test results
 ============
 
+2024-01-23
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 185 | ENG  | 10 min   |        98.62 | 35.48 |
+| 185 | ENG  | group1-3 |       99.202 | 83.39 |
+| 185 | ENG  | group1   |        98.92 | 35.40 |
+| 185 | ENG  | group1   |       100.00 | 37.07 |
+| 185 | ENG  | group2   |       100.00 | 35.89 |
+| 185 | ENG  | group3   |        99.66 | 35.99 |
+| 185 | ENG  | group3   |       100.00 | 36.53 |
+| 185 | ENG  | 10 min   |        99.23 | 36.04 |
+| 185 | ENG  | group4-5 |        99.27 | 32.29 |
+| 185 | ENG  | group4   |        99.04 | 36.72 |
+| 185 | ENG  | group4   |        96.71 | 38.87 |
+| 185 | ENG  | group4   |        96.26 | 41.27 |
+| 185 | ENG  | group4   |        99.05 | 37.76 |
+| 185 | ENG  | group4   |       100.00 | 36.90 |
+| 185 | ENG  | group5   |       100.00 | 37.11 |
+
+- group4
+
+young recognize holiday holiday additional educational illusion
+additional holiday young young educational young additional illusion
+young young young holiday educational judicial young young young
+strongly
+
+- group5
+
+illusion lonely young young young lonely young recognize recognize
+illusion educational strongly recognize young recognize educational
+strongly young lonely lonely young lonely strongly illusion strongly
+
+- group3
+
+authorize utilize legislation although analyze legislation originally
+technology ironically legislation educational legislation recognize
+educational conclude landlord educational originally authorize
+ironically authorize although conclude technology originally
+technology originally technology
+
+- group2
+
+utilize originally custody custody journey originally junior conclude
+custody junior ironically educational journey ironically journey
+ironically analyze journey custody conclude regulatory cloud
+originally utilize ironically authorize journey custody regulatory
+ironically originally educational
+
+- group1
+
+cloud conclude analyze originally landlord cloud analyze journey
+conclude analyze ironically originally cloud originally conclude
+conclude although conclude educational technology landlord regulatory
+cloud junior technology conclude recognize authorize ironically
+educational
+
+2024-01-20
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 180 | HUN  | 10 min   |        99.03 | 34.66 |
+| 180 | HUN  | group1-3 |        98.75 | 33.40 |
+| 180 | HUN  | group1   |       100.00 | 34.89 |
+| 180 | HUN  | group2   |        97.10 | 33.41 |
+| 180 | HUN  | group2   |        98.04 | 34.17 |
+| 180 | HUN  | group2   |        99.50 | 35.14 |
+| 180 | HUN  | group2   |        99.50 | 35.29 |
+| 180 | HUN  | group2   |        98.04 | 33.70 |
+| 180 | HUN  | group2   |        99.50 | 34.23 |
+| 180 | HUN  | group2   |       100.00 | 35.22 |
+| 180 | HUN  | group3   |       100.00 | 36.67 |
+
+- group3
+
+hangsúlyozta színes hangsúlyozta segíteni gondolta gazdag színes
+gondolta gazdag tulajdonosa nyújtott jelenleg hangsúlyozta színes
+július jelenleg tulajdonosa gondolta gondolja július segíteni díj díj
+
+- group2
+
+gazdag gazdag egyedi július jelenleg gondolja díj színes díj gondolja
+gondolta gazdag gazdag nyújtott gondolta színes gondolta színes
+gondolta hangsúlyozta gondolta színes egyedi hangsúlyozta segíteni
+
+- group1
+
+segíteni helyszínen hangsúlyozta segíteni egyedi hangsúlyozta egyedi
+egyedi július helyszínen segíteni gondolta díj színes helyszínen
+gazdag segíteni
+
 2024-01-19
 ----------
 
