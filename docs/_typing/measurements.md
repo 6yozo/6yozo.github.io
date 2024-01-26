@@ -39,6 +39,86 @@ ugyanis ugyanolyan ugyanúgy ugye így ír írja írni írt írta úgy úgyhogy
 Test results
 ============
 
+2024-01-26
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 190 | ENG  | 10 min   |        99.40 | 36.56 |
+| 190 | ENG  | group1-2 |        98.90 | 36.07 |
+| 190 | ENG  | group1   |        98.60 | 35.82 |
+| 190 | ENG  | group1   |        99.07 | 35.69 |
+| 190 | ENG  | group1   |        99.53 | 36.98 |
+| 190 | ENG  | group1   |       100.00 | 36.29 |
+| 190 | ENG  | group2   |        99.57 | 37.38 |
+| 190 | ENG  | group2   |       100.00 | 37.85 |
+
+
+- group 2
+
+disclosure disclosure disclosure disclosure disclosure occasionally
+throughout occasionally occasionally juice college dialogue college
+disclosure throughout juice dialogue occasionally childhood juice
+college disclosure accordingly
+
+- group 1
+
+disclosure juice authorize authorize disclosure disclosure juice
+throughout dialogue authorize dialogue authorize juice disclosure
+college childhood authorize disclosure dialogue disclosure accordingly
+disclosure
+
+2024-01-24
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 185 | HUN  | 10 min   |        98.99 | 35.00 |
+| 185 | HUN  | group1-3 |        99.03 | 34.82 |
+| 185 | HUN  | group1   |        99.05 | 35.18 |
+| 185 | HUN  | group1   |        99.05 | 32.78 |
+| 185 | HUN  | group1   |       100.00 | 34.42 |
+| 185 | HUN  | group2   |        98.96 | 33.70 |
+| 185 | HUN  | group2   |        99.47 | 33.83 |
+| 185 | HUN  | group2   |        97.95 | 36.16 |
+| 185 | HUN  | group2   |        96.91 | 33.21 |
+| 185 | HUN  | group2   |        99.47 | 35.92 |
+| 185 | HUN  | group2   |        98.85 | 34.63 |
+| 185 | HUN  | group2   |       100.00 | 34.95 |
+| 185 | HUN  | group3   |       100.00 | 33.61 |
+| 185 | HUN  | 10 min   |        99.50 | 35.48 |
+| 185 | HUN  | group4   |        99.52 | 36.82 |
+| 185 | HUN  | group4   |        99.05 | 34.25 |
+| 185 | HUN  | group4   |        99.52 | 36.13 |
+| 185 | HUN  | group4   |        99.05 | 33.48 |
+| 185 | HUN  | group4   |       100.00 | 36.32 |
+
+- group4
+
+szigorú tudod nyílt szigorú gazdag nyílt gazdag tudod tudod nyílt
+gazdag szigorú gazdag szigorú szigorú szigorú szigorú nyílt szigorú
+gazdag tudod írta írta tudod szigorú segíteni nyílt szigorú gazdag
+szigorú
+
+- group3
+
+nyílt helyszínen helyszínen ugyanis úgyhogy gondolta június helyszínen
+helyszínen helyszínen helyszínen helyszínen úgyhogy helyszínen ugyanis
+gondolta egyidejűleg helyszínen egyidejűleg egyidejűleg helyszínen
+
+- group2
+
+gondolta egyidejűleg gondolta ugyanis helyszínen helyszínen
+tulajdonosa június egyidejűleg helyszínen tulajdonosa helyszínen
+gondolta hangsúlyozta tulajdonosa június ugyan helyszínen ugyan
+
+- group1
+
+augusztus hangsúlyozta nyílt helyszínen egyidejűleg helyszínen
+gondolta június gondolta tulajdonosa tulajdonosa gondolta tulajdonosa
+egyidejűleg helyszínen hangsúlyozta úgyhogy helyszínen ugyanis
+hangsúlyozta
+
 2024-01-23
 ----------
 
