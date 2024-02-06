@@ -6,6 +6,118 @@ author: GG
 tags: Typing, Colemak-DH, Colmak Club, Bunya-DTM, Monkeytpe
 ---
 
+Test results
+============
+
+ENG
+
+M F P W B
+X Q V K
+
+appear apple baby before between blow bottom brown camp climb common
+company compare complete differ difficult effect family famous farm
+few flow flower follow form forward from happen happy jump map moment
+multiply number off offer office opposite paper paragraph people
+perhaps poem populate possible power prepare probable problem program
+proper property public remember simple summer supply support swim
+symbol temperature warm wife window woman women
+
+HUN
+
+Ő Ö É
+Á Ó Ű
+
+böngésző délelőtt döntés döntése döntést döntését döntött egyértelmű
+egyértelműen egészséges ellenőrzés eltérő eléggé először előterjesztés
+előterjesztést előterjesztő előző fejlődés felelősség földön fölé
+fölött gyönyörű görög hétfő hétfőn intézmény lehetőség lehetősége
+lehetőséget lehetőségét lényegében lépés létező megelőző mögé mögött
+néző rendőrség rendőrségi részén részére részéről részét rögtön
+szerződés szerződést sötét térség térségben többször többség többsége
+többségi többé történelem történelmi történet története történt
+történő életében életét élén élő építési érintő értelmében
+
+2024-02-06
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+|  70 | HUN  | 10 min |        99.42 | 13.66 |
+|  70 | HUN  | group1 |       100.00 | 14.01 |
+
+
+2024-02-05
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+|  65 | HUN  | group2   |        99.50 | 12.95 |
+|  65 | HUN  | group2   |        99.00 | 12.75 |
+|  65 | HUN  | group2   |       100.00 | 12.87 |
+|  65 | HUN  | group3   |        98.09 | 12.06 |
+|  65 | HUN  | group3   |        98.55 | 12.40 |
+|  65 | HUN  | group3   |        98.55 | 11.64 |
+|  65 | HUN  | group3   |        97.14 | 12.41 |
+|  65 | HUN  | group3   |        94.88 | 12.41 |
+|  65 | HUN  | group3   |       100.00 | 12.51 |
+|  65 | HUN  | group4   |       100.00 | 12.11 |
+|  65 | HUN  | 8 min    |        99.42 | 12.62 |
+|  65 | HUN  | group1   |        98.68 | 12.88 |
+|  65 | HUN  | group1   |       100.00 | 13.16 |
+|  65 | HUN  | 10 min   |        98.73 | 12.30 |
+|  65 | HUN  | group2-3 |        97.20 | 13.16 |
+|  65 | HUN  | group2   |        99.36 | 13.45 |
+|  65 | HUN  | group2   |        98.10 | 12.17 |
+|  65 | HUN  | group2   |        98.73 | 12.57 |
+|  65 | HUN  | group2   |        98.74 | 12.89 |
+|  65 | HUN  | group2   |        98.73 | 13.16 |
+|  65 | HUN  | group2   |       100.00 | 13.02 |
+|  65 | HUN  | group3   |       100.00 | 13.06 |
+|  65 | HUN  | 10 min   |       100.00 | 12.60 |
+
+- group 3
+
+térség délelőtt délelőtt térségben térség történet egyértelmű térség
+térség történelmi értelmében történelmi egyértelmű térség térség
+térség történet térség
+
+- group 2
+
+térség térségben térségben térség egyértelmű értelmében térség
+térségben történet történet térség egyértelmű értelmében értelmében
+térség történet történet
+
+2024-02-04
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+|  65 | ENG  | 10 min   |        98.88 | 12.26 |
+|  65 | ENG  | 10 min   |        99.53 | 12.62 |
+|  65 | ENG  | group1   |       100.00 | 12.95 |
+|  65 | HUN  | 10 min   |        97.75 | 12.16 |
+|  65 | HUN  | group2-4 |        97.18 | 12.08 |
+|
+- group4
+
+  értelmében lehetősége egyértelműen lehetőségét előterjesztő létező
+  egyértelmű egyértelmű történelem egyértelmű létező előterjesztő
+  előterjesztő lehetőségét egyértelmű egyértelmű életét értelmében
+  lehetősége lehetősége
+
+- group3
+
+  lehetőséget egyértelműen előterjesztő létező életét értelmében
+  történelem életét böngésző értelmében létező történelem életében
+  létező értelmében böngésző életében életében lehetőséget életében
+  értelmében
+
+- group2
+
+  lehetősége életét életében lehetősége lehetőségét lehetőségét
+  életében lehetősége előterjesztő értelmében életét értelmében létező
+  történelem előterjesztő egyértelműen böngésző lehetősége egyértelmű
+
 ENG
 
 accordingly additional adjacent adjust allegation alongside although
@@ -36,8 +148,402 @@ tudod tulajdonos tulajdonosa tíz tízezer túl túli ugyan ugyanaz
 ugyanis ugyanolyan ugyanúgy ugye így ír írja írni írt írta úgy úgyhogy
 úgyis úti
 
-Test results
-============
+2024-02-03
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 218 | ENG  | 10 min   |        99.24 | 41.74 |
+| 218 | ENG  | group1-2 |        99.80 | 41.90 |
+| 218 | ENG  | group1   |       100.00 | 41.29 |
+| 218 | ENG  | group2   |       100.00 | 43.54 |
+| 218 | HUN  | 10 min   |        98.85 | 40.90 |
+| 218 | HUN  | group3-5 |        99.25 | 42.37 |
+| 218 | HUN  | group3   |        99.10 | 41.80 |
+| 218 | HUN  | group3   |        97.36 | 37.03 |
+| 218 | HUN  | group3   |        98.21 | 41.90 |
+| 218 | HUN  | group3   |       100.00 | 43.11 |
+| 218 | HUN  | group4   |        97.78 | 40.79 |
+| 218 | HUN  | group4   |        99.54 | 43.28 |
+| 218 | HUN  | group4   |        99.09 | 41.88 |
+| 218 | HUN  | group4   |        98.65 | 40.18 |
+| 218 | HUN  | group4   |        97.77 | 42.83 |
+| 218 | HUN  | group4   |        97.37 | 37.00 |
+| 218 | HUN  | group4   |        98.20 | 40.05 |
+| 218 | HUN  | group4   |        98.64 | 44.05 |
+| 218 | HUN  | group4   |       100.00 | 43.27 |
+| 218 | HUN  | group5   |        96.07 | 42.68 |
+| 218 | HUN  | group5   |        97.33 | 42.00 |
+| 218 | HUN  | group5   |        96.93 | 38.28 |
+| 218 | HUN  | group5   |       100.00 | 41.40 |
+| 218 | HUN  | 10 min   |        99.76 | 40.32 |
+| 218 | HUN  | group6   |        98.47 | 40.85 |
+| 218 | HUN  | group6   |        97.50 | 39.64 |
+| 218 | HUN  | group6   |        98.97 | 43.43 |
+| 218 | HUN  | group6   |        98.96 | 42.11 |
+| 218 | HUN  | group6   |        98.97 | 41.88 |
+| 218 | HUN  | group6   |       100.00 | 41.36 |
+
+- group6
+
+tudod tudod tudod jelenlegi gyenge tulajdonosa tulajdonosa tudod
+tulajdonosa tulajdonosa tulajdonosa tulajdonosa jelenlegi gyenge
+jelenlegi tudod tulajdonosa tulajdonosa tulajdonosa jelenlegi
+
+- group5
+
+ugyanaz ideiglenes ideiglenes segít ugyanúgy ideiglenes oldalon
+ideiglenes egyúttal augusztus ugyanaz nyílt június ideiglenes
+ideiglenes oldalon ideiglenes segít ezúttal ugyanaz színes ideiglenes
+ideiglenes segít színes
+
+- group4
+
+augusztus díj segít ideiglenes ideiglenes dolgozni nyílt ugyanúgy
+jelenleg segít egyúttal ideiglenes nyílt ideiglenes ezúttal augusztus
+ideiglenes jelenleg színes egyúttal oldalon színes ideiglenes
+augusztus ideiglenes
+
+- group3
+
+színes színes ezúttal ugyanúgy egyúttal ideiglenes ugyanúgy ideiglenes
+ugyanaz ideiglenes ugyanúgy egyúttal ugyanaz ideiglenes díj ideiglenes
+segít ideiglenes színes ideiglenes ugyanaz nyújtott színes ugyanúgy
+ideiglenes
+
+- group2
+
+thoroughly glorious discourage glorious glorious discourage originally
+authorize originally landlord landlord delicious authorize closely
+authorize thoroughly glorious authorize glorious originally originally
+discourage glorious delicious closely
+
+- group1
+
+glorious glorious discourage discourage authorize landlord landlord
+glorious thoroughly thoroughly landlord discourage closely countryside
+disclosure glorious closely disclosure originally disclosure glorious
+landlord authorize closely originally
+
+2024-02-02
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 210 | HUN  | 10 min   |        99.27 | 40.30 |
+| 210 | HUN  | group1-2 |        98.53 | 39.62 |
+| 210 | HUN  | group1   |        99.04 | 39.85 |
+| 210 | HUN  | group1   |        99.52 | 41.15 |
+| 210 | HUN  | group1   |        97.64 | 40.34 |
+| 210 | HUN  | group1   |        99.52 | 41.69 |
+| 210 | HUN  | group1   |       100.00 | 41.77 |
+| 210 | HUN  | group2   |        99.23 | 41.07 |
+| 210 | HUN  | group2   |        97.74 | 39.70 |
+| 210 | HUN  | group2   |        99.62 | 41.32 |
+| 210 | HUN  | group2   |        98.85 | 41.03 |
+| 210 | HUN  | group2   |       100.00 | 42.19 |
+| 215 | ENG  | 10 min   |        99.03 | 40.52 |
+| 215 | ENG  | group3-4 |        98.01 | 40.23 |
+| 215 | ENG  | group3   |       100.00 | 41.22 |
+| 215 | ENG  | group4   |       100.00 | 42.12 |
+| 215 | HUN  | 10 min   |        99.37 | 41.06 |
+| 215 | HUN  | group5-6 |        98.73 | 40.50 |
+| 215 | HUN  | group5   |        99.48 | 39.82 |
+| 215 | HUN  | group5   |        97.96 | 39.63 |
+| 215 | HUN  | group5   |        98.47 | 39.39 |
+| 215 | HUN  | group5   |        98.45 | 39.47 |
+| 215 | HUN  | group5   |        99.48 | 41.79 |
+| 215 | HUN  | group5   |        99.48 | 42.67 |
+| 215 | HUN  | group5   |        99.48 | 34.81 |
+| 215 | HUN  | group5   |       100.00 | 38.50 |
+| 215 | HUN  | group6   |        99.50 | 41.34 |
+| 215 | HUN  | group6   |       100.00 | 40.22 |
+
+- group6
+
+szigorú dolga hangsúlyozta dolga gyenge indult dolga gyenge jellegű
+hangsúlyozta hangsúlyozta hangsúlyozta hangsúlyozta indult jellegű
+dolga tulajdonos hangsúlyozta gyenge hangsúlyozta dolga jellegű
+
+- group5
+
+hangsúlyozta indult jellegű szigorú dolga hír dolga hír dolga
+helyszínen gyenge jellegű jellegű hangsúlyozta helyszínen helyszínen
+gyenge szigorú dolga jellegű hangsúlyozta dolga hangsúlyozta
+
+- group4
+
+  ecological lazy suggestion roughly roughly originally juice
+  suggestion delicious ecological originally drought roughly roughly
+  disclosure junior delicious roughly ecological drought suggestion
+  delicious juice originally roughly lazy juice originally originally
+  originally roughly adjacent lazy
+
+- group3
+
+  originally originally suggestion suggestion originally originally
+  solidarity surrounding drought originally juice surrounding lazy
+  lazy delicious roughly junior roughly roughly roughly solidarity
+  disclosure drought surrounding roughly roughly originally juice
+  solidarity solidarity roughly lazy
+
+- group2
+
+  ugyanúgy nyújtott ugyanúgy ugyanúgy ugyanúgy augusztus ugyanúgy
+  segíteni ugyanúgy indult nyújtott segít ugyanolyan ugyanolyan
+  jelenleg segít ugyanúgy segíteni segít ugyanaz augusztus ugyanúgy
+  jelenleg segít jelenleg ugyanúgy ugyanúgy nyújtott ugyanúgy legyen
+
+- group1
+
+  segít augusztus ugyanúgy ugyanaz legyen ugyanúgy segít ugyanaz
+  indult nyújtott jelenleg nyújtott ugyanúgy nyújtott indult segíteni
+  ugyanúgy augusztus ugyanúgy indult legyen ideiglenes nyújtott segít
+  ugyanúgy
+
+2024-02-01
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 200 | HUN  | 10 min   |        99.43 | 38.48 |
+| 200 | HUN  | group1-2 |        99.15 | 98.86 |
+| 200 | HUN  | group1   |        99.45 | 38.73 |
+| 200 | HUN  | group1   |        99.45 | 38.72 |
+| 200 | HUN  | group1   |       100.00 | 39.25 |
+| 200 | HUN  | group2   |       100.00 | 39.52 |
+| 205 | ENG  | 10 min   |        99.66 | 40.42 |
+| 205 | ENG  | group3   |        98.02 | 36.35 |
+| 205 | ENG  | group3   |       100.00 | 40.76 |
+| 205 | HUN  | 10 min   |        99.60 | 40.04 |
+| 205 | HUN  | group4   |       100.00 | 41.44 |
+| 210 | ENG  | 10 min   |        99.22 | 40.26 |
+| 210 | ENG  | group5-7 |        98.51 | 38.85 |
+| 210 | ENG  | group5   |        98.23 | 38.85 |
+| 210 | ENG  | group5   |        97.36 | 38.62 |
+| 210 | ENG  | group5   |       100.00 | 40.89 |
+| 210 | ENG  | group6   |        99.12 | 35.43 |
+| 210 | ENG  | group6   |        99.11 | 40.34 |
+| 210 | ENG  | group6   |        99.55 | 40.74 |
+| 210 | ENG  | group6   |       100.00 | 39.03 |
+| 210 | ENG  | group7   |        99.54 | 39.70 |
+| 210 | ENG  | group7   |        97.76 | 38.78 |
+| 210 | ENG  | group7   |        99.54 | 40.62 |
+| 210 | ENG  | group7   |        98.18 | 40.05 |
+| 210 | ENG  | group7   |        98.63 | 39.40 |
+| 210 | ENG  | group7   |       100.00 | 40.00 |
+
+- group7
+
+originally jail delicious underground alongside delicious jail
+junction alongside utilize alongside originally originally authorize
+alongside originally jail junction dialogue dialogue utilize
+countryside countryside
+
+- group6
+
+continually authorize continually underground childhood junction
+junction originally continually jail countryside junction utilize
+junction jail authorize alongside jail originally dialogue although
+jail junction delicious
+
+- group5
+
+although delicious jail childhood jail authorize secondly delicious
+countryside originally utilize junction underground secondly
+originally countryside countryside authorize junction childhood
+authorize authorize although
+
+- group4
+
+indult indult hírt indult hírt ezúttal ezúttal hírt ezúttal gyenge
+gyenge hírt ezúttal dolgozott hírt indult dolgozott dolgozott gyenge
+ezúttal indult gyenge ezúttal hírt indult
+
+- group3
+
+secondly solidarity solidarity suggestion joy ecological suggestion
+joy counseling solidarity ecological secondly joy solidarity
+suggestion suggestion ecological suggestion secondly counseling
+ecological ecological suggestion solidarity ecological solidarity joy
+ecological solidarity counseling
+
+- group2
+
+segíteni jellegű jellegű oldal színes segíteni indul színes díj
+tízezer jellegű ugye segíteni ugye tízezer díj tízezer színes színes
+úgyhogy úgyhogy oldal színes színes
+
+- group1
+
+színes oldal indul színes színes színes színes indul segíteni jellegű
+díj színes színes ugye segíteni oldal díj segíteni nyílt nyílt tízezer
+jellegű színes úgyhogy úgyhogy segíteni
+
+2024-01-31
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 200 | ENG  | 10 min   |        99.44 | 39.30 |
+| 200 | ENG  | group1-2 |        99.76 | 39.82 |
+| 200 | ENG  | group1   |       100.00 | 40.18 |
+| 200 | ENG  | group2   |       100.00 | 41.79 |
+
+- group1
+
+  outstanding originally alongside adjacent alongside crazy crazy
+  technological originally alongside disclosure alongside crazy
+  technological calculation adjacent outstanding crazy adjacent
+  adjacent outstanding
+
+- group2
+
+  calculation adjacent technological technological adjacent adjacent
+  outstanding crazy adjacent disclosure outstanding alongside
+  technological outstanding outstanding adjacent crazy originally
+  outstanding
+
+2024-01-28
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 195 | ENG  | group6   |        97.98 | 37.98 |
+| 195 | ENG  | group6   |        99.06 | 38.10 |
+| 195 | ENG  | group6   |        99.53 | 39.14 |
+| 195 | ENG  | group6   |       100.00 | 39.42 |
+| 195 | ENG  | group7   |        99.06 | 37.40 |
+| 195 | ENG  | group7   |       100.00 | 39.85 |
+| 195 | ENG  | group8   |       100.00 | 38.87 |
+| 195 | ENG  | 10 min   |        99.35 | 39.74 |
+| 195 | ENG  | group1-2 |        99.45 | 38.00 |
+| 195 | ENG  | group1   |        99.63 | 38.75 |
+| 195 | ENG  | group1   |       100.00 | 39.27 |
+| 195 | ENG  | group2   |        99.63 | 39.92 |
+| 195 | ENG  | group2   |        99.63 | 97.64 |
+| 195 | ENG  | group2   |        98.52 | 38.74 |
+| 195 | ENG  | group2   |        98.15 | 39.47 |
+| 195 | ENG  | group2   |       100.00 | 37.87 |
+| 195 | HUN  | 10 min   |        99.12 | 38.38 |
+| 195 | HUN  | group3-4 |        99.60 | 38.83 |
+| 195 | HUN  | group3   |        99.60 | 38.58 |
+| 195 | HUN  | group3   |        99.20 | 41.27 |
+| 195 | HUN  | group3   |       100.00 | 39.52 |
+| 195 | HUN  | group4   |        99.61 | 38.56 |
+| 195 | HUN  | group4   |        99.61 | 38.49 |
+| 195 | HUN  | group4   |        99.61 | 37.99 |
+| 195 | HUN  | group4   |       100.00 | 40.67 |
+
+- group4
+
+helyszínen ideiglenes dolga nyílt dolgozott tulajdonos nyílt joggal
+egyidejűleg helyszínen tulajdonos tízezer dolgozott nyílt tulajdonos
+ideiglenes nyílt dolgozott tízezer tízezer helyszínen ideiglenes
+dolgozott nyílt tízezer dolga tulajdonos helyszínen
+
+- group3
+
+oldal joggal egyidejűleg tízezer jelenleg oldal nyílt oldal helyszínen
+tulajdonos nyílt tulajdonos oldal tízezer helyszínen tulajdonos oldal
+tízezer díjat tulajdonos joggal díjat dolga oldal díjat dolgozott
+oldal nyílt díjat nyílt helyszínen tízezer
+
+- group1
+
+catalogue catalogue glory injured judicial delicious dialogue
+ecological catalogue occasionally junior ridiculous occasionally
+injured judge ecological glory judicial delicious glory educational
+catalogue injured judge judge delicious junior judge judicial judge
+dialogue
+
+- group2
+
+occasionally judge glory delicious judge delicious junior ridiculous
+catalogue glory glory ridiculous judicial junior ridiculous injured
+educational delicious ridiculous junior ecological junior ecological
+ecological junior educational catalogue ridiculous catalogue
+
+2024-01-27
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 190 | HUN  | 10 min   |        98.91 | 28.92 |
+| 190 | HUN  | group1-  |       100.00 | 37.13 |
+| 190 | HUN  | 10 min   |        99.68 | 36.86 |
+| 190 | HUN  | group2   |        99.52 | 36.94 |
+| 190 | HUN  | group2   |       100.00 | 37.90 |
+| 195 | ENG  | 10 min   |        98.94 | 36.96 |
+| 195 | ENG  | group3-5 |        98.42 | 36.31 |
+| 195 | ENG  | group3   |        98.62 | 36.94 |
+| 195 | ENG  | group3   |        99.53 | 37.92 |
+| 195 | ENG  | group3   |       100.00 | 38.58 |
+| 195 | ENG  | group4   |        98.70 | 37.80 |
+| 195 | ENG  | group4   |       100.00 | 39.40 |
+| 195 | ENG  | group5   |        98.74 | 37.83 |
+| 195 | ENG  | group5   |       100.00 | 39.37 |
+| 195 | ENG  | 10 min   |        98.68 | 37.00 |
+| 195 | ENG  | group6-8 |              |       |
+
+- group8
+
+journey encouraging encouraging adjacent journey solidarity
+encouraging adjacent counseling encouraging counseling surrounding
+encouraging adjacent encouraging encouraging disclosure counseling
+encouraging
+
+- group7
+
+journey journey counseling colleague disclosure journey colleague
+encouraging journey counseling solidarity surrounding encouraging
+counseling disclosure solidarity adjacent journey alongside adjacent
+counseling
+
+- group6
+
+adjacent surrounding counseling journey journey adjacent journey
+journey counseling surrounding solidarity encouraging encouraging
+solidarity solidarity counseling surrounding surrounding encouraging
+counseling
+
+- group5
+
+conclude occasionally solidarity ideology occasionally young ideology
+conclude conclude occasionally solidarity hazard young custody
+ideology ecological ideology ideology conclude drought solely
+occasionally ecological technological
+
+- group4
+
+young solidarity ideology solely ideology conclude ideology injustice
+solidarity drought organized solidarity ecological conclude organized
+conclude occasionally ideology organized young technological hazard
+occasionally hazard
+
+- group3
+
+conclude college drought occasionally ecological occasionally
+solidarity conclude solely organized ideology hazard occasionally
+conclude occasionally technological drought conclude hazard ideology
+solely conclude
+
+- group2
+
+  túl egyetlen túl túl gondolat gondolat jelenlegi gondolat szigorú
+  szigorú egyetlen szigorú jelenlegi gondolat egyetlen szigorú
+  gondolat egyetlen jelenlegi gondolat jelenlegi jelenlegi gondolat
+  túl gondolat
+
+- group1
+
+gyenge gyenge tíz jelenlegi segíteni augusztus díj tulajdonosa ugyanaz
+díj tulajdonosa augusztus segíteni segíteni tíz tíz gazdag írni díj
+tulajdonosa díj ugyanaz díj tulajdonosa írni írni írni írni írni
+gazdag díj segíteni írni írni tulajdonosa segíteni tulajdonosa ugyanaz
+jelenlegi írni segíteni jelenlegi segíteni segíteni ugyanaz ugyanaz
+segíteni írni írni írni
+
 
 2024-01-26
 ----------
