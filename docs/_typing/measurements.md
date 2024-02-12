@@ -37,14 +37,200 @@ szerződés szerződést sötét térség térségben többször többség több
 többségi többé történelem történelmi történet története történt
 történő életében életét élén élő építési érintő értelmében
 
+2024-02-12
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 115 | ENG  | 10 min |        99.65 | 22.74 |
+| 115 | ENG  | group1 |        99.42 | 22.86 |
+| 115 | ENG  | group1 |       100.00 | 23.11 |
+
+- group1
+
+  number from remember temperature temperature remember temperature
+  from from temperature from from remember from from temperature
+  remember remember temperature temperature
+
+2024-02-11
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 110 | ENG  | 10 min   |        99.08 | 21.54 |
+| 110 | ENG  | group1-2 |        97.91 | 21.05 |
+| 110 | ENG  | group1   |        99.38 | 21.98 |
+| 110 | ENG  | group1   |       100.00 | 22.21 |
+| 110 | ENG  | group2   |       100.00 | 21.99 |
+| 110 | HUN  | 10 min   |        99.25 | 21.20 |
+| 110 | HUN  | group3-4 |        98.82 | 21.28 |
+| 110 | HUN  | group3   |        98.14 | 20.89 |
+| 110 | HUN  | group3   |       100.00 | 21.69 |
+| 110 | HUN  | group4   |       100.00 | 21.04 |
+
+- group4
+
+  építési lehetőségét egyértelmű megelőző megelőző megelőző megelőző
+  lehetőségét építési többé építési építési lehetőségét rögtön
+  egyértelmű előző hétfőn lehetőségét többé rögtön
+
+- group3
+
+  építési hétfő rögtön egyértelmű rögtön egyértelmű előző rögtön
+  hétfőn előző többé többé egyértelmű lehetőségét rögtön többé építési
+  megelőző lehetőségét előző
+
+- group2
+
+  bottom power property swim property symbol warm between property
+  symbol swim swim bottom bottom probable symbol warm warm symbol
+  power symbol symbol climb symbol power
+
+- group1
+
+  property property bottom property property property between property
+  warm power property climb property probable probable bottom symbol
+  symbol property property
+
+2024-02-10
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 105 | ENG  | 10 min |        99.71 | 20.70 |
+| 105 | ENG  | group1 |       100.00 | 20.38 |
+| 105 | HUN  | 10 min |        99.60 | 20.06 |
+| 105 | HUN  | group1 |       100.00 | 20.15 |
+
+
+2024-02-09
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 100 | ENG  | 10 min |        99.60 | 19.76 |
+| 100 | ENG  | group1 |              |       |
+| 100 | HUN  | 10 min |        99.08 | 19.34 |
+| 100 | HUN  | group2 |       100.00 | 19.93 |
+
+- group2
+
+  néző egyértelműen eltérő egyértelműen egyértelműen intézmény
+  intézmény életében eltérő eltérő életében részét szerződés részét
+  életében előterjesztés néző egyértelműen életében életében
+  értelmében intézmény eltérő életében szerződés szerződés részét néző
+  értelmében értelmében szerződés eltérő eltérő intézmény értelmében
+  részét egyértelműen intézmény életében részét egyértelműen néző
+  részét eltérő egyértelműen
+
+2024-02-08
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+|  90 | ENG  | 10 min |        99.78 | 17.80 |
+|  90 | ENG  | group1 |       100.00 | 18.31 |
+|  90 | HUN  | 10 min |        99.25 | 15.96 |
+|  90 | HUN  | group1 |        98.74 | 17.32 |
+|  90 | HUN  | group1 |       100.00 | 17.87 |
+|  95 | ENG  | 10 min |        99.24 | 18.24 |
+|  95 | ENG  | group2 |        98.80 | 18.52 |
+|  95 | ENG  | group2 |        99.40 | 18.85 |
+|  95 | ENG  | group2 |       100.00 | 18.96 |
+|  95 | HUN  | 10 min |        99.68 | 18.60 |
+|  95 | HUN  | group3 |        98.18 | 18.65 |
+|  95 | HUN  | group3 |        99.08 | 17.53 |
+|  95 | HUN  | group3 |        99.08 | 18.81 |
+|  95 | HUN  | group3 |       100.00 | 18.79 |
+
+- group3
+
+  hétfő intézmény hétfő hétfő intézmény hétfő hétfő hétfő intézmény
+  hétfő hétfő hétfő élén intézmény intézmény
+
+- group2
+
+  forward from effect blow forward forward perhaps blow effect effect
+  blow effect forward from perhaps blow effect effect forward perhaps
+  blow forward effect blow blow
+
+- group 1
+
+  felelősség fölé mögött felelősség előterjesztő hétfő eléggé eléggé
+  fölé eléggé mögött mögött hétfő eléggé fölé fölé fölé fölé fölé
+  előterjesztő hétfő előterjesztő előterjesztő mögött mögött
+  felelősség mögött előterjesztő mögött mögött
+
+2024-02-07
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+|  80 | ENG  | 10 min |        99.88 | 15.96 |
+|  80 | ENG  | group1 |       100.00 | 16.10 |
+|  80 | HUN  | 10 min |        99.75 | 15.80 |
+|  80 | HUN  | group2 |       100.00 | 16.09 |
+|  85 | ENG  | 10 min |        99.27 | 16.28 |
+|  85 | ENG  | group3 |        99.39 | 15.65 |
+|  85 | ENG  | group3 |        98.79 | 16.31 |
+|  85 | ENG  | group3 |        99.39 | 16.01 |
+|  85 | ENG  | group3 |        99.39 | 16.82 |
+|  85 | ENG  | group3 |       100.00 | 16.52 |
+|  85 | HUN  | 10 min |        99.41 | 16.72 |
+|  85 | HUN  | group4 |        99.63 | 16.85 |
+|  85 | HUN  | group4 |        98.91 | 15.65 |
+|  85 | HUN  | group4 |       100.00 | 16.77 |
+
+- group4
+
+  egyértelműen értelmében délelőtt rendőrségi délelőtt rendőrségi
+  egészséges értelmében értelmében értelmében délelőtt rendőrségi
+  értelmében egészséges értelmében egyértelműen délelőtt egészséges
+  egészséges egyértelműen egészséges egészséges egészséges egészséges
+  rendőrségi
+
+- group3
+
+  compare compare public public paragraph blow paragraph paragraph
+  public blow paragraph paragraph compare public paragraph public
+  paragraph blow paragraph paragraph
+
+- group2
+
+  értelmében értelmében értelmében értelmében értelmében
+
 2024-02-06
 ----------
 
 | BPM | Lang | Type   | Accuracy (%) |   WPM |
 |-----+------+--------+--------------+-------|
-|  70 | HUN  | 10 min |        99.42 | 13.66 |
-|  70 | HUN  | group1 |       100.00 | 14.01 |
+|  70 | ENG  | 10 min |        99.42 | 13.66 |
+|  70 | ENG  | group1 |       100.00 | 14.01 |
+|  70 | HUN  | 10 min |        99.56 | 13.56 |
+|  70 | HUN  | group1 |        98.80 | 13.68 |
+|  70 | HUN  | group1 |       100.00 | 12.91 |
+|  75 | ENG  | 10 min |        99.06 | 14.72 |
+|  75 | ENG  | group2 |        97.98 | 14.70 |
+|  75 | ENG  | group2 |        98.98 | 14.84 |
+|  75 | ENG  | group2 |        97.98 | 14.70 |
+|  75 | ENG  | group2 |        99.49 | 15.10 |
+|  75 | ENG  | group2 |       100.00 | 15.16 |
+|  75 | HUN  | 10 min |        99.47 | 14.82 |
+|  75 | HUN  | group3 |        98.38 | 13.80 |
+|  75 | HUN  | group3 |        97.33 | 13.25 |
+|  75 | HUN  | group3 |       100.00 | 15.07 |
 
+- group2
+
+  multiply multiply between between multiply women multiply between
+  multiply multiply multiply before before few multiply multiply women
+  multiply multiply multiply before few few multiply multiply
+
+- group1
+
+  lehetősége lehetősége szerződést lehetősége lehetősége egyértelmű
+  lehetősége lehetősége lehetősége egyértelmű szerződést lehetősége
+  egyértelmű lehetősége szerződést
 
 2024-02-05
 ----------
