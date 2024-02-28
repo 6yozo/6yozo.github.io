@@ -48,6 +48,18 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 |  85 | HUN  | group2 |        99.43 | 16.17 |
 |  85 | HUN  | group2 |        98.31 | 15.94 |
 |  85 | HUN  | group2 |       100.00 | 17.16 |
+|  90 | ENG  | 8 min  |        99.72 | 18.02 |
+|  90 | ENG  | group3 |       100.00 | 18.44 |
+|  90 | HUN  | 8 min  |        99.14 | 17.37 |
+|  90 | HUN  | group4 |        98.96 | 17.28 |
+|  90 | HUN  | group4 |        99.48 | 17.76 |
+|  90 | HUN  | group4 |        96.45 | 26.82 |
+|  90 | HUN  | group4 |       100.00 | 18.36 |
+
+- group3
+
+expensive earthquake earthquake earthquake expensive expensive
+expensive earthquake earthquake expensive
 
 - group2
 
