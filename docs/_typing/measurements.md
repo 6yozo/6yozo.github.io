@@ -11,6 +11,204 @@ Test results
 
 ENG
 
+backpack blackjack bookmark bookmarks conservative conservatives
+cookbook derivative derivatives earthquake equivalent evolved evolving
+excessive exclusive exclusively executive executives expensive
+explosive exquisite extensive extensively inexpensive innovative
+invasive involve involved involvement involves involving karaoke kick
+kicked kicking kicks knives knock livestock overstock overview
+preventive quake qualitative quantitative quick quickly revival
+survival survive survived surviving survivor survivors textbook
+textbooks trackback trackbacks valve valves velvet vertex viking vivid
+
+HUN
+
+együttműködés üreg fügedarázs ürge bürök fürge bütyök kerül derült
+hülye különb fütyül leül megüt terül pördül megkergül előkerül tükör
+trükk üdül ütközik bíróság céljából egymástól hatóság időjárásról
+infláció információ vakáció variáció irányuló járó kalapáló kiváló
+kizárólag kommunikációs kalandvágyó kórház szótár látható meghatározó
+módosító hálálkodó nagyjából nyilvánvaló privatizációs rádió szolgáló
+számító számítógépes származó szempontjából szolgáltató található
+találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
+állandóan állítólag valójában valóság álló átfogó óriási óráig órás
+órát órától savanyúkáposzta kátyú
+
+2024-02-28
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+|  85 | ENG  | 8 min  |        99.56 | 16.90 |
+|  85 | ENG  | group1 |        99.33 | 16.61 |
+|  85 | ENG  | group1 |        99.33 | 16.76 |
+|  85 | ENG  | group1 |       100.00 | 17.03 |
+|  85 | HUN  | 8 min  |        99.55 | 16.50 |
+|  85 | HUN  | group2 |        98.87 | 16.56 |
+|  85 | HUN  | group2 |        99.43 | 16.17 |
+|  85 | HUN  | group2 |        98.31 | 15.94 |
+|  85 | HUN  | group2 |       100.00 | 17.16 |
+
+- group2
+
+együttműködés kalapáló kalandvágyó kalandvágyó kalapáló kalandvágyó
+együttműködés kalandvágyó kalandvágyó kalandvágyó együttműködés
+kalapáló kalandvágyó együttműködés kalapáló
+
+2024-02-27
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+|  75 | ENG  | 8 min    |        99.67 | 14.70 |
+|  75 | ENG  | group1   |       100.00 | 15.07 |
+|  75 | HUN  | 8 min    |        98.98 | 14.35 |
+|  75 | HUN  | group2   |        98.19 | 13.73 |
+|  75 | HUN  | group2   |        97.82 | 12.86 |
+|  75 | HUN  | group2   |        97.82 | 12.50 |
+|  75 | HUN  | group2   |        99.63 | 13.65 |
+|  75 | HUN  | group2   |        97.13 | 13.34 |
+|  75 | HUN  | group2   |        98.18 | 12.55 |
+|  75 | HUN  | group2   |        99.26 | 12.73 |
+|  75 | HUN  | group2   |        97.46 | 12.63 |
+|  75 | HUN  | group2   |        99.63 | 15.10 |
+|  75 | HUN  | group2   |        99.63 | 14.84 |
+|  75 | HUN  | group2   |        98.19 | 14.85 |
+|  75 | HUN  | group2   |       100.00 | 14.74 |
+|  80 | ENG  | 8 min    |        99.51 | 15.00 |
+|  80 | ENG  | group3   |        98.67 | 16.27 |
+|  80 | ENG  | group3   |       100.00 | 16.16 |
+|  80 | HUN  | 8 min    |        98.30 | 14.30 |
+|  80 | HUN  | group4-5 |        99.77 | 15.01 |
+|  80 | HUN  | group4   |        99.58 | 14.59 |
+|  80 | HUN  | group4   |        99.17 | 12.89 |
+|  80 | HUN  | group4   |        97.14 | 12.80 |
+|  80 | HUN  | group4   |        96.76 | 15.59 |
+|  80 | HUN  | group4   |       100.00 | 15.27 |
+|  80 | HUN  | group5   |        99.50 | 15.43 |
+|  80 | HUN  | group5   |        99.01 | 15.04 |
+|  80 | HUN  | group5   |        99.50 | 14.45 |
+|  80 | HUN  | group5   |       100.00 | 14.91 |
+
+- group5
+
+vállalkozó meghatározó kalandvágyó ütközik kalandvágyó vakáció
+együttműködés privatizációs kalandvágyó kalandvágyó ütközik
+privatizációs vállalkozó meghatározó privatizációs privatizációs
+vakáció fürge
+
+- group4
+
+privatizációs privatizációs privatizációs privatizációs meghatározó
+meghatározó ütközik vakáció vállalkozó vakáció meghatározó vakáció
+privatizációs vakáció kalandvágyó vakáció kalandvágyó privatizációs
+vakáció vakáció ütközik meghatározó
+
+- group3
+
+  textbooks bookmark executives executives bookmark bookmark textbooks
+  executives executives textbooks executives bookmark bookmark
+  textbooks bookmark
+
+- group2
+
+  kalandvágyó kalandvágyó várhatóan nyilvánvaló nyilvánvaló
+  nyilvánvaló várhatóan nyilvánvaló állandóan kalandvágyó nyilvánvaló
+  állandóan nyilvánvaló nyilvánvaló kalandvágyó variáció várhatóan
+  állandóan variáció állandóan variáció állandóan várhatóan variáció
+  nyilvánvaló
+
+2024-02-26
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+|  65 | ENG  | 8 min  |        99.23 | 12.80 |
+|  65 | ENG  | group1 |        99.52 | 13.02 |
+|  65 | ENG  | group1 |       100.00 | 12.84 |
+|  65 | HUN  | 8 min  |        99.00 | 12.35 |
+|  65 | HUN  | group2 |        97.05 | 11.48 |
+|  65 | HUN  | group2 |        98.71 | 11.18 |
+|  65 | HUN  | group2 |       100.00 | 12.60 |
+|  70 | ENG  | 8 min  |        99.82 | 13.82 |
+|  70 | ENG  | group3 |       100.00 | 14.52 |
+|  70 | HUN  | 8 min  |        99.63 | 13.27 |
+|  70 | HUN  | group4 |        93.85 | 10.45 |
+|  70 | HUN  | group4 |       100.00 | 14.15 |
+
+- group4
+
+  kátyú megüt megüt megüt kátyú megüt kátyú kátyú kátyú megüt
+
+- group3
+
+  quick quick quick quick quick
+
+- group2
+
+  fütyül kiváló savanyúkáposzta kiváló variáció kiváló fütyül kiváló
+  savanyúkáposzta hálálkodó variáció fütyül variáció fütyül kiváló
+  variáció savanyúkáposzta kiváló savanyúkáposzta fütyül fütyül
+  variáció hálálkodó kiváló hálálkodó
+
+- group1
+
+2024-02-25
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+|  65 | ENG  | 8 min    |        98.96 | 12.41 |
+|  65 | ENG  | group1-2 |        99.69 | 12.18 |
+|  65 | ENG  | group1   |        99.34 | 12.36 |
+|  65 | ENG  | group1   |       100.00 | 13.03 |
+|  65 | ENG  | group2   |        97.67 | 12.14 |
+|  65 | ENG  | group2   |       100.00 | 13.03 |
+|  65 | HUN  | 8 min    |        96.15 | 10.65 |
+|  65 | HUN  | group3-5 |        97.40 | 10.18 |
+|  65 | HUN  | group3   |       100.00 | 11.82 |
+|  65 | HUN  | group4   |        97.88 |  9.46 |
+|  65 | HUN  | group4   |        98.35 | 11.65 |
+|  65 | HUN  | group4   |       100.00 | 12.52 |
+|  65 | HUN  | group5   |        98.73 | 11.99 |
+|  65 | HUN  | group5   |        98.32 | 11.44 |
+|  65 | HUN  | group5   |       100.00 | 12.62 |
+
+- group5
+
+  egymástól órát származó található privatizációs egymástól
+  vállalkozók várhatóan órát privatizációs találkozó órát órát várható
+  található ütközik egymástól várható privatizációs privatizációs
+  egymástól privatizációs található egymástól
+
+- group4
+
+  található vállalkozók származó ütközik együttműködés található
+  származó vállalkozók egymástól együttműködés egymástól várhatóan
+  találkozó található együttműködés kalandvágyó privatizációs
+  vállalkozók kalandvágyó ütközik származó található
+
+- group3
+
+  származó órát találkozó található származó található egymástól
+  egymástól órát számító együttműködés privatizációs származó
+  vállalkozók származó ütközik egymástól kalandvágyó egymástól
+  várhatóan egymástól ütközik privatizációs vállalkozók
+
+- group2
+
+involve involved derivative involve quickly involved involved karaoke
+involve involve karaoke involve derivative involve karaoke involved
+equivalent equivalent involved
+
+- group1
+
+involve involve involving karaoke quickly equivalent involved
+equivalent equivalent involving involving involve equivalent
+derivative involve involved
+
+ENG
+
 M F P W B
 X Q V K
 
@@ -36,6 +234,835 @@ néző rendőrség rendőrségi részén részére részéről részét rögtön
 szerződés szerződést sötét térség térségben többször többség többsége
 többségi többé történelem történelmi történet története történt
 történő életében életét élén élő építési érintő értelmében
+
+2024-02-25
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 218 | HUN  | 10 min   |        98.43 | 39.82 |
+| 218 | HUN  | group1-3 |        97.88 | 38.63 |
+| 218 | HUN  | group1   |        99.51 | 39.77 |
+| 218 | HUN  | group1   |        97.64 | 35.31 |
+| 218 | HUN  | group1   |        98.56 | 39.04 |
+| 218 | HUN  | group1   |        98.58 | 36.64 |
+| 218 | HUN  | group1   |        99.03 | 40.47 |
+| 218 | HUN  | group1   |       100.00 | 40.20 |
+| 218 | HUN  | group2   |        98.12 | 37.29 |
+| 218 | HUN  | group2   |       100.00 | 40.48 |
+| 218 | HUN  | group3   |       100.00 | 40.66 |
+| 218 | HUN  | 10 min   |        99.48 | 42.16 |
+| 218 | HUN  | group4   |        99.30 | 40.49 |
+| 218 | HUN  | group4   |       100.00 | 41.21 |
+| 218 | HUN  | group5   |        98.69 | 41.14 |
+| 218 | HUN  | group5   |        99.35 | 42.03 |
+| 218 | HUN  | group5   |       100.00 | 43.01 |
+
+- group5
+
+  részét térségben részét térségben eltérő megelőző részéről részét
+  délelőtt lehetőségét részét részét részéről részét lehetőségét
+  részéről részét részéről
+
+- group4
+
+  részét részét részéről megelőző megelőző eltérő délelőtt részéről
+  részét lehetőségét részét részét megelőző eltérő részét lehetőségét
+  délelőtt
+
+- group3
+
+  részét történt egészséges részét földön élén földön szerződést
+  lehetőség szerződés egészséges délelőtt földön egészséges szerződést
+  szerződést élén élén lehetőség lehetőség lehetőség érintő szerződést
+  eléggé lényegében szerződést szerződést rendőrségi élén szerződést
+
+- group2
+
+  szerződést részét szerződés egyértelműen élén szerződést egészséges
+  élén egészséges rendőrségi szerződést szerződést szerződést
+  szerződést élén szerződést rendőrségi délelőtt egészséges szerződés
+  szerződés részét szerződést lényegében egészséges érintő délelőtt
+
+- group1
+
+  egészséges délelőtt egészséges élén szerződést élén élén rendőrségi
+  szerződés szerződés szerződést élén rendőrségi élén szerződést
+  földön földön szerződést egészséges szerződés szerződést szerződést
+  eléggé
+
+2024-02-24
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 215 | ENG  | group5   |        96.57 | 35.17 |
+| 215 | ENG  | group5   |        98.26 | 38.32 |
+| 215 | ENG  | group5   |        99.40 | 38.90 |
+| 215 | ENG  | group5   |       100.00 | 41.04 |
+| 215 | ENG  | group6   |        99.40 | 40.07 |
+| 215 | ENG  | group6   |        98.27 | 35.43 |
+| 215 | ENG  | group6   |        97.07 | 34.16 |
+| 215 | ENG  | group6   |       100.00 | 39.20 |
+| 215 | HUN  | 10 min   |        99.02 | 40.18 |
+| 215 | HUN  | group1-3 |        97.88 | 39.62 |
+| 215 | HUN  | group1   |        98.70 | 40.57 |
+| 215 | HUN  | group1   |        97.84 | 36.07 |
+| 215 | HUN  | group1   |        98.70 | 41.62 |
+| 215 | HUN  | group1   |        99.13 | 39.82 |
+| 215 | HUN  | group1   |        99.13 | 39.80 |
+| 215 | HUN  | group1   |        99.13 | 40.83 |
+| 215 | HUN  | group1   |        99.56 | 40.70 |
+| 215 | HUN  | group1   |       100.00 | 41.10 |
+| 215 | HUN  | group2   |       100.00 | 40.84 |
+| 215 | HUN  | group3   |       100.00 | 38.73 |
+| 218 | ENG  | 10 min   |        98.53 | 39.96 |
+| 218 | ENG  | group4-7 |        98.26 | 40.82 |
+| 218 | ENG  | group4   |       100.00 | 42.07 |
+| 218 | ENG  | group5   |       100.00 | 41.06 |
+| 218 | ENG  | group6   |        99.79 | 40.79 |
+| 218 | ENG  | group6   |        99.03 | 40.67 |
+| 218 | ENG  | group6   |        99.51 | 40.76 |
+| 218 | ENG  | group6   |        99.51 | 40.15 |
+| 218 | ENG  | group6   |        99.51 | 40.39 |
+| 218 | ENG  | group6   |        99.51 | 43.03 |
+| 218 | ENG  | group6   |        98.08 | 40.97 |
+| 218 | ENG  | group6   |        98.55 | 38.29 |
+| 218 | ENG  | group6   |       100.00 | 40.97 |
+| 218 | ENG  | group7   |        98.98 | 43.04 |
+| 218 | ENG  | group7   |       100.00 | 40.29 |
+| 218 | ENG  | 10 min   |        99.34 | 42.18 |
+| 218 | ENG  | group8-9 |        99.37 | 41.53 |
+| 218 | ENG  | group8   |       100.00 | 42.43 |
+| 218 | ENG  | group9   |       100.00 | 43.30 |
+
+- group9
+
+number swim woman blow appear blow proper proper blow office jump
+number appear appear family family jump family appear proper family
+blow office family number
+
+- group8
+
+blow family number number jump swim proper appear proper proper number
+appear jump woman baby blow proper jump blow proper proper appear
+woman woman office
+
+- group7
+
+  perhaps temperature multiply paragraph multiply multiply climb
+  multiply temperature temperature effect effect between symbol
+  probable brown paragraph perhaps off between power paragraph
+  property
+
+- group6
+
+  from power property wife symbol from from temperature symbol between
+  between symbol climb proper wife temperature few multiply climb
+  symbol from brown wife paragraph proper multiply property power
+  brown
+
+- group5
+
+  paragraph temperature number climb from property between symbol
+  paragraph few between symbol populate between paragraph probable
+  number between probable climb between off proper between between
+  power
+
+- group4
+
+  between between property probable populate populate property
+  temperature paragraph perhaps from between symbol few temperature
+  proper symbol multiply multiply temperature proper paragraph
+
+- group3
+
+előterjesztés többségi mögé többségi eltérő előterjesztő fejlődés
+érintő egyértelműen egyértelműen előterjesztő egyértelműen szerződés
+részét lépés érintő egyértelműen mögé fejlődés szerződés létező
+előterjesztés fejlődés döntés
+
+- group2
+
+szerződés részét egyértelműen lépés egyértelműen előterjesztő lépés
+többségi egyértelműen előterjesztő egyértelműen hétfő szerződés
+többségi többségi részét egyértelműen hétfő egyértelműen előterjesztés
+döntés eltérő lépés lépés érintő
+
+- group1
+
+részét fejlődés előterjesztés többségi előterjesztés eltérő
+egyértelműen fejlődés egyértelműen előterjesztő többségi lépés
+egyértelműen érintő előterjesztő előterjesztés lépés előterjesztő
+egyértelműen előterjesztő egyértelműen
+
+2024-02-23
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 205 | HUN  | group6   |        99.29 | 37.56 |
+| 205 | HUN  | group6   |       100.00 | 38.54 |
+| 205 | HUN  | group7   |        99.64 | 39.31 |
+| 205 | HUN  | group7   |       100.00 | 40.28 |
+| 210 | ENG  | 10 min   |        99.30 | 39.30 |
+| 210 | ENG  | group1-2 |        99.21 | 41.26 |
+| 210 | ENG  | group1   |        97.77 | 36.77 |
+| 210 | ENG  | group1   |       100.00 | 40.31 |
+| 210 | ENG  | group2   |       100.00 | 42.10 |
+| 210 | HUN  | 10 min   |        99.56 | 40.54 |
+| 210 | HUN  | group3   |        98.17 | 38.80 |
+| 210 | HUN  | group3   |        97.73 | 38.82 |
+| 210 | HUN  | group3   |        95.43 | 34.43 |
+| 210 | HUN  | group3   |        99.08 | 38.06 |
+| 210 | HUN  | group3   |        98.63 | 35.10 |
+| 210 | HUN  | group3   |       100.00 | 39.15 |
+| 210 | HUN  | group4   |        99.53 | 37.45 |
+| 210 | HUN  | group4   |        96.80 | 36.12 |
+| 210 | HUN  | group4   |        99.53 | 38.14 |
+| 210 | HUN  | group4   |        98.60 | 28.96 |
+| 210 | HUN  | group4   |       100.00 | 39.83 |
+| 215 | ENG  | 10 min   |        99.30 | 39.72 |
+| 215 | ENG  | group5   |        96.82 | 34.08 |
+| 215 | ENG  | group5   |        98.24 | 36.86 |
+| 215 | ENG  | group5   |        97.66 | 36.66 |
+
+- group6
+
+  number compare compare farm few symbol swim swim climb farm symbol
+  symbol public symbol climb swim window symbol swim farm swim swim
+  few number farm symbol number few
+
+- group5
+
+  swim climb symbol farm simple swim farm from public from climb climb
+  public symbol symbol swim window swim window simple simple symbol
+  public simple window climb climb
+
+- group4
+
+délelőtt lényegében megelőző ellenőrzés délelőtt eltérő egyértelműen
+megelőző intézmény délelőtt egyértelmű egyértelmű délelőtt
+egyértelműen intézmény egyértelműen egyértelműen egyértelmű
+egyértelműen lényegében
+
+- group3
+
+ellenőrzés egyértelműen egyértelműen délelőtt délelőtt lényegében
+megelőző egyértelműen lényegében lényegében ellenőrzés délelőtt
+ellenőrzés egyértelműen egyértelmű egyértelműen megelőző délelőtt
+egyértelmű megelőző
+
+- group2
+
+  bottom bottom possible brown possible between bottom prepare warm
+  between forward between between between complete bottom possible
+  forward bottom brown bottom warm prepare possible forward brown
+
+- group1
+
+  complete forward prepare complete office between bottom prepare
+  bottom symbol forward brown between possible bottom possible office
+  bottom symbol brown possible bottom possible brown
+
+2024-02-22
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 205 | ENG  | 10 min   |        99.24 | 39.06 |
+| 205 | ENG  | group1   |        99.39 | 39.52 |
+| 205 | ENG  | group1   |        98.77 | 37.18 |
+| 205 | ENG  | group1   |       100.00 | 38.19 |
+| 205 | ENG  | group2   |       100.00 | 40.03 |
+| 205 | HUN  | 10 min   |        98.89 | 37.18 |
+| 205 | HUN  | group3-5 |       100.00 | 38.49 |
+| 205 | HUN  | group4   |        96.39 | 32.91 |
+| 205 | HUN  | group4   |        98.36 | 37.48 |
+| 205 | HUN  | group4   |       100.00 | 40.19 |
+| 205 | HUN  | group5   |        98.29 | 38.32 |
+| 205 | HUN  | group5   |        99.57 | 38.41 |
+| 205 | HUN  | group5   |        99.15 | 38.52 |
+| 205 | HUN  | group5   |        99.15 | 39.34 |
+| 205 | HUN  | group5   |       100.00 | 40.45 |
+| 205 | HUN  | 10 min   |        99.32 | 37.68 |
+| 205 | HUN  | group6-7 |        98.06 | 36.83 |
+| 205 | HUN  | group6   |        99.64 | 38.07 |
+| 205 | HUN  | group6   |        99.28 | 36.32 |
+| 205 | HUN  | group6   |        99.28 | 37.37 |
+| 205 | HUN  | group6   |        99.28 | 36.20 |
+| 205 | HUN  | group6   |        98.58 | 37.13 |
+| 205 | HUN  | group6   |        97.89 | 38.05 |
+| 205 | HUN  | group6   |        94.56 | 39.19 |
+
+- group7
+
+  előterjesztést böngésző lehetőségét érintő eléggé rendőrség
+  rendőrség lépés mögé lépés lépés rendőrség lépés döntés böngésző
+  eléggé érintő böngésző lehetőséget lépés lépés lépés rendőrség
+  előterjesztést rendőrség eléggé mögé rendőrség előterjesztő lépés
+  lehetőséget lehetőséget
+
+- group6
+
+  rendőrség lehetőséget döntés lépés böngésző rendőrség eléggé
+  előterjesztő lépés lépés előterjesztést eléggé mögé előterjesztő
+  lépés előterjesztést döntés előterjesztő előterjesztést előterjesztő
+  lépés lehetőséget döntés lehetőségét lehetőségét böngésző
+  előterjesztő lehetőségét
+
+
+- group5
+
+  történet történelmi rendőrség hétfő történet gyönyörű döntést
+  döntött előterjesztés döntést többsége hétfőn döntést döntést
+  előterjesztés döntést hétfőn előterjesztés hétfő lehetőséget
+  történelem hétfő előterjesztés döntést gyönyörű
+
+- group4
+
+  döntést rendőrség hétfő döntött hétfőn hétfőn előterjesztés
+  történet előterjesztés többször történelem hétfőn többször döntött
+  rendőrség hétfőn előterjesztés előterjesztés történet döntött hétfő
+  többsége lehetőséget előterjesztés rendőrség
+
+- group3
+
+  döntést előterjesztés előterjesztés előterjesztés rendőrség fejlődés
+  gyönyörű rendőrség hétfőn fejlődés előterjesztés történelmi
+  történelmi hétfő döntött döntött hétfőn egyértelműen történelem
+  fejlődés többsége hétfőn előterjesztés lehetőséget rendőrség
+
+- group2
+
+  simple woman wife bottom wife before bottom common proper multiply
+  proper multiply bottom woman window bottom common number window
+  number common bottom number number bottom
+
+- group1
+
+  multiply before wife common simple wife number multiply window wife
+  common common wife wife number wife number number number wife wife
+  before before woman number
+
+2024-02-21
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 195 | ENG  | 10 min   |        99.48 | 37.92 |
+| 195 | ENG  | group1   |       100.00 | 39.16 |
+| 195 | HUN  | 10 min   |        98.93 | 36.60 |
+| 195 | HUN  | group2-4 |        98.52 | 35.82 |
+| 195 | HUN  | group2   |        98.29 | 34.99 |
+| 195 | HUN  | group2   |       100.00 | 37.19 |
+| 195 | HUN  | group3   |        98.26 | 35.37 |
+| 195 | HUN  | group3   |        99.56 | 38.79 |
+| 195 | HUN  | group3   |        97.84 | 36.53 |
+| 195 | HUN  | group3   |        98.69 | 37.37 |
+| 195 | HUN  | group3   |       100.00 | 37.08 |
+| 195 | HUN  | group4   |       100.00 | 36.79 |
+| 195 | HUN  | 10 min   |        99.30 | 36.64 |
+| 195 | HUN  | group5-6 |        98.28 | 35.29 |
+| 195 | HUN  | group5   |        99.22 | 33.48 |
+| 195 | HUN  | group5   |        98.73 | 35.73 |
+| 195 | HUN  | group5   |        98.83 | 35.59 |
+| 195 | HUN  | group5   |       100.00 | 35.74 |
+| 195 | HUN  | group6   |       100.00 | 36.43 |
+| 200 | ENG  | 10 min   |        99.40 | 37.42 |
+| 200 | ENG  | group7   |       100.00 | 39.68 |
+| 200 | HUN  | 10 min   |        99.11 | 37.52 |
+| 200 | HUN  | group8-9 |        98.23 | 36.16 |
+| 200 | HUN  | group8   |       100.00 | 38.15 |
+| 200 | HUN  | group9   |        98.88 | 38.20 |
+| 200 | HUN  | group9   |        97.43 | 34.80 |
+| 200 | HUN  | group9   |       100.00 | 37.14 |
+
+- group9
+
+egészséges felelősség felelősség egészséges egészséges lehetőség
+földön felelősség megelőző döntést egészséges döntést döntést döntést
+néző néző néző lehetőség többször döntést döntést előterjesztő építési
+egészséges előterjesztő építési többször megelőző többször
+
+- group8
+
+előterjesztő egészséges többször lehetőség többször néző földön
+előterjesztő előterjesztő egészséges néző építési lehetőség lehetőség
+földön döntést földön földön előterjesztő földön földön építési
+döntést egészséges döntést megelőző
+
+- group7
+
+  appear swim moment moment office office office office moment swim
+  swim swim power appear moment power appear swim moment moment power
+  office swim off appear moment appear off off office power off moment
+  office moment
+
+- group6
+
+  döntése létező előterjesztő megelőző történelmi előterjesztő
+  megelőző fölé létező történelmi létező megelőző történelmi fejlődés
+  megelőző fejlődés szerződés előterjesztő megelőző létező fölé
+  részére előterjesztő szerződés létező történelmi előterjesztő létező
+
+- group5
+
+  fölé létező ellenőrzés döntése ellenőrzés szerződés szerződés
+  történelmi történelmi ellenőrzés döntése történelmi fejlődés döntést
+  történelmi részére létező részére fölé ellenőrzés részére
+  előterjesztő előterjesztő fejlődés szerződés részére ellenőrzés
+
+- group4
+
+  érintő délelőtt létező többsége hétfőn többsége megelőző többsége
+  érintő lehetőséget böngésző hétfőn érintő létező lehetőséget
+  böngésző hétfőn többsége lehetőséget hétfőn böngésző egyértelmű
+  létező egészséges
+
+- group3
+
+  többsége döntését egészséges érintő többsége délelőtt hétfőn
+  lehetőséget egyértelmű döntését hétfőn egészséges hétfőn többsége
+  megelőző egészséges többsége böngésző egészséges előző érintő
+  megelőző történelem előző lehetőséget
+
+- group2
+
+  érintő egészséges érintő lehetőséget döntését érintő többsége
+  lehetőséget megelőző hétfőn böngésző egyértelmű többsége érintő
+  lehetőséget hétfőn történelem egészséges hétfőn létező megelőző
+  hétfőn létező többsége létező megelőző
+
+2024-02-20
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 185 | ENG  | 10 min   |        99.67 | 35.82 |
+| 185 | ENG  | group1   |        98.60 | 36.23 |
+| 185 | ENG  | group1   |       100.00 | 37.09 |
+| 185 | HUN  | 10 min   |        99.32 | 34.52 |
+| 185 | HUN  | group2-3 |        97.88 | 33.03 |
+| 185 | HUN  | group2   |        98.67 | 34.84 |
+| 185 | HUN  | group2   |        98.67 | 35.31 |
+| 185 | HUN  | group2   |        99.10 | 34.52 |
+| 185 | HUN  | group2   |        98.67 | 34.45 |
+| 185 | HUN  | group2   |        99.10 | 35.18 |
+| 185 | HUN  | group2   |        94.35 | 36.47 |
+| 185 | HUN  | group2   |        99.11 | 34.65 |
+| 185 | HUN  | group2   |       100.00 | 34.95 |
+| 185 | HUN  | group3   |        99.55 | 35.19 |
+| 185 | HUN  | group3   |       100.00 | 35.73 |
+| 190 | ENG  | 10 min   |        99.62 | 36.74 |
+| 190 | ENG  | group4   |        99.46 | 37.27 |
+| 190 | ENG  | group4   |        99.46 | 36.87 |
+| 190 | ENG  | group4   |       100.00 | 37.44 |
+| 190 | HUN  | 10 min   |        99.34 | 35.76 |
+| 190 | HUN  | group5-6 |        98.58 | 35.49 |
+| 190 | HUN  | group5   |        98.09 | 36.21 |
+| 190 | HUN  | group5   |        98.72 | 34.94 |
+| 190 | HUN  | group5   |       100.00 | 35.90 |
+| 190 | HUN  | group6   |       100.00 | 35.10 |
+
+- group6
+
+történő lényegében hétfőn hétfőn történő sötét sötét történő hétfőn
+egyértelműen hétfőn sötét történő élő egyértelműen egyértelműen
+történő egyértelműen térség térség lényegében hétfőn hétfőn
+
+- group5
+
+előterjesztés élő lényegében egyértelműen hétfőn sötét hétfőn hétfőn
+egyértelműen térség térség egyértelműen lényegében előterjesztés
+térség hétfőn hétfőn
+
+- group4
+
+  few happen paragraph farm farm happen climb happen few happen few
+  few happen family family happen climb family climb happen farm climb
+  happen happen farm few few paragraph climb happen
+
+- group3
+
+  története életét többször érintő többször értelmében értelmében
+  többször lépés értelmében szerződést előterjesztést délelőtt
+  szerződést előterjesztést története érintő délelőtt délelőtt érintő
+  életét életét előterjesztést életét értelmében
+
+- group2
+
+  lépés megelőző értelmében érintő szerződést lépés megelőző érintő
+  lépés többször lépés érintő története lépés értelmében értelmében
+  lépés előterjesztést délelőtt előterjesztést életét szerződést
+  többször megelőző délelőtt
+
+- group1
+
+  offer effect effect appear appear number appear number perhaps
+  effect number number perhaps appear offer perhaps effect appear
+  multiply effect number offer effect effect perhaps multiply appear
+  offer offer appear
+
+2024-02-19
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 170 | HUN  | 10 min   |        99.13 | 31.94 |
+| 170 | HUN  | group1-2 |        98.96 | 31.40 |
+| 170 | HUN  | group1   |       100.00 | 33.62 |
+| 170 | HUN  | group2   |       100.00 | 33.56 |
+| 175 | ENG  | 10 min   |        99.53 | 33.72 |
+| 175 | ENG  | group3   |        98.73 | 33.41 |
+| 175 | ENG  | group3   |       100.00 | 34.52 |
+| 175 | HUN  | 10 min   |        99.35 | 33.52 |
+| 175 | HUN  | group4-5 |        99.77 | 32.04 |
+| 175 | HUN  | group4   |        99.55 | 31.77 |
+| 175 | HUN  | group4   |        97.82 | 31.38 |
+| 175 | HUN  | group4   |        97.82 | 30.42 |
+| 175 | HUN  | group4   |        99.11 | 31.89 |
+| 175 | HUN  | group4   |       100.00 | 32.86 |
+| 175 | HUN  | group5   |        99.07 | 30.00 |
+| 175 | HUN  | group5   |        99.53 | 32.44 |
+| 175 | HUN  | group5   |       100.00 | 30.54 |
+| 180 | ENG  | 10 min   |        99.49 | 34.84 |
+| 180 | ENG  | group6   |       100.00 | 34.92 |
+| 180 | HUN  | 10 min   |        99.48 | 34.40 |
+| 180 | HUN  | group7   |       100.00 | 34.66 |
+
+- group7
+
+  térségben megelőző megelőző megelőző megelőző szerződés térségben
+  részéről megelőző döntést fejlődés böngésző térségben térségben
+  térségben térségben megelőző döntést megelőző térségben döntést
+  részéről döntést részéről böngésző böngésző megelőző böngésző
+  szerződés fejlődés térségben megelőző megelőző megelőző böngésző
+
+- group6
+
+  women complete warm warm paragraph women symbol office paragraph
+  paragraph warm warm warm symbol warm warm camp women symbol symbol
+  paragraph paragraph women complete office complete complete symbol
+  symbol women office women paragraph symbol paragraph
+
+- group5
+
+  érintő fejlődés értelmében lényegében egészséges rendőrség fejlődés
+  története lényegében részét fejlődés egészséges előterjesztő
+  fejlődés értelmében előterjesztő érintő fejlődés értelmében
+  egészséges értelmében
+
+- group4
+
+  érintő fejlődés lényegében részét előterjesztő érintő érintő
+  története egészséges érintő rendőrség rendőrség egészséges érintő
+  fejlődés érintő története rendőrség értelmében érintő értelmében
+  előterjesztő lényegében részét
+
+- group3
+
+  public paragraph paragraph public public flow proper paragraph
+  paragraph public flow paragraph paragraph public paragraph public
+  public public public public
+
+- group2
+
+  egyértelmű ellenőrzés lépés hétfőn egyértelmű ellenőrzés ellenőrzés
+  ellenőrzés ellenőrzés hétfőn eléggé előző ellenőrzés történelem
+  előző döntést egyértelmű döntést hétfőn rendőrség történelem életét
+  eléggé rendőrség eléggé hétfőn egyértelmű
+
+- group1
+
+  lépés életét ellenőrzés ellenőrzés részéről egyértelmű egyértelmű
+  ellenőrzés előző hétfőn lépés részéről előző rendőrség lépés
+  egyértelmű előző részéről lépés ellenőrzés történelem történelem
+  eléggé eléggé előző életét egyértelmű előző
+
+2024-02-18
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 170 | ENG  | 10 min   |        98.76 | 31.58 |
+| 170 | ENG  | group1-3 |        98.48 | 31.06 |
+| 170 | ENG  | group1   |        98.89 | 28.40 |
+| 170 | ENG  | group1   |       100.00 | 34.08 |
+| 170 | ENG  | group2   |        99.44 | 32.92 |
+| 170 | ENG  | group2   |        99.44 | 33.67 |
+| 170 | ENG  | group2   |       100.00 | 33.11 |
+| 170 | ENG  | group3   |       100.00 | 34.06 |
+| 170 | ENG  | 10 min   |        99.70 | 33.42 |
+| 170 | ENG  | group4   |        97.93 | 31.17 |
+| 170 | ENG  | group4   |        99.28 | 33.85 |
+| 170 | ENG  | group4   |       100.00 | 34.07 |
+
+- group3
+
+poem complete symbol multiply brown poem multiply wife wife poem
+happen office women number multiply difficult wife multiply women
+office multiply poem poem
+
+- group2
+
+poem brown happen paragraph multiply multiply poem complete complete
+paragraph number number poem jump complete symbol brown multiply
+paragraph poem forward brown poem difficult
+
+- group1
+
+multiply difficult symbol office multiply difficult office happen
+complete brown brown difficult multiply multiply number multiply jump
+multiply office multiply poem poem office
+
+2024-02-17
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 155 | ENG  | 10 min |        99.60 | 30.06 |
+| 155 | ENG  | group1 |       100.00 | 29.35 |
+| 155 | HUN  | 10 min |        99.74 | 30.46 |
+| 155 | HUN  | group2 |       100.00 | 31.17 |
+| 160 | ENG  | 10 min |        99.62 | 31.08 |
+| 160 | ENG  | group3 |        99.44 | 30.69 |
+| 160 | ENG  | group3 |       100.00 | 30.35 |
+| 160 | HUN  | 10 min |        99.28 | 30.32 |
+| 160 | HUN  | group4 |       100.00 | 30.53 |
+| 165 | ENG  | 10 min |        99.45 | 32.28 |
+| 165 | ENG  | group5 |       100.00 | 32.57 |
+| 165 | HUN  | 10 min |        99.25 | 31.54 |
+| 165 | HUN  | group6 |        98.40 | 30.60 |
+| 165 | HUN  | group6 |        98.09 | 28.94 |
+| 165 | HUN  | group6 |       100.00 | 32.53 |
+
+- group6
+
+  térségben intézmény érintő intézmény intézmény érintő érintő érintő
+  döntését intézmény intézmény délelőtt intézmény érintő érintő
+  térségben térségben érintő böngésző érintő érintő böngésző délelőtt
+  létező döntését létező böngésző térségben térségben döntését
+  térségben térségben térségben intézmény délelőtt
+
+- group4
+
+döntését térségben eléggé ellenőrzés értelmében életét értelmében
+életét ellenőrzés megelőző megelőző élő értelmében ellenőrzés élő
+térségben döntését eltérő eléggé eléggé ellenőrzés döntését értelmében
+térségben döntését térségben döntését életét térségben életét élő
+ellenőrzés ellenőrzés ellenőrzés eltérő megelőző megelőző élő életét
+értelmében megelőző eltérő eltérő döntését megelőző
+
+- group3
+
+  symbol symbol support symbol forward symbol symbol forward support
+  symbol symbol support support forward family symbol few support
+  symbol symbol symbol family few symbol support
+
+- groupn2
+
+  többé többé értelmében értelmében többé értelmében többé egyértelmű
+  többé értelmében többé többé egyértelmű többé többé
+
+2024-02-16
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 145 | ENG  | 10 min |        99.72 | 28.74 |
+| 145 | ENG  | group1 |        98.68 | 27.60 |
+| 145 | ENG  | group1 |        98.05 | 27.34 |
+| 145 | ENG  | group1 |       100.00 | 28.44 |
+| 145 | HUN  | 10 min |        99.43 | 27.92 |
+| 145 | HUN  | group2 |       100.00 | 28.69 |
+| 150 | ENG  | 10 min |        99.53 | 29.32 |
+| 150 | ENG  | group3 |       100.00 | 30.11 |
+| 150 | HUN  | 10 min |        97.90 | 25.06 |
+| 150 | HUN  | group4 |        99.20 | 28.54 |
+| 150 | HUN  | group4 |        97.63 | 26.23 |
+| 150 | HUN  | group4 |       100.00 | 29.53 |
+| 150 | HUN  | group5 |       100.00 | 29.44 |
+| 150 | HUN  | group6 |        99.57 | 28.57 |
+| 150 | HUN  | group6 |       100.00 | 29.36 |
+| 150 | HUN  | 10 min |        99.72 | 28.72 |
+| 150 | HUN  | group7 |        96.52 | 26.64 |
+| 150 | HUN  | group7 |        99.48 | 28.67 |
+| 150 | HUN  | group7 |        98.45 | 28.19 |
+| 150 | HUN  | group7 |       100.00 | 28.94 |
+
+
+- group7
+
+  egészséges egészséges görög egészséges egészséges egészséges
+  intézmény hétfőn egészséges hétfőn egészséges hétfőn egészséges
+  egészséges görög egészséges egészséges görög egészséges egészséges
+
+- group6
+
+lehetőségét története lehetőség megelőző történelem fölé megelőző
+részéről lehetőséget döntött előterjesztés történő részéről története
+fölé lehetőséget történő hétfőn lehetőségét hétfőn hétfőn hétfőn fölé
+fölé lehetőséget történő eltérő
+
+- group5
+
+lehetőséget lehetőségét történő lehetőségét történő hétfőn
+előterjesztés megelőző történő fölé lehetőséget előterjesztés
+lehetőséget hétfőn előterjesztés lehetőségét lehetőségét eltérő
+története lehetőségét görög
+
+- group4
+
+hétfőn részéről története előterjesztés története előterjesztés
+részéről történő lehetőséget döntést története hétfőn hétfőn
+lehetőséget lehetőség hétfőn hétfőn hétfőn hétfőn hétfőn történő
+történő előterjesztés története eltérő megelőző története
+
+- group3
+
+multiply multiply company multiply multiply company multiply multiply
+swim public swim multiply moment moment complete moment multiply swim
+multiply company multiply complete multiply multiply moment multiply
+company moment multiply multiply
+
+- group2
+
+  értelmében létező értelmében létező először építési létező építési
+  először értelmében hétfőn értelmében érintő érintő értelmében
+  először először hétfőn létező hétfőn építési értelmében létező
+  érintő értelmében hétfőn létező építési értelmében először
+
+- group1
+
+  before before before before bottom bottom between before before
+  property between bottom between before property property before
+  bottom before between
+
+2024-02-15
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 135 | ENG  | 10 min |        99.62 | 26.40 |
+| 135 | ENG  | group1 |        99.06 | 26.55 |
+| 135 | ENG  | group1 |       100.00 | 26.83 |
+| 135 | HUN  | 10 min |        99.62 | 26.26 |
+| 135 | HUN  | group2 |       100.00 | 26.73 |
+| 140 | ENG  | 10 min |        99.71 | 27.62 |
+| 140 | ENG  | group3 |       100.00 | 27.98 |
+| 140 | HUN  | 10 min |        99.71 | 27.42 |
+| 140 | HUN  | group4 |        98.19 | 26.83 |
+| 140 | HUN  | group4 |       100.00 | 28.18 |
+
+- group4
+
+  döntése érintő érintő érintő története döntését döntését története
+  döntése érintő érintő döntése döntése döntése érintő döntése
+  döntését érintő döntése története
+
+- group3
+
+number office office office number public number number office office
+public office office office office
+
+- group1
+
+  from prepare paragraph from from from from paragraph paragraph
+  prepare paragraph from from from paragraph
+
+2024-02-14
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 120 | ENG  | group4 |        98.49 | 22.36 |
+| 120 | ENG  | group4 |       100.00 | 23.98 |
+| 120 | HUN  | 10 min |        99.58 | 23.36 |
+| 120 | HUN  | group1 |        98.94 | 23.38 |
+| 120 | HUN  | group1 |       100.00 | 24.04 |
+| 125 | ENG  | 10 min |        99.42 | 24.06 |
+| 125 | ENG  | group2 |        99.62 | 24.88 |
+| 125 | ENG  | group2 |        99.62 | 24.99 |
+| 125 | ENG  | group2 |       100.00 | 24.98 |
+| 125 | HUN  | 10 min |        99.84 | 24.44 |
+| 125 | HUN  | group3 |       100.00 | 25.42 |
+| 130 | ENG  | 10 min |        99.84 | 25.68 |
+| 130 | ENG  | group4 |       100.00 | 26.62 |
+| 130 | HUN  | 10 min |        99.53 | 25.24 |
+| 130 | HUN  | group5 |        98.85 | 24.76 |
+| 130 | HUN  | group5 |       100.00 | 25.89 |
+
+- group5
+
+  rendőrség rendőrség rendőrség előterjesztő többsége többsége
+  többsége rendőrség előterjesztő előterjesztő többsége rendőrségi
+  rendőrségi létező rendőrségi többsége előterjesztő rendőrségi létező
+  rendőrségi többsége rendőrségi rendőrségi előterjesztő rendőrség
+
+- group4
+
+  offer prepare prepare offer prepare offer prepare offer offer
+  prepare
+
+- group3
+
+létező történelmi történelmi létező létező történelmi létező
+történelmi létező történelmi
+
+- group2
+
+follow remember remember bottom symbol apple bottom symbol follow
+symbol remember bottom symbol difficult remember follow symbol apple
+follow bottom apple difficult remember bottom bottom complete symbol
+symbol symbol bottom symbol remember bottom follow bottom
+
+- group1
+
+  értelmében értelmében értelmében ellenőrzés élén értelmében többsége
+  többsége többsége többsége élén értelmében többsége többsége
+  többsége értelmében értelmében többsége többsége többsége
+
+2024-02-13
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 115 | HUN  | 10 min   |        98.83 | 21.82 |
+| 115 | HUN  | group1-2 |        99.80 | 22.05 |
+| 115 | HUN  | group1   |       100.00 | 22.49 |
+| 115 | HUN  | group2   |        98.15 | 21.59 |
+| 115 | HUN  | group2   |        99.25 | 22.24 |
+| 115 | HUN  | group2   |       100.00 | 22.77 |
+| 115 | HUN  | 10 min   |        99.29 | 22.20 |
+| 115 | HUN  | group3   |       100.00 | 22.65 |
+| 120 | ENG  | 10 min   |        99.40 | 23.28 |
+| 120 | ENG  | group4   |        99.49 | 23.05 |
+| 120 | ENG  | group4   |        98.99 | 23.06 |
+| 120 | ENG  | group4   |        99.49 | 23.22 |
+| 120 | ENG  | group4   |        99.49 | 23.30 |
+| 120 | ENG  | group4   |        99.49 | 22.94 |
+| 120 | ENG  | group4   |        99.49 | 23.52 |
+
+- group4
+
+  before company before bottom before baby window before before before
+  window from bottom window from bottom baby baby before bottom before
+  before before from bottom window baby window window window
+
+- group2
+
+  lehetőségét délelőtt görög egyértelmű délelőtt egyértelmű rendőrség
+  története görög története története görög építési egészséges építési
+  történelmi építési története építési rendőrség egészséges fejlődés
+  építési rendőrség lehetőségét rendőrség döntött döntött görög
+
+- group1
+
+  rendőrség története rendőrség döntött történelmi építési építési
+  rendőrség délelőtt délelőtt építési egészséges görög építési döntött
+  egyértelmű fejlődés egészséges rendőrség rendőrség története
+  egészséges építési döntött építési rendőrség
 
 2024-02-12
 ----------
