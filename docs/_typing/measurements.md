@@ -34,6 +34,22 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-02-29
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+|  95 | ENG  | 8 min  |        99.47 | 18.47 |
+|  95 | ENG  | group1 |       100.00 | 18.86 |
+|  95 | HUN  | 8 min  |        99.31 | 17.77 |
+|  95 | HUN  | group2 |       100.00 | 17.80 |
+
+- group2
+
+időjárásról hülye fügedarázs időjárásról kátyú hülye kátyú hülye kátyú
+hülye hülye fügedarázs hülye időjárásról fügedarázs időjárásról
+fügedarázs kátyú időjárásról hülye
+
 2024-02-28
 ----------
 
