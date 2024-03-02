@@ -34,6 +34,46 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-02-30
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 100 | ENG  | 8 min    |        99.75 | 19.72 |
+| 100 | ENG  | group1   |       100.00 | 20.45 |
+| 100 | HUN  | 8 min    |        99.49 | 19.35 |
+| 100 | HUN  | group2   |        97.22 | 18.22 |
+| 100 | HUN  | group2   |        98.42 | 18.73 |
+| 100 | HUN  | group2   |        99.20 | 19.52 |
+| 100 | HUN  | group2   |       100.00 | 18.73 |
+| 105 | ENG  | 8 min    |        99.64 | 20.77 |
+| 105 | ENG  | group3   |       100.00 | 20.88 |
+| 105 | HUN  | 8 min    |        98.87 | 19.60 |
+| 105 | HUN  | group4-5 |        98.14 | 19.91 |
+
+- group5
+
+  pördül egymástól pördül fütyül pördül ütközik találkozó nyilvánvaló
+  fütyül találkozó irányuló nyilvánvaló találkozó találkozó fütyül
+  egymástól pördül nyilvánvaló találkozó időjárásról
+
+- group4
+
+  találkozó nyilvánvaló nyilvánvaló irányuló fütyül fütyül ütközik
+  fütyül irányuló ütközik időjárásról találkozó nyilvánvaló
+  időjárásról ütközik találkozó pördül fütyül találkozó irányuló
+
+- group2
+
+  együttműködés vállalkozó savanyúkáposzta bíróság savanyúkáposzta
+  bíróság vállalkozó savanyúkáposzta együttműködés együttműködés
+  savanyúkáposzta savanyúkáposzta vállalkozó együttműködés
+  savanyúkáposzta bíróság bíróság vállalkozó bíróság együttműködés
+
+- group1
+
+  exclusively exclusively exclusively exclusively exclusively
+
 2024-02-29
 ----------
 
