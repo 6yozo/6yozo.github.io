@@ -6,6 +6,9 @@ author: GG
 tags: Typing, Colemak-DH, Colmak Club, Bunya-DTM, Monkeytpe
 ---
 
+Todo: Window navigation by keyboard. Move / Resize
+
+
 Test results
 ============
 
@@ -33,6 +36,399 @@ számító számítógépes származó szempontjából szolgáltató található
 találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
+
+2024-03-23
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 165 | HUN  | group3 |        99.61 | 30.73 |
+| 165 | HUN  | group3 |        99.61 | 32.37 |
+| 165 | HUN  | group3 |        99.23 | 29.72 |
+| 165 | HUN  | group3 |        99.23 | 28.93 |
+| 165 | HUN  | group3 |       100.00 | 31.43 |
+| 165 | HUN  | group4 |       100.00 | 31.81 |
+| 170 | ENG  | 8 min  |        99.70 | 33.25 |
+| 170 | ENG  | group1 |       100.00 | 32.50 |
+| 170 | HUN  | 8 min  |        99.62 | 32.87 |
+| 170 | HUN  | group2 |        99.62 | 33.28 |
+| 170 | HUN  | group2 |        98.88 | 32.89 |
+| 170 | HUN  | group2 |       100.00 | 33.30 |
+
+- group 2
+
+egymástól egymástól fütyül meghatározó egymástól fütyül tükör
+savanyúkáposzta meghatározó savanyúkáposzta egymástól meghatározó
+tükör fütyül savanyúkáposzta egymástól fütyül meghatározó fütyül
+savanyúkáposzta savanyúkáposzta meghatározó egymástól meghatározó
+tükör
+
+2024-03-22
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 160 | HUN  | 8 min    |        99.19 | 30.17 |
+| 160 | HUN  | group 1  |        98.53 | 29.28 |
+| 160 | HUN  | group 1  |        99.70 | 30.90 |
+| 160 | HUN  | group 1  |       100.00 | 31.63 |
+| 165 | ENG  | 8 min    |        99.76 | 31.62 |
+| 185 | ENG  | group2   |       100.00 | 33.23 |
+| 165 | HUN  | 8 min    |        99.12 | 30.65 |
+| 165 | HUN  | group3-4 |        97.93 | 30.75 |
+
+- group4
+
+  meghatározó ütközik meghatározó meghatározó fügedarázs időjárásról
+  kommunikációs vállalkozó kiváló időjárásról fügedarázs infláció
+  megkergül vállalkozó támadó támadó támadó időjárásról időjárásról
+  kommunikációs fügedarázs fügedarázs meghatározó kiváló időjárásról
+
+- group3
+
+  meghatározó infláció vállalkozó kommunikációs ütközik meghatározó
+  fügedarázs időjárásról megkergül kiváló kommunikációs támadó ütközik
+  ütközik vállalkozó időjárásról vállalkozó fügedarázs támadó támadó
+  vállalkozó kommunikációs támadó megkergül meghatározó
+
+
+- group2
+
+  executives executives equivalent exclusively executives exclusively
+  equivalent equivalent equivalent executives equivalent equivalent
+  executives executives equivalent
+
+- group 1
+
+szolgáltató kátyú együttműködés megüt együttműködés kizárólag
+szolgáltató kátyú nyilvánvaló kátyú kizárólag kátyú megüt kátyú kátyú
+együttműködés kátyú kátyú kátyú hálálkodó nyilvánvaló szolgáltató
+szolgáltató együttműködés kizárólag szolgáltató együttműködés
+szolgáltató megüt kátyú megüt nyilvánvaló együttműködés kátyú
+nyilvánvaló
+
+2024-03-21
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 150 | HUN  | 8 min  |        99.75 | 29.30 |
+| 150 | HUN  | group1 |       100.00 | 30.28 |
+| 155 | ENG  | 8 min  |        99.83 | 30.05 |
+| 155 | ENG  | group2 |       100.00 | 31.34 |
+| 155 | HUN  | 8 min  |        99.41 | 29.12 |
+| 155 | HUN  | group3 |       100.00 | 30.52 |
+| 160 | ENG  | 8 min  |        99.68 | 31.30 |
+| 160 | ENG  | group4 |       100.00 | 32.06 |
+
+- group4
+
+overview overview valves valves valves valves valves valves valves
+valves
+
+- group3
+
+várható nyilvánvaló nyilvánvaló várható vállalkozók céljából derült
+céljából derült fürge derült nyilvánvaló nyilvánvaló céljából derült
+savanyúkáposzta derült savanyúkáposzta savanyúkáposzta derült
+savanyúkáposzta céljából fürge nyilvánvaló nyilvánvaló derült
+nyilvánvaló várható céljából fürge fürge fürge savanyúkáposzta várható
+vállalkozók
+
+- group2
+
+innovative innovative innovative expensive expensive innovative
+expensive expensive innovative innovative
+
+
+- group1
+
+előkerül előkerül bíróság előkerül előkerül előkerül irányuló előkerül
+bíróság irányuló bíróság előkerül irányuló irányuló irányuló
+
+2024-03-20
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 145 | HUN  | 8 min    |        98.93 | 27.42 |
+| 145 | HUN  | group1-2 |        98.61 | 28.08 |
+| 145 | HUN  | group1   |        98.14 |       |
+| 145 | HUN  | group1   |       100.00 | 29.41 |
+| 145 | HUN  | group1   |       100.00 | 28.42 |
+| 145 | HUN  | 8 min    |        99.47 | 28.22 |
+| 145 | HUN  | group1   |       100.00 | 28.05 |
+| 150 | ENG  | 8 min    |        99.61 | 31.65 |
+| 150 | ENG  | group4   |       100.00 | 31.27 |
+| 150 | HUN  | 8 min    |        99.39 | 28.70 |
+| 150 | HUN  | group5   |        98.08 | 26.36 |
+| 150 | HUN  | group5   |       96.288 | 25.86 |
+
+- group4
+
+derivatives explosive overview overview explosive textbook quick
+explosive quick textbook overview derivatives derivatives quick quick
+overview explosive textbook textbook quick overview derivatives quick
+textbook explosive
+
+- group3
+
+  rádió várhatóan üreg ütközik ütközik óriási ütközik pördül üreg
+  ütközik pördül várhatóan óriási pördül ütközik pördül pördül rádió
+  üreg üreg várhatóan rádió várhatóan rádió várhatóan várhatóan rádió
+  rádió rádió várhatóan
+
+- group2
+
+  található variáció átfogó átfogó kizárólag előkerül található megüt
+  kátyú található megüt megüt található található található található
+  kizárólag található átfogó található található
+
+- group1
+
+  céljából átfogó előkerül variáció található megüt található
+  található átfogó található variáció található található található
+  található átfogó található található céljából
+
+2024-03-19
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 135 | HUN  | 8 min  |        99.43 | 25.75 |
+| 135 | HUN  | group1 |              |       |
+| 140 | ENG  | 8 min  |        99.82 | 27.77 |
+| 140 | ENG  | group2 |        98.86 | 27.44 |
+| 140 | ENG  | group2 |        97.75 | 27.73 |
+| 140 | ENG  | group2 |       100.00 | 27.76 |
+| 140 | HUN  | 8 min  |        99.91 | 26.97 |
+| 140 | HUN  | group3 |       100.00 | 28.30 |
+| 145 | ENG  | 8 min  |        99.48 | 28.62 |
+| 145 | ENG  | group4 |        98.62 | 27.82 |
+| 145 | ENG  | group4 |       100.00 | 29.24 |
+
+- group4
+
+quake exquisite quake cookbook overview exquisite overview bookmarks
+exquisite overview exquisite cookbook overview cookbook exquisite
+overview overview overview quake cookbook overview quake quake quake
+overview
+
+- group3
+
+nyilvánvaló nyilvánvaló nyilvánvaló nyilvánvaló nyilvánvaló
+
+- group2
+
+  textbooks kicks textbooks textbooks textbooks textbooks kicks
+  textbooks textbooks kicks
+
+2024-03-18
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 130 | ENG  | 8 min  |        99.42 | 25.50 |
+| 130 | ENG  | group1 |        97.86 | 25.25 |
+| 130 | ENG  | group1 |       100.00 | 26.12 |
+| 130 | HUN  | 8 min  |        99.60 | 25.60 |
+| 130 | HUN  | group2 |        97.99 | 24.46 |
+| 130 | HUN  | group2 |       100.00 | 25.02 |
+| 135 | ENG  | 8 min  |        99.91 | 26.80 |
+| 135 | ENG  | group3 |       100.00 | 27.44 |
+
+- group2
+
+bütyök derült bütyök bütyök megkergül derült bütyök kátyú megkergül
+derült megkergül kátyú bütyök derült bütyök bütyök derült bütyök kátyú
+bütyök
+
+- group1
+
+survived survivor survivors survived quickly survivor survivor
+survivor quickly survivor survived survivor explosive survivor
+survivor survivors survived explosive survivors survivors survivor
+survivor quickly survivor survivors
+
+2024-03-14
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 125 | ENG  | 8 min  |        99.60 | 24.57 |
+| 125 | ENG  | group1 |       100.00 | 25.18 |
+| 125 | HUN  | 8 min  |        99.39 | 24.32 |
+| 125 | HUN  | group2 |       100.00 | 24.89 |
+
+- group2
+
+  pördül átfogó látható átfogó együttműködés pördül információ átfogó
+  információ átfogó átfogó látható látható átfogó látható átfogó
+  átfogó együttműködés pördül bíróság bíróság pördül átfogó pördül
+  bíróság együttműködés információ átfogó bíróság látható
+
+2024-03-13
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 120 | HUN  | 8 min  |        99.79 | 23.40 |
+| 120 | HUN  | group1 |       100.00 | 24.59 |
+
+- group1
+
+megkergül megkergül megkergül megkergül megkergül
+
+2024-03-12
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 115 | ENG  | 8 min  |        99.34 | 22.40 |
+| 115 | ENG  | group1 |       100.00 | 23.08 |
+| 120 | ENG  | 8 min  |        99.79 | 23.75 |
+| 120 | ENG  | group2 |       100.00 | 24.25 |
+
+
+- group2
+
+  overview equivalent equivalent equivalent equivalent overview
+  equivalent overview equivalent overview
+
+- group1
+
+conservatives blackjack blackjack inexpensive inexpensive inexpensive
+blackjack bookmark survived bookmark conservatives bookmark
+conservatives inexpensive conservatives survived inexpensive evolved
+survived bookmark bookmark inexpensive evolved conservatives bookmark
+bookmark conservatives evolved evolved bookmark
+
+2024-03-11
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 115 | HUN  | group3 |        99.40 | 22.63 |
+| 115 | HUN  | group3 |       100.00 | 22.22 |
+| 115 | HUN  | group4 |       100.00 | 23.02 |
+| 115 | HUN  | 8 min  |        99.43 | 21.75 |
+| 115 | HUN  | group1 |        99.49 | 22.32 |
+| 115 | HUN  | group1 |        99.00 | 22.37 |
+| 115 | HUN  | group1 |       100.00 | 22.89 |
+
+- group1
+
+előkerül számítógépes előkerül számítógépes megüt megüt előkerül
+számítógépes számítógépes hálálkodó számítógépes megüt előkerül
+hálálkodó megüt hálálkodó hálálkodó hálálkodó hálálkodó számítógépes
+
+2024-03-10
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 110 | HUN  | group1   |       100.00 | 21.54 |
+| 115 | ENG  | 8 min    |        99.66 | 21.72 |
+| 115 | ENG  | group1   |        98.82 | 21.75 |
+| 115 | ENG  | 8 min    |        99.77 | 21.15 |
+| 115 | ENG  | group2   |       100.00 | 22.24 |
+| 115 | HUN  | 8 min    |        98.83 | 20.87 |
+| 115 | HUN  | group3-4 |         3.03 |   0.0 |
+
+- group4
+
+  időjárásról időjárásról fügedarázs variáció időjárásról céljából
+  vakáció vakáció időjárásról ütközik időjárásról időjárásról ütközik
+  időjárásról számító fügedarázs fügedarázs fügedarázs
+
+- group3
+
+  időjárásról variáció ütközik időjárásról időjárásról időjárásról
+  időjárásról fügedarázs céljából vakáció ütközik ütközik vakáció
+  számító variáció számító időjárásról
+
+- group1
+
+  revival revival revival revival revival revival revival revival
+  quantitative revival
+
+2024-03-08
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 110 | ENG  | group1 |        99.22 | 22.62 |
+| 110 | ENG  | group1 |        99.61 | 23.17 |
+| 110 | ENG  | group1 |       100.00 | 22.42 |
+| 110 | ENG  | group2 |       100.00 | 21.15 |
+| 110 | HUN  | 8 min  |        99.28 | 20.72 |
+| 110 | HUN  | group1 |       100.00 | 21.53 |
+
+- group1
+
+szolgáltató rádió állandóan találkozó állandóan szolgáltató rádió
+állandóan szolgáltató találkozó óráig rádió óráig rádió állítólag
+szolgáltató állítólag találkozó óráig állandóan rádió találkozó rádió
+állandóan találkozó találkozó állítólag szolgáltató állítólag
+szolgáltató
+
+2024-03-07
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 110 | ENG  | 8 min    |        99.66 | 21.82 |
+| 110 | HUN  | 8 min    |        98.04 | 20.05 |
+| 110 | HUN  | group1-2 |        98.68 | 20.63 |
+| 110 | HUN  | group1   |        99.22 | 20.17 |
+| 110 | HUN  | group1   |        98.54 | 21.04 |
+| 110 | HUN  | group1   |        99.22 | 21.48 |
+| 110 | HUN  | group1   |        99.61 | 20.56 |
+
+- group2
+
+  céljából számítógépes vállalkozók vállalkozók kátyú vállalkozók
+  vállalkozók savanyúkáposzta kátyú savanyúkáposzta vállalkozók
+  számítógépes vállalkozók vállalkozók számítógépes számítógépes
+  vállalkozók számító vállalkozók vállalkozók vállalkozók számítógépes
+  számítógépes
+
+- group1
+
+  vállalkozók kátyú számítógépes számító számítógépes vállalkozók
+  vállalkozók számítógépes számítógépes céljából savanyúkáposzta
+  megkergül számítógépes vállalkozók számítógépes vállalkozók
+  számítógépes vállalkozók számítógépes állítólag vállalkozók számító
+
+2024-03-06
+----------
+
+| BPM | Lang | Type         | Accuracy (%) |   WPM |
+|-----+------+--------------+--------------+-------|
+| 105 | HUN  | group4 8 min |        98.52 | 19.92 |
+| 105 | HUN  | group4       |       100.00 | 20.91 |
+| 105 | HUN  | group5       |        97.44 | 19.93 |
+| 105 | HUN  | group5       |        97.91 | 19.43 |
+| 105 | HUN  | group5       |        97.88 | 20.14 |
+| 105 | HUN  | group5       |       100.00 | 19.34 |
+
+
+2024-03-02
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 105 | HUN  | group4 |        98.93 | 20.26 |
+| 105 | HUN  | group4 |        98.40 | 19.64 |
+| 105 | HUN  | group4 |        99.46 | 20.69 |
+| 105 | HUN  | group4 |        98.40 | 19.95 |
+| 105 | HUN  | group4 |        98.93 | 20.57 |
+| 105 | HUN  | group4 |        98.93 | 20.15 |
+| 105 | HUN  | group4 |        98.93 | 20.16 |
+| 105 | HUN  | group4 |        99.46 | 20.80 |
+| 105 | HUN  | group4 |        98.41 | 19.26 |
+| 105 | HUN  | group4 |        99.46 | 20.79 |
+| 105 | HUN  | group4 |        86.36 | 17.64 |
 
 2024-02-30
 ----------
