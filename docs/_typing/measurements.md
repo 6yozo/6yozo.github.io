@@ -37,6 +37,396 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-04-01
+----------
+
+| BPM | Lang | Type      | Accuracy (%) |   WPM |
+|-----+------+-----------+--------------+-------|
+| 200 | HUN  | group 4   |       100.00 | 37.85 |
+| 200 | HUN  | 8 min     |        99.26 | 36.67 |
+| 200 | HUN  | group 1-2 |        98.88 | 38.45 |
+| 200 | HUN  | group 1   |       100.00 | 38.45 |
+| 200 | HUN  | group 2   |        98.35 | 37.04 |
+| 200 | HUN  | group 2   |       100.00 | 38.16 |
+| 205 | ENG  | 8 min     |        99.49 | 39.02 |
+| 205 | ENG  | group 3-4 |        99.50 | 39.12 |
+| 205 | ENG  | group 3   |        99.49 | 40.43 |
+| 205 | ENG  | group 3   |        98.99 | 39.39 |
+| 205 | ENG  | group 3   |       100.00 | 40.43 |
+| 205 | ENG  | group 4   |        98.05 | 37.27 |
+| 205 | ENG  | group 4   |        98.99 | 39.47 |
+| 205 | ENG  | group 4   |        99.00 | 38.85 |
+| 205 | ENG  | group 4   |       100.00 | 40.81 |
+| 205 | HUN  | 8 min     |        98.61 | 37.02 |
+| 205 | HUN  | group 5-7 |        97.54 | 36.72 |
+| 205 | HUN  | group 5   |        98.23 | 33.42 |
+| 205 | HUN  | group 5   |        99.14 | 28.84 |
+| 205 | HUN  | group 5   |       100.00 | 38.16 |
+| 205 | HUN  | group 6   |        99.56 | 38.59 |
+| 205 | HUN  | group 6   |       100.00 | 38.94 |
+| 205 | HUN  | group 7   |       100.00 | 40.16 |
+| 205 | HUN  | 8 min     |        99.41 | 37.95 |
+| 205 | HUN  | group 8-9 |        98.98 | 38.07 |
+| 205 | HUN  | group 8   |       100.00 | 39.91 |
+| 205 | HUN  | group 9   |       100.00 | 39.29 |
+
+- group 9
+
+állandóan óriási derült állandóan állandóan óriási bíróság állandóan
+előkerül állandóan kalandvágyó bíróság előkerül óriási privatizációs
+nagyjából kalandvágyó kalandvágyó privatizációs előkerül kalandvágyó
+
+- group 8
+
+bíróság privatizációs derült állandóan nagyjából előkerül bíróság
+óriási előkerül bíróság nagyjából állandóan óriási privatizációs
+állandóan kalandvágyó állandóan bíróság nagyjából
+
+- group 7
+
+hatóság bütyök információ információ fürge irányuló átfogó terül
+hatóság bütyök bütyök számítógépes megüt számítógépes fürge bütyök
+megkergül megkergül derült átfogó fürge számítógépes meghatározó
+hatóság megkergül bütyök
+
+- group 6
+
+terül előkerül megüt terül hatóság megkergül derült hatóság derült
+várható információ derült derült információ átfogó megüt várható kátyú
+savanyúkáposzta derült átfogó hatóság irányuló hatóság savanyúkáposzta
+információ hatóság
+
+- group 5
+
+várható derült átfogó fürge fürge derült számítógépes várható átfogó
+hatóság megüt átfogó információ fürge hatóság várható fürge
+savanyúkáposzta kátyú meghatározó meghatározó előkerül átfogó derült
+irányuló terül átfogó
+
+- group 4
+
+  explosive inexpensive qualitative backpack bookmarks explosive
+  explosive inexpensive bookmarks inexpensive overview qualitative
+  extensive explosive backpack qualitative overview bookmarks
+  explosive
+
+- group 3
+
+  quick extensive overview qualitative explosive quick extensive
+  explosive backpack inexpensive overview overview quick quick
+  inexpensive qualitative explosive extensive backpack extensive
+  overview
+
+- group 2
+
+  látható várható ütközik előkerül látható megüt látható szempontjából
+  várható előkerül látható fürge várható látható látható ütközik
+  előkerül előkerül fürge előkerül privatizációs
+
+- group 1
+
+  látható várható szempontjából fürge megüt szempontjából ütközik
+  várható látható látható szempontjából várható előkerül fürge ütközik
+  előkerül előkerül várható szempontjából
+
+2024-03-31
+----------
+
+| BPM | Lang | Type      | Accuracy (%) |   WPM |
+|-----+------+-----------+--------------+-------|
+| 195 | HUN  | group 3   |        99.33 | 36.57 |
+| 195 | HUN  | group 3   |        99.00 | 37.18 |
+| 195 | HUN  | group 3   |       100.00 | 37.17 |
+| 200 | ENG  | 8 min     |        99.81 | 39.20 |
+| 200 | ENG  | group 1   |        99.34 | 38.83 |
+| 200 | ENG  | group 1   |       100.00 | 39.56 |
+| 200 | HUN  | 8 min     |        97.68 | 35.50 |
+| 200 | HUN  | group 2-4 |        98.95 | 37.22 |
+| 200 | HUN  | group 2   |        99.31 | 38.18 |
+| 200 | HUN  | group 2   |        99.31 | 36.91 |
+| 200 | HUN  | group 2   |        99.65 | 39.42 |
+| 200 | HUN  | group 2   |        97.63 | 36.11 |
+| 200 | HUN  | group 2   |       100.00 | 39.57 |
+| 200 | HUN  | group 3   |        99.29 | 36.57 |
+| 200 | HUN  | group 3   |        99.28 | 38.63 |
+| 200 | HUN  | group 3   |        99.29 | 36.92 |
+| 200 | HUN  | group 3   |       100.00 | 37.82 |
+
+- group 4
+
+nagyjából órás megkergül infláció különb bütyök várhatóan várhatóan
+megkergül tükör órás szolgáltató megkergül kizárólag várhatóan tükör
+együttműködés megkergül várható hatóság üreg megkergül várható pördül
+infláció várhatóan várható pördül infláció megkergül infláció különb
+bütyök
+
+- group 3
+
+számító vakáció kizárólag megkergül szolgáltató különb infláció
+megkergül üreg együttműködés tükör nagyjából különb várhatóan
+kizárólag előkerül kizárólag infláció várhatóan órás infláció különb
+megkergül előkerül üreg megkergül előkerül előkerül várhatóan
+várhatóan megkergül
+
+- group 2
+
+különb infláció üreg infláció infláció megkergül várható hatóság tükör
+infláció különb várható különb irányuló időjárásról különb várható
+infláció megkergül megkergül üreg infláció üreg várható irányuló
+megkergül üreg különb időjárásról üreg órás tükör várhatóan hatóság
+irányuló hatóság
+
+- group 1
+
+  executive executive executive executive expensive executive
+  executive expensive executive expensive executive expensive
+  expensive executive executive
+
+2024-03-30
+----------
+
+| BPM | Lang | Type      | Accuracy (%) |   WPM |
+|-----+------+-----------+--------------+-------|
+| 195 | ENG  | 8 min     |        99.34 | 37.55 |
+| 195 | ENG  | group 1   |       100.00 | 38.99 |
+| 195 | HUN  | 8 min     |        99.06 | 36.60 |
+| 195 | HUN  | group 2-3 |        97.69 | 35.23 |
+| 195 | HUN  | group 2   |       100.00 | 37.72 |
+| 195 | HUN  | group 3   |        98.99 | 36.13 |
+| 195 | HUN  | group 3   |        99.33 | 36.45 |
+| 195 | HUN  | group 3   |        99.66 | 36.70 |
+| 195 | HUN  | group 3   |        98.68 | 35.57 |
+| 195 | HUN  | group 3   |        99.66 | 36.12 |
+| 195 | HUN  | group 3   |        98.02 | 35.58 |
+| 195 | HUN  | group 3   |        97.70 | 34.14 |
+| 195 | HUN  | group 3   |        98.03 | 35.05 |
+| 195 | HUN  | group 3   |        98.68 | 35.81 |
+| 195 | HUN  | group 3   |        97.06 | 33.33 |
+
+- group 3
+
+  infláció óráig vakáció kalandvágyó óráig vállalkozók vállalkozók
+  kalandvágyó óráig bíróság variáció vakáció kalandvágyó ütközik
+  találkozó vakáció ütközik infláció hálálkodó bíróság ütközik ütközik
+  vállalkozók különb találkozó ütközik vakáció óráig vakáció találkozó
+  vakáció vállalkozók vállalkozó
+
+- group 2
+
+  bíróság vállalkozók kalandvágyó infláció ütközik ütközik
+  kalandvágyó hálálkodó vakáció vállalkozó ütközik vállalkozó óráig
+  variáció vakáció találkozó vállalkozó vállalkozó bíróság vakáció
+  óráig vállalkozók vakáció vakáció óráig infláció hálálkodó variáció
+  infláció vakáció találkozó találkozó
+
+2024-03-29
+----------
+
+| BPM | Lang | Type      | Accuracy (%) |   WPM |
+|-----+------+-----------+--------------+-------|
+| 185 | HUN  | group 4   |        98.31 | 30.71 |
+| 185 | HUN  | group 4   |        98.72 | 34.46 |
+| 185 | HUN  | group 4   |        99.14 | 34.86 |
+| 185 | HUN  | group 4   |        99.57 | 35.28 |
+| 185 | HUN  | group 4   |        98.71 | 34.14 |
+| 185 | HUN  | group 4   |        98.72 | 34.19 |
+| 185 | HUN  | group 4   |        99.14 | 35.49 |
+| 185 | HUN  | group 4   |       100.00 | 35.47 |
+| 190 | ENG  | 8 min     |        99.66 | 37.10 |
+| 190 | ENG  | group 1   |        98.82 | 35.52 |
+| 190 | ENG  | group 1   |        99.41 | 37.13 |
+| 190 | ENG  | group 1   |       100.00 | 37.38 |
+| 190 | HUN  | 8 min     |        98.95 | 35.02 |
+| 190 | HUN  | group 2-3 |        99.39 | 36.39 |
+| 190 | HUN  | group 2   |        98.80 | 35.17 |
+| 190 | HUN  | group 2   |       100.00 | 37.12 |
+| 190 | HUN  | group 3   |       100.00 | 35.50 |
+| 190 | HUN  | 8 min     |        99.09 | 35.35 |
+| 190 | HUN  | group4-5  |        96.43 | 33.12 |
+| 190 | HUN  | group 4   |       100.00 | 37.28 |
+| 190 | HUN  | group 5   |        99.49 | 36.87 |
+| 190 | HUN  | group 5   |       100.00 | 37.28 |
+
+- group 5
+
+várható szempontjából szempontjából várhatóan szempontjából
+időjárásról időjárásról időjárásról várhatóan információ várható
+nyilvánvaló szempontjából szempontjából időjárásról módosító módosító
+
+- group 4
+
+információ várhatóan várhatóan módosító nyilvánvaló időjárásról
+szempontjából várhatóan időjárásról időjárásról időjárásról várhatóan
+időjárásról várhatóan időjárásról információ időjárásról időjárásról
+
+- group 3
+
+  szolgáltató számító szempontjából tükör várható megüt céljából
+  szolgáltató megüt pördül számító számító várható várhatóan
+  szolgáltató várhatóan várható szolgáltató átfogó várhatóan megüt
+  átfogó tükör várható várhatóan céljából szempontjából
+
+- group 2
+
+  szempontjából megüt szempontjából tükör szolgáltató várható
+  várhatóan szolgáltató számító átfogó szolgáltató várható számító
+  pördül várhatóan megüt szolgáltató pördül megüt megüt számító üreg
+  várhatóan várható várhatóan szolgáltató üreg várhatóan
+
+- group 1
+
+  knives knives survival knives cookbook knives innovative knives
+  survival knives survival cookbook cookbook cookbook survival knives
+  knives cookbook innovative cookbook
+
+2024-03-28
+----------
+
+| BPM | Lang | Type          | Accuracy (%) |   WPM |
+|-----+------+---------------+--------------+-------|
+| 180 | HUN  | 8 min         |        99.11 | 33.50 |
+| 180 | HUN  | group 1-2     |        98.16 | 32.91 |
+| 180 | HUN  | 8 min group 1 |        99.21 | 34.37 |
+| 180 | HUN  | group 1       |        99.31 | 34.33 |
+| 180 | HUN  | group 1       |        99.65 | 34.48 |
+| 180 | HUN  | group 1       |        95.61 | 29.12 |
+| 180 | HUN  | group 1       |       100.00 | 34.21 |
+| 180 | HUN  | group 2       |        99.67 | 34.73 |
+| 180 | HUN  | group 2       |       100.00 | 35.67 |
+| 185 | HUN  | 8 min         |        99.08 | 34.77 |
+| 185 | HUN  | group 3-4     |        98.16 | 32.79 |
+| 185 | HUN  | group 3       |        99.59 | 35.72 |
+| 185 | HUN  | group 3       |        98.38 | 33.79 |
+| 185 | HUN  | group 3       |        98.00 | 33.40 |
+| 185 | HUN  | group 3       |        97.21 | 34.23 |
+| 185 | HUN  | group 3       |        99.18 | 34.00 |
+| 185 | HUN  | group 3       |        98.37 | 32.81 |
+| 185 | HUN  | group 3       |        99.59 | 35.83 |
+| 185 | HUN  | group 3       |        99.18 | 36.53 |
+| 185 | HUN  | group 3       |       100.00 | 35.85 |
+| 185 | HUN  | group 4       |        96.27 | 31.52 |
+| 185 | HUN  | group 4       |        97.88 | 31.39 |
+
+- group 4
+
+számítógépes kátyú előkerül vakáció óráig módosító variáció módosító
+módosító találkozó kátyú számítógépes óráig módosító előkerül
+számítógépes számítógépes óráig információ találkozó szempontjából
+találkozó információ kátyú óráig
+
+- group 3
+
+információ vakáció vakáció vakáció módosító variáció találkozó
+módosító információ találkozó előkerül szempontjából számítógépes
+információ variáció variáció találkozó információ óráig módosító
+előkerül találkozó számítógépes vakáció vakáció
+
+- group 2
+
+nyilvánvaló szempontjából terül fügedarázs fügedarázs kommunikációs
+szolgáló nyilvánvaló szempontjából terül bíróság nyilvánvaló szolgáló
+nyilvánvaló kommunikációs derült kommunikációs terül fügedarázs
+nyilvánvaló bütyök nyilvánvaló kommunikációs derült fügedarázs
+szempontjából kommunikációs bíróság
+
+- group 1
+
+nyilvánvaló szempontjából derült bíróság bíróság nyilvánvaló
+nyilvánvaló kommunikációs bütyök megkergül szolgáló derült tükör
+kommunikációs kommunikációs kommunikációs fügedarázs nyilvánvaló
+bütyök szempontjából megkergül terül kommunikációs bíróság nyilvánvaló
+szempontjából bíróság
+
+
+2024-03-27
+----------
+
+| BPM | Lang | Type    | Accuracy (%) |   WPM |
+|-----+------+---------+--------------+-------|
+| 180 | HUN  | group 1 |       100.00 | 34.34 |
+| 180 | HUN  | group 2 |        99.91 | 32.48 |
+| 180 | HUN  | group 2 |        99.61 | 35.33 |
+| 180 | HUN  | group 2 |        99.61 | 35.34 |
+| 180 | HUN  | group 2 |        98.86 | 31.38 |
+| 180 | HUN  | group 2 |       100.00 | 35.36 |
+| 185 | ENG  | 8 min   |        99.58 | 35.05 |
+| 185 | ENG  | 8 min   |        99.66 | 35.80 |
+| 185 | ENG  | group 1 |        99.50 | 36.64 |
+| 185 | ENG  | group 1 |       100.00 | 37.20 |
+
+- group 1
+
+  kicking inexpensive inexpensive equivalent equivalent livestock
+  livestock equivalent livestock kicking kicking kicking equivalent
+  kicking equivalent equivalent livestock equivalent kicking
+  equivalent
+
+
+2024-03-26
+----------
+
+| BPM | Lang | Type     | Accuracy (%) |   WPM |
+|-----+------+----------+--------------+-------|
+| 180 | HUN  | 8 min    |        98.75 | 33.55 |
+| 180 | HUN  | group1-2 |        98.13 | 33.10 |
+
+- group2
+
+hülye hülye együttműködés megüt hülye óriási óriási együttműködés
+különb privatizációs megüt hálálkodó hálálkodó hülye megüt
+privatizációs együttműködés hálálkodó hülye egymástól hülye óriási
+hülye savanyúkáposzta bütyök hálálkodó különb hülye privatizációs
+
+- group1
+
+savanyúkáposzta látható látható egymástól privatizációs együttműködés
+óriási hülye savanyúkáposzta savanyúkáposzta megüt óriási óriási
+óriási hálálkodó bütyök együttműködés megüt együttműködés
+privatizációs hálálkodó savanyúkáposzta óriási együttműködés megüt
+megüt
+
+2024-03-25
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 180 | ENG  | 8 min  |        99.93 | 35.22 |
+| 180 | ENG  | group1 |       100.00 | 36.17 |
+
+- group1
+
+involvement involvement involvement involvement involvement
+
+2024-03-24
+----------
+
+| BPM | Lang | Type   | Accuracy (%) |   WPM |
+|-----+------+--------+--------------+-------|
+| 175 | ENG  | 8 min  |        99.31 | 32.40 |
+| 175 | ENG  | group1 |       100.00 | 34.69 |
+| 175 | HUN  | 8 min  |        99.40 | 33.12 |
+| 175 | HUN  | group2 |        98.79 | 32.86 |
+| 175 | HUN  | group2 |        99.09 | 33.65 |
+| 175 | HUN  | group2 |        98.79 | 33.47 |
+| 175 | HUN  | group2 |        99.39 | 33.46 |
+
+- group2
+
+  fütyül kórház kommunikációs kommunikációs derült kórház
+  kommunikációs kommunikációs kommunikációs szempontjából
+  szempontjából kommunikációs bíróság kommunikációs fütyül
+  szempontjából kommunikációs kommunikációs fütyül kommunikációs
+  bíróság bíróság derült kommunikációs szempontjából derült bíróság
+  derült kommunikációs bíróság
+
+- group1
+
+innovative bookmarks equivalent overstock extensive extensive
+extensive overstock equivalent equivalent innovative equivalent
+preventive extensive bookmarks equivalent equivalent equivalent
+extensive innovative overstock equivalent equivalent overstock
+innovative equivalent extensive bookmarks preventive innovative
+
 2024-03-23
 ----------
 
