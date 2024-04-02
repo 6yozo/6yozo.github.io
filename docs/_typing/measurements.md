@@ -37,6 +37,75 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-04-02
+----------
+
+| BPM | Lang | Type      | Accuracy (%) |   WPM |
+|-----+------+-----------+--------------+-------|
+| 210 | ENG  | 8 min     |        99.50 | 40.05 |
+| 210 | ENG  | group 1   |       100.00 | 40.44 |
+| 210 | HUN  | 8 min     |        98.22 | 38.25 |
+| 210 | HUN  | group 2-4 |        96.85 | 36.09 |
+| 215 | ENG  | 8 min     |        99.70 | 42.07 |
+| 215 | ENG  | group 5   |        99.60 | 42.40 |
+| 215 | ENG  | group 5   |        96.90 | 38.50 |
+| 215 | ENG  | group 5   |        99.20 | 40.92 |
+| 215 | ENG  | group 5   |        98.80 | 39.38 |
+| 215 | ENG  | group 5   |        98.41 | 39.35 |
+| 215 | ENG  | group 5   |        98.80 | 39.33 |
+| 215 | ENG  | group 5   |        99.60 | 40.93 |
+| 215 | ENG  | group 5   |       100.00 | 41.17 |
+| 218 | ENG  | 8 min     |        99.34 | 41.02 |
+| 218 | ENG  | group 6-7 |        98.73 | 43.21 |
+| 218 | ENG  | group 6   |        98.37 | 41.25 |
+| 218 | ENG  | group 6   |       100.00 | 43.73 |
+| 218 | ENG  | group 7   |        99.53 | 42.56 |
+| 218 | ENG  | group 7   |       100.00 | 42.22 |
+
+- group 7
+
+trackback quake extensively explosive velvet vertex survival quickly
+velvet velvet executives vertex quickly quake quickly quickly quickly
+extensively velvet velvet executives survival velvet quake extensively
+
+- group 6
+
+executives extensively quake quake quickly quickly extensively
+trackback velvet quake trackback velvet velvet quickly executives
+extensively quickly extensively extensively quickly
+
+- group 5
+
+karaoke textbook textbook textbook inexpensive inexpensive equivalent
+equivalent overview textbook overview equivalent karaoke equivalent
+textbook overview textbook karaoke inexpensive inexpensive inexpensive
+overview overview inexpensive overview
+
+- group 4
+
+  savanyúkáposzta számítógépes számítógépes állandóan hatóság céljából
+  állandóan szempontjából állandóan számítógépes órát nagyjából megüt
+  órát állandóan módosító megüt kommunikációs céljából nagyjából
+  állandóan származó valójában álló hatóság egymástól időjárásról
+  számítógépes álló céljából privatizációs állandóan időjárásról
+
+- group 3
+
+  céljából savanyúkáposzta származó órát álló variáció egymástól
+  variáció órát valójában egymástól álló hatóság megüt álló hatóság
+  variáció kommunikációs számítógépes céljából hatóság hatóság órát
+  megüt egymástól valójában privatizációs valójában nagyjából
+  valójában valójában kommunikációs savanyúkáposzta egymástól
+
+- group 2
+
+  szempontjából variáció álló órát céljából valójában állandóan
+  valójában megüt órát származó számítógépes álló számítógépes
+  savanyúkáposzta savanyúkáposzta nagyjából szempontjából valójában
+  valójában megüt nagyjából várható számítógépes valójában nagyjából
+  módosító időjárásról savanyúkáposzta időjárásról megüt időjárásról
+  számítógépes
+
 2024-04-01
 ----------
 
