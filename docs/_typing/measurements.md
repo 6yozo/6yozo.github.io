@@ -37,6 +37,106 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-04-07
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| HUN  | 165 | group 2       |        99.17 | 30.12 |
+| HUN  | 165 | group 2       |       100.00 | 32.19 |
+| ENG  |  56 | pair e200 60s |        98.18 | 21.60 |
+| ENG  |  56 | pair e200 60s |        98.21 | 22.00 |
+| ENG  |  56 | pair e200 60s |        93.07 | 19.60 |
+| ENG  |  56 | pair e200 60s |        90.38 | 18.80 |
+| ENG  |  56 | pair e200 60s |        96.26 | 20.60 |
+| ENG  |  56 | pair e200 60s |        88.39 | 18.40 |
+| ENG  |  56 | pair e200 60s |        95.58 | 21.60 |
+| ENG  |  56 | pair e200 60s |        94.64 | 21.20 |
+| ENG  |  56 | pair e200 60s |        99.09 | 21.80 |
+| ENG  |  56 | pair e200 60s |       100.00 | 21.80 |
+| HUN  | 165 | group 3       |        98.25 | 31.48 |
+| HUN  | 165 | group 3       |        98.69 | 30.83 |
+| HUN  | 165 | group 3       |       100.00 | 32.59 |
+| HUN  | 165 | 8 min         |        99.15 | 32.00 |
+| HUN  | 165 | group 1       |        98.48 | 31.69 |
+
+- group 1
+
+  látható pördül látható látható várhatóan látható pördül látható
+  állítólag látható látható látható privatizációs állítólag látható
+  látható fütyül várhatóan fütyül várhatóan fütyül látható látható
+  látható privatizációs látható várhatóan látható látható látható
+
+2024-04-06
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  56 | pair e200 60s |        95.10 | 19.40 |
+| ENG  |  56 | pair e200 60s |       100.00 | 20.60 |
+| HUN  | 175 | 8 min         |        98.43 | 32.60 |
+| HUN  | 175 | group1-3      |        98.76 | 33.56 |
+| HUN  | 175 | group 1       |        98.43 | 32.72 |
+| HUN  | 165 | group 1       |        99.60 | 31.74 |
+| HUN  | 165 | group 1       |        99.60 | 32.12 |
+| HUN  | 165 | group 1       |        99.20 | 32.00 |
+| HUN  | 165 | group 1       |       100.00 | 31.62 |
+
+- group 3
+
+fürge fürge fütyül fütyül privatizációs kátyú fürge fütyül
+szempontjából vállalkozók fütyül információ kalandvágyó céljából
+fütyül privatizációs szempontjából fütyül információ információ
+információ derült fütyül pördül fürge
+
+- group 2
+
+leül privatizációs hülye céljából leül ürge kalandvágyó hülye
+privatizációs fütyül hülye pördül bütyök derült fürge nagyjából
+információ fütyül hülye kalandvágyó hülye szempontjából hülye céljából
+fütyül ürge vállalkozók hülye fürge derült
+
+- group 1
+
+információ kalandvágyó hülye információ nagyjából leül fütyül járó
+derült fürge fütyül vállalkozók pördül fürge vállalkozók fütyül fürge
+fütyül bütyök céljából privatizációs ürge pördül szempontjából járó
+információ járó bütyök hülye szempontjából
+
+2024-04-05
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  53 | pair e200 60s |        96.19 | 20.00 |
+| ENG  |  53 | pair e200 60s |        98.06 | 20.00 |
+| ENG  |  53 | pair e200 60s |       100.00 | 19.80 |
+| ENG  |  56 | pair e200 60s |        94.06 | 19.00 |
+
+
+2024-04-04
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  50 | pair e200 60s |        97.80 | 17.80 |
+| ENG  |  50 | pair e200 60s |        87.06 | 14.20 |
+| HUN  | 170 | group 2       |        99.70 | 32.87 |
+| HUN  | 170 | group 2       |        98.53 | 32.27 |
+| HUN  | 170 | group 2       |       100.00 | 33.12 |
+| HUN  | 170 | group 3       |        98.45 | 31.50 |
+| HUN  | 170 | group 3       |        99.05 | 32.78 |
+| HUN  | 170 | group 3       |        99.68 | 33.50 |
+| HUN  | 170 | group 3       |        98.74 | 31.41 |
+| HUN  | 170 | group 3       |       100.00 | 32.76 |
+| HUN  | 170 | group 4       |        98.79 | 32.13 |
+| HUN  | 170 | group 4       |       100.00 | 33.32 |
+| HUN  | 170 | 8 min         |        99.77 | 32.80 |
+| ENG  |  50 | pair e200 60s |        87.01 | 13.40 |
+| ENG  |  50 | pair e200 60s |       100.00 | 19.00 |
+| ENG  |  53 | pair e200 60s |        96.60 | 18.60 |
+
+
 2024-04-02
 ----------
 
