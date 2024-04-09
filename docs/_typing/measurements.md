@@ -37,6 +37,60 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-04-09
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  59 | pair e200 60s |        94.55 | 20.80 |
+| HUN  | 155 | group 1       |        98.60 | 22.89 |
+| HUN  | 155 | group 1       |       100.00 | 31.02 |
+| HUN  | 155 | group 2       |        99.28 | 30.79 |
+| HUN  | 155 | group 2       |       100.00 | 30.38 |
+| HUN  | 155 | 8 min         |        98.76 | 29.85 |
+| HUN  | 145 | group 1-2     |        98.51 |  26.31 |
+
+
+- group 2
+
+vállalkozók tükör támadó vállalkozók tükör fütyül szempontjából
+vállalkozók vállalkozók bürök vállalkozók szempontjából vállalkozók
+hülye szempontjából vállalkozók fütyül szempontjából tükör bürök
+
+
+- group 1
+
+vállalkozók hülye vállalkozók fütyül hülye fütyül bürök szempontjából
+különb bürök fütyül vállalkozók bürök szempontjából bürök tükör támadó
+fürge különb fütyül fütyül vállalkozók fürge hülye fütyül
+
+2024-04-08
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  59 | pair e200 60s |        94.79 | 18.00 |
+| ENG  |  59 | pair e200 60s |        92.52 | 19.40 |
+| ENG  |  59 | pair e200 60s |        96.33 | 21.00 |
+| HUN  | 165 | group 1       |        99.61 | 32.50 |
+| HUN  | 165 | group 1       |        99.62 | 32.27 |
+| HUN  | 165 | group 1       |        99.23 | 32.40 |
+| HUN  | 165 | group 1       |        95.94 | 31.54 |
+| HUN  | 165 | group 1       |       100.00 | 33.14 |
+| HUN  | 165 | 8 min         |        98.84 | 31.95 |
+| HUN  | 165 | group 1-2     |        98.60 | 30.99 |
+
+- group 2
+
+megkergül találkozó megkergül várható valóság kátyú találkozó valóság
+derült kátyú derült várható derült kátyú kátyú kátyú találkozó tükör
+
+- group 1
+
+valóság tükör tükör kátyú kátyú derült megkergül kátyú tükör tükör
+kátyú tükör derült tükör kátyú kátyú tükör kátyú derült kátyú kátyú
+derült
+
 2024-04-07
 ----------
 
