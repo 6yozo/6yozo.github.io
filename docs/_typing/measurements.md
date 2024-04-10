@@ -37,6 +37,27 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-04-10
+----------
+
+| Lang | BPM | Type           | Accuracy (%) |   WPM |
+|------+-----+----------------+--------------+-------|
+| HUN  | 145 | group 1        |        96.59 | 24.98 |
+| HUN  | 145 | group 1        |        99.50 | 28.20 |
+| HUN  | 145 | group 1        |       100.00 | 29.17 |
+| HUN  | 145 | group 2        |       100.00 | 28.46 |
+| HUN  | 145 | 8 min          |        99.02 | 27.72 |
+| HUN  | 145 | group 1        |        98.05 | 27.78 |
+| ENG  |  59 | pair e200 60 s |        92.00 | 13.60 |
+| ENG  |  59 | pair e200 60 s |        96.49 | 22.00 |
+| ENG  |  59 | pair e200 60 s |        99.15 | 23.40 |
+
+- group 1
+
+  előkerül pördül megüt pördül megüt előkerül megüt előkerül megüt
+  valójában valójában valójában valójában előkerül valójában előkerül
+  előkerül megüt állandó megüt megüt előkerül előkerül állandó állandó
+
 2024-04-09
 ----------
 
