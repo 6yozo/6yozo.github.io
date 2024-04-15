@@ -8,6 +8,19 @@ tags: Typing, Colemak-DH, Colmak Club, Bunya-DTM, Monkeytpe
 
 Todo: Window navigation by keyboard. Move / Resize
 
+Keyboard design ideas:
+- Built-in 23 degree tent, 7 degree tilt
+- Jack and cables should be at the bottom of the case
+- The jacks and the connectors should be reinforced 
+  so that no pressure is applied to the internal components
+  when the cable is accidentally forcefully pushed
+- The keyboard should be split, connected by a cable
+  Wireless connection does not always work
+- There should be only a single processor in the system
+- There should be only a single led in the system
+- The two parts shoud be connected by something like serial or parallel port
+- The should have 42 keys
+- The columns should be splayed based an reachabilith without moving the wrist
 
 Test results
 ============
@@ -37,6 +50,79 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-04-15
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  68 | pair e200 60s |        93.55 | 23.20 |
+| ENG  |  68 | pair e200 60s |        96.06 | 24.40 |
+| HUN  | 165 | group 1       |        95.04 | 28.83 |
+| HUN  | 165 | group 1       |       100.00 | 32.00 |
+
+2024-04-14
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  68 | pair e200 60s |        94.26 | 22.00 |
+| HUN  | 160 | 8 min         |        99.26 | 30.22 |
+| HUN  | 160 | group 1       |       99.44  | 29.97 |
+
+- group 2
+
+megüt variáció variáció állítólag járó járó hálálkodó állítólag
+módosító kalandvágyó hálálkodó hálálkodó módosító variáció valóság
+hálálkodó állítólag módosító megüt variáció
+
+- group 1
+
+módosító megüt hálálkodó hálálkodó hálálkodó megüt hálálkodó hálálkodó
+hálálkodó hálálkodó variáció valóság módosító állítólag kalandvágyó
+módosító variáció járó állítólag megüt
+
+2024-04-12
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  65 | pair e200 60s |        97.54 | 23.80 |
+| ENG  |  65 | pair e200 60s |        91.67 | 22.00 |
+| HUN  | 150 | group 1       |       100.00 | 26.51 |
+| HUN  | 155 | 8 min         |        99.66 | 29.42 |
+| HUN  | 155 | group 1       |       100.00 | 28.76 |
+| ENG  |  65 | pair e200 60s |        96.75 | 23.80 |
+| ENG  |  65 | pair e200 60s |       100.00 | 26.20 |
+| ENG  |  68 | pair e200 60s |        95.28 | 24.00 |
+
+- group 1
+
+savanyúkáposzta időjárásról bürök időjárásról savanyúkáposzta
+savanyúkáposzta időjárásról savanyúkáposzta időjárásról kátyú
+savanyúkáposzta kátyú időjárásról savanyúkáposzta bürök kátyú kátyú
+savanyúkáposzta kátyú savanyúkáposzta
+
+2024-04-11
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  59 | pair e200 60s |        98.25 | 22.40 |
+| ENG  |  59 | pair e200 60s |        96.67 | 23.20 |
+| ENG  |  59 | pair e200 60s |       100.00 | 21.20 |
+| HUN  | 145 | group 1       |        99.50 | 28.47 |
+| HUN  | 145 | group 1       |        99.50 | 28.76 |
+| HUN  | 145 | group 1       |       100.00 | 29.17 |
+| HUN  | 150 | 8 min         |        99.83 | 28.60 |
+| ENG  |  62 | pair e200 60s |       100.00 | 23.80 |
+| ENG  |  65 | pair e200 60s |        92.80 | 23.20 |
+| ENG  |  65 | pair e200 60s |        93.39 | 22.60 |
+
+- group 1
+
+  szótár időjárásról időjárásról szótár időjárásról időjárásról szótár
+  időjárásról időjárásról szótár
+
 2024-04-10
 ----------
 
@@ -51,6 +137,10 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 | ENG  |  59 | pair e200 60 s |        92.00 | 13.60 |
 | ENG  |  59 | pair e200 60 s |        96.49 | 22.00 |
 | ENG  |  59 | pair e200 60 s |        99.15 | 23.40 |
+| ENG  |  59 | pair e200 60 s |        95.37 | 20.20 |
+| ENG  |  59 | pair e200 60 s |        99.09 | 21.60 |
+| ENG  |  59 | pair e200 60 s |        96.19 | 20.00 |
+| ENG  |  59 | pair e200 60 s |        95.73 | 22.40 |
 
 - group 1
 
