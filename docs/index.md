@@ -1,13 +1,15 @@
 Windows 11
 ===
 
-{% for windows11_page in site.windows11 %}
-  - [{{ windows11_page.title }}]({{ windows11_page.url }})
+{% for item in site._windows11 %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.url }}</p>
 {% endfor %}
 
 Typing
 ===
 
-{% for typing_page in site.typing %}
-  - [{{ typing_page.title }}]({{ typing_page.url }})
+{% for item in site._typing %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.url }}</p>
 {% endfor %}
