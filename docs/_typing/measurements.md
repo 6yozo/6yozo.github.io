@@ -11,7 +11,7 @@ Todo: Window navigation by keyboard. Move / Resize
 Keyboard design ideas:
 - Built-in 23 degree tent, 7 degree tilt
 - Jack and cables should be at the bottom of the case
-- The jacks and the connectors should be reinforced 
+- The jacks and the connectors should be reinforced
   so that no pressure is applied to the internal components
   when the cable is accidentally forcefully pushed
 - The keyboard should be split, connected by a cable
@@ -50,6 +50,87 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+
+2024-04-20
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  68 | pair e200 60s |        98.32 | 22.80 |
+| ENG  |  68 | pair e200 60s |       100.00 | 22.80 |
+
+2024-04-19
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| HUN  | 185 | group1        |       100.00 | 36.51 |
+| HUN  | 185 | 8 min         |        99.37 | 35.22 |
+| HUN  | 185 | group 1       |       100.00 | 36.07 |
+| ENG  |  68 | pair e200 60s |        94.25 | 16.40 |
+| ENG  |  68 | pair e200 60s |        98.35 | 23.80 |
+
+- group 1
+
+  infláció hatóság infláció infláció infláció infláció hatóság ütközik
+  ütközik előkerül hatóság infláció kátyú ütközik kátyú derült kátyú
+  előkerül nagyjából előkerül előkerül előkerül előkerül előkerül
+  kátyú infláció előkerül nagyjából infláció kátyú derült vállalkozók
+  vállalkozók előkerül előkerül nagyjából kátyú előkerül derült
+  nagyjából
+
+2024-04-18
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| HUN  | 180 | group1        |       100.00 | 35.50 |
+| HUN  | 180 | 8 min         |        99.21 | 34.20 |
+| HUN  | 180 | group 1       |        99.45 | 34.92 |
+| ENG  |  68 | pair e200 60s |              |       |
+
+- group 1
+
+szempontjából ürge ürge céljából szempontjából szempontjából ürge
+kommunikációs szempontjából szempontjából ürge kommunikációs céljából
+kommunikációs ürge szempontjából egymástól szempontjából kommunikációs
+kommunikációs egymástól céljából céljából ürge céljából látható
+látható ürge egymástól szempontjából kommunikációs kommunikációs ürge
+szempontjából céljából
+*
+2024-04-17
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  68 | pair e200 60s |        89.15 | 23.00 |
+| ENG  |  68 | pair e200 60s |        94.62 | 24.60 |
+| ENG  |  68 | pair e200 60s |        96.12 | 24.80 |
+| HUN  | 175 | 8 min         |        99.56 | 33.70 |
+| HUN  | 175 | group 1       |        98.98 | 33.84 |
+| ENG  |  68 | pair e200 60s |        94.74 | 25.20 |
+| ENG  |  68 | pair e200 60s |        94.96 | 22.00 |
+| ENG  |  68 | pair e200 60s |        88.00 | 21.60 |
+
+- group 1
+
+  kerül nyilvánvaló kerül időjárásról időjárásról időjárásról
+  nyilvánvaló kerül nyilvánvaló nyilvánvaló kalandvágyó kerül kerül
+  látható időjárásról kerül nyilvánvaló látható nyilvánvaló kerül
+  kerül nyilvánvaló látható kalandvágyó kerül kalandvágyó időjárásról
+  időjárásról látható kalandvágyó
+
+2024-04-16
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  68 | pair e200 60s |        98.45 | 25.20 |
+| ENG  |  68 | pair e200 60s |        95.28 | 23.20 |
+| HUN  | 170 | 8 min         |        99.39 | 32.32 |
+| HUN  | 170 | group 1       |       100.00 | 33.26 |
+
+
 2024-04-15
 ----------
 
@@ -59,6 +140,20 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 | ENG  |  68 | pair e200 60s |        96.06 | 24.40 |
 | HUN  | 165 | group 1       |        95.04 | 28.83 |
 | HUN  | 165 | group 1       |       100.00 | 32.00 |
+| HUN  | 165 | group 2       |        99.43 | 31.06 |
+| HUN  | 165 | group 2       |        99.43 | 31.95 |
+| HUN  | 165 | group 2       |       100.00 | 32.83 |
+| HUN  | 165 | 8 min         |        99.36 | 30.85 |
+| HUN  | 165 | group 1       |       100.00   | 32.65 |
+
+- group 1
+
+  állítólag ütközik kiváló infláció privatizációs ütközik ütközik
+  nyilvánvaló kiváló megkergül ütközik privatizációs megkergül kiváló
+  megkergül privatizációs kiváló ütközik infláció infláció nyilvánvaló
+  kiváló nyilvánvaló privatizációs megkergül nyilvánvaló kiváló kiváló
+  kiváló állítólag megkergül privatizációs privatizációs infláció
+  megkergül
 
 2024-04-14
 ----------
