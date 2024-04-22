@@ -16,7 +16,7 @@ kramdown:
   syntax_highlighter: rouge
 
 collections:
-  windows11:
+  _windows11:
     output: true
-  typing:
+  _typing:
     output: true
