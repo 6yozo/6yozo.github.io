@@ -1,13 +1,25 @@
+---
+layout: default
+title: ZSH
+date: 23 04 2024
+author: GG
+tags: zsh
+---
+
 Installation
 ---
 
 Determine the location of the shell
 
+```
 which zsh
-
+```
+    
 then change the shell
 
+```
 chsh -s /usr/bin/zsh
+```
 
 Log out of your computer and log back in!
 
@@ -18,6 +30,7 @@ Set history file size limits to 1 000 000.
 The .zshrc file
 ---
 
+```
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
 HISTSIZE=1000000
@@ -34,20 +47,26 @@ compinit
 
 ## Colorize the ls output ##
 alias ls='ls --color=auto'
+```
 
 Make Helix the default editor
 ---
 
 # Make Helix the default editor for command-line tasks
+```
 export EDITOR=helix
+```
 
 Set up liquidprompt
 ---
 
+```
 git clone --branch stable https://github.com/nojhan/liquidprompt.git ~/liquidprompt
+```
 
-Then add to .zshrc:
+Then add to ``.zshrc``:
 
+```
 # Setup Liquidprompt with Powerline theme
 setup_liquidprompt() {
     LP_ENABLE_TIME=1
@@ -80,6 +99,7 @@ LP_DISABLED_VCS_PATHS=(
     "/c/Workspace/nFlow2"
 )
 setup_liquidprompt
+```
 
 Vi navgation
 ---
@@ -87,12 +107,12 @@ Vi navgation
 To get into command mode, press [ESC]
 To return to insert mode, simply type i,
 
-$ go the end of the line or
-0 go to the beginning of the line.
-b to go back one word
-2b to go back two words
-dw to delete a word
-dd to delete the entire line
-d$ to delete from the current cursor position to the end of the line
-d0 to delete from the current cursor position to the beginning of the line
-w to go forward one word, and so forth
+- $ go the end of the line or
+- 0 go to the beginning of the line.
+- b to go back one word
+- 2b to go back two words
+- dw to delete a word
+- dd to delete the entire line
+- d$ to delete from the current cursor position to the end of the line
+- d0 to delete from the current cursor position to the beginning of the line
+- w to go forward one word, and so forth

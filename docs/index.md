@@ -1,13 +1,39 @@
-Windows 11
+---
+layout: default
+title: Table of contents
+date: 23 04 2024
+author: GG
+tags: blog, knowledgebase
+---
+
+Alacritty
 ===
 
-{% for windows11_page in site.windows11 %}
-  - [{{ windows11_page.title }}]({{ windows11_page.url }})
-{% endfor %}
+- [Installation](/alacritty/install.html)
+- [Snippets](/alacritty/snippets.html)
+
+Helix
+===
+
+- [Installation](/helix/install.html)
+- [Pipe](/helix/pipe.html)
+
+Tumbleweed
+===
+
+- [QMK](/tumbleweed/qmk.html)
 
 Typing
 ===
 
-{% for typing_page in site.typing %}
-  - [{{ typing_page.title }}]({{ typing_page.url }})
-{% endfor %}
+- [Measurements](/typing/measurements.html)
+
+Windows 11
+===
+
+- [Installation](/windows11/installation.html)
+
+ZSH
+===
+
+- [Installation](/zsh/install.html)

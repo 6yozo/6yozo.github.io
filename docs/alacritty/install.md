@@ -1,21 +1,34 @@
+---
+layout: default
+title: Installation
+date: 23 04 2024
+author: GG
+tags: terminal, alacritty
+---
+
 Tumbleweed
 ---
 
+```
 sudo zypper install alacritty
+```
 
 Useful Link:
 
-https://wiki.archlinux.org/title/Alacritty
+[Alacritty - ArchWiki](https://wiki.archlinux.org/title/Alacritty)
 
 Set up font
 ---
 
 Install Font:
 
+```
 sudo zypper install jetbrains-mono-fonts
+```
 
 Check installed fonts:
 
+```
 gg  ~  fc-list : family style | grep -i jetbrains
 
 JetBrains Mono,JetBrains Mono ExtraBold:style=ExtraBold Italic,Italic
@@ -50,9 +63,11 @@ JetBrains Mono NL,JetBrains Mono NL Thin:style=Thin Italic,Italic
 JetBrains Mono,JetBrains Mono Medium:style=Medium Italic,Italic
 JetBrains Mono NL:style=Italic
 JetBrains Mono NL:style=Boldlocalhost% fc-list : family style | grep -i fira
+```
 
-Setup font in $HOME/.config/alacritty/alacritty.toml
+Setup font in ``$HOME/.config/alacritty/alacritty.toml``
 
+```
 [font]
 size = 13.0
 
@@ -71,12 +86,15 @@ style = "Italic"
 [font.normal]
 family = "JetBrains Mono
 style = "Regular"
+```
+  
 
 Change color theme
 ---
 
-create a config file in $HOME/.config/alacritty/alacritty.toml with content:
+create a config file in ``$HOME/.config/alacritty/alacritty.toml`` with content:
 
+```
 # Default colors
 [colors.primary]
 background = '#122637'
@@ -107,4 +125,4 @@ blue    = '#5555ff'
 magenta = '#ff55ff'
 cyan    = '#6ae3f9'
 white   = '#ffffff'
-
+```
