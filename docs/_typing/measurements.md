@@ -51,6 +51,37 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 órát órától savanyúkáposzta kátyú
 
 
+2024-04-23
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  71 | pair e200 60s |        97.87 | 27.20 |
+| ENG  |  71 | pair e200 60s |        98.56 | 27.39 |
+| ENG  |  71 | pair e200 60s |        97.10 | 26.80 |
+| HUN  | 190 | 8 min         |        98.49 | 35.72 |
+| HUN  | 190 | group 1       |        97.91 | 33.59 |
+| ENG  |  71 | pair e200 60s |        94.24 | 26.20 |
+| ENG  |  71 | pair e200 60s |        84.86 | 20.20 |
+| ENG  |  71 | pair e200 60s |       100.00 | 26.40 |
+| ENG  |  74 | pair e200 60s |        92.42 | 24.40 |
+ 
+- group 2
+
+pördül kátyú előkerül pördül együttműködés céljából
+kátyú előkerül előkerül ürge pördül kátyú kátyú bürök
+ürge kommunikációs ürge kátyú találkozó ürge ürge kátyú
+pördül kátyú pördül kátyú kommunikációs találkozó
+találkozó céljából előkerül szempontjából
+
+- group 1
+
+előkerül ürge ürge ütközik kátyú pördül kátyú pördül
+kátyú pördül kátyú előkerül kátyú kátyú ürge kommunikációs
+ürge bürök pördül együttműködés előkerül pördül találkozó
+várható kátyú kommunikációs pördül kommunikációs kommunikációs
+ürge ürge pördül kátyú 
+
 2024-04-20
 ----------
 
