@@ -50,7 +50,53 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
-2024-04-23
+2024-04-26
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  74 | pair e200 60s |        87.31 | 23.20 |
+| HUN  | 185 | group 1       |       100.00 | 36.02 |
+| HUN  | 185 | 8 min         |        99.51 | 35.70 |
+| HUN  | 185 | group 1       |        98.59 | 34.64 |
+
+- group 1
+
+látható egymástól látható variáció megüt nagyjából
+savanyúkáposzta látható nagyjából megüt nagyjából nagyjából
+variáció nagyjából egymástól nagyjából variáció látható
+nagyjából variáció nagyjából megüt megüt látható látható
+egymástól variáció egymástól egymástól savanyúkáposzta
+
+2024-04-25
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  74 | pair e200 60s |        94.37 | 26.80 |
+| HUN  | 180 | group 1       |        99.61 | 34.64 |
+| HUN  | 180 | group 1       |        97.70 | 34.52 |
+| HUN  | 180 | group 1       |        96.68 | 32.35 |
+| HUN  | 180 | group 1       |       100.00 | 34.32 |
+| HUN  | 180 | group 2       |        99.22 | 34.13 |
+| HUN  | 180 | group 2       |       100.00 | 34.15 |
+| HUN  | 180 | 8 min         |        99.13 | 33.85 |
+| HUN  | 180 | group 1       |        99.44 | 33.81 |
+| ENG  |  74 | pair e200 60s |        96.15 | 24.40 |
+| ENG  |  74 | pair e200 60s |        97.24 | 28.20 |
+| ENG  |  74 | pair e200 60s |        95.45 | 24.80 |
+
+- group 1
+
+valójában várhatóan várható valójában megüt várhatóan valóság
+megüt várható fügedarázs kalandvágyó fügedarázs valóság
+várhatóan várható valójában valójában valójában várható
+várhatóan várhatóan valójában bütyök kalandvágyó megüt
+megüt bütyök várható valójában valóság valóság valójában
+fügedarázs bütyök megüt fügedarázs megüt valójában várhatóan
+valójában
+
+2024-04-24
 ----------
 
 | Lang | BPM | Type          | Accuracy (%) |   WPM |
