@@ -66,6 +66,8 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 | ENG  |  74 | pair e200 60s |        99.28 | 27.20 |
 | HUN  | 190 | 8 min         |        99.60 | 36.87 |
 | HUN  | 191 | group 1       |        98.41 | 35.38 |
+| ENG  |  74 | pair e200 60s |        96.50 | 27.60 |
+| ENG  |  74 | pair e200 60s |       100.00 | 29.20 |
 
 - group 1
 
