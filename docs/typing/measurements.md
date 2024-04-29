@@ -10,17 +10,24 @@ Todo: Window navigation by keyboard. Move / Resize
 
 Keyboard design ideas:
 - Built-in 23 degree tent, 7 degree tilt
-- Jack and cables should be at the bottom of the case
-- The jacks and the connectors should be reinforced
+- An extra weight should be added to the design for typing comfort
+- The leds should face the typist not the users around, they should be
+  placed to bottom of the board
+- The switch plate sould be translucent at the bottom or should have a lot of
+  holes.
+- Jack and the usb cables should be at the bottom of the case
+- The jacks and the usb connectors should be reinforced
   so that no pressure is applied to the internal components
   when the cable is accidentally forcefully pushed
 - The keyboard should be split, connected by a cable
   Wireless connection does not always work
 - There should be only a single processor in the system
-- There should be only a single led in the system
+- There should be only a single oled screen in the system
 - The two parts shoud be connected by something like serial or parallel port
-- The should have 42 keys
-- The columns should be splayed based an reachabilith without moving the wrist
+- Should have 42 keys + 1 or 2 additional rarely used keys like SYSTEM
+- The columns should be aggressive staggered and splayed based an reachability
+  without moving the wrist
+- The switch plate and the pcb should be pulled together by screws
 
 Test results
 ============
@@ -49,6 +56,24 @@ számító számítógépes származó szempontjából szolgáltató található
 találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
+
+2024-04-29
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  74 | pair e200 60s |        97.01 | 25.60 |
+| ENG  |  74 | pair e200 60s |        99.28 | 27.20 |
+| HUN  | 190 | 8 min         |        99.60 | 36.87 |
+| HUN  | 191 | group 1       |        98.41 | 35.38 |
+
+- group 1
+
+ütközik ütközik egymástól előkerül ütközik bütyök előkerül
+egymástól egymástól bütyök együttműködés együttműködés
+együttműködés egymástól ütközik egymástól előkerül
+egymástól ütközik ütközik együttműködés ütközik egymástól
+együttműködés ütközik
 
 2024-04-26
 ----------
