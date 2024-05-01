@@ -57,6 +57,35 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-05-01
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  78 | pair e200 60s |        98.01 | 29.60 |
+| ENG  |  78 | pair e200 60s |        94.84 | 29.20 |
+| HUN  | 200 | group 1       |        99.16 | 37.95 |
+
+2024-04-30
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  78 | pair e200 60s |        98.60 | 28.20 |
+| ENG  |  78 | pair e200 60s |        96.43 | 26.40 |
+| HUN  | 195 | group 1       |        98.80 | 34.51 |
+| HUN  | 195 | group 1       |       100.00 | 37.13 |
+| HUN  | 195 | 8 min         |        99.61 | 37.90 |
+| HUN  | 195 | group 1       |        95.28 | 31.18 |
+
+- group 1
+
+pördül bütyök bütyök fügedarázs bütyök bütyök pördül
+pördül fügedarázs infláció fügedarázs infláció támadó hülye
+fügedarázs infláció pördül pördül pördül pördül bütyök
+pördül bütyök hülye pördül fügedarázs támadó pördül hülye
+fügedarázs 
+
 2024-04-29
 ----------
 
