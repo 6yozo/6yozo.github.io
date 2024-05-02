@@ -3,7 +3,7 @@ layout: default
 title: Installation
 date: 30 06 2023
 author: GG
-tags: windows 11, amd, tuxedo
+tags: windows 11, amd, tuxedo, scoop
 ---
 
 Installation
@@ -55,3 +55,55 @@ Uninstall the driver by running:
 > Driver-AMD_VGA_OEM_ORIGINAL\Bin64\AMDCleanupUtility.exe
 
 Then reinstall it.
+
+
+Install and setup Scoop to manage installed applications
+---
+
+Instal Scoop from ``scoop.sh`` using the Advanced Installation Method.
+This will let us configure directories so virus checkers can be set up
+to ignore these folders.
+
+Download the installer script:
+
+Open PowerShell and run the following command to download the Scoop
+installation script:
+
+``` powershell
+irm get.scoop.sh -outfile 'install.ps1'
+```
+
+To understand all the options you can configure during installation, execute:
+
+``` powershell
+.\install.ps1 -?
+```
+
+Install Scoop to a custom directory and set a custom directory for
+globally installed programs:
+
+``` powershell
+.\install.ps1 -ScoopDir 'C:\Workspace\Programs\Scoop' -ScoopGlobalDir 'C:\Workspace\Programs\GlobalScoopApps'
+```
+
+Install JetBrains Mono font
+---
+
+This is a coding friendly font.
+
+``` powershell
+scoop bucket add nerd-fonts
+scoop install --global JetBrains-Mono
+```
+
+The recommended Font settings are:
+
+Size: 13
+Line spacing: 1.2
+
+Install 7zip
+---
+
+``` powershell
+scoop install --global 7zip
+```

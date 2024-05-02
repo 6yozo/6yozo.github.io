@@ -37,3 +37,13 @@ ZSH
 ===
 
 - [Installation](/zsh/install.html)
+
+Visual Studio
+===
+
+- [Configuration](/visual-studio/configure.html)
+
+Git
+===
+
+- [Configuration](/git/configure.html)

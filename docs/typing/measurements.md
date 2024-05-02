@@ -57,6 +57,16 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+
+2024-05-02
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  78 | pair e200 60s |        94.17 | 22.40 |
+| ENG  |  78 | pair e200 60s |        93.55 | 23.00 |
+| ENG  |  78 | pair e200 60s |        99.33 | 29.79 |
+
 2024-05-01
 ----------
 
@@ -65,9 +75,27 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 | ENG  |  78 | pair e200 60s |        98.01 | 29.60 |
 | ENG  |  78 | pair e200 60s |        94.84 | 29.20 |
 | HUN  | 200 | group 1       |        99.16 | 37.95 |
+| HUN  | 200 | 8 min         |        98.54 | 36.80 |
+| HUN  | 200 | group 1-2     |        98.65 | 37.21 |
 
-2024-04-30
-----------
+- group 2
+
+kizárólag szempontjából bütyök céljából céljából bütyök hatóság
+szempontjából szempontjából vakáció céljából megkergül bütyök
+található találkozó céljából bütyök támadó található fürge bütyök
+különb kizárólag különb található kizárólag céljából kizárólag bütyök
+állítólag vakáció bütyök különb
+
+- group 1
+
+támadó bütyök különb állítólag támadó kizárólag bütyök bütyök
+találkozó megkergül szempontjából vakáció céljából kizárólag céljából
+céljából kizárólag céljából támadó állítólag céljából található
+állítólag vakáció céljából különb szempontjából található céljából
+bütyök vakáció található
+
+
+2024-04-30 ----------
 
 | Lang | BPM | Type          | Accuracy (%) |   WPM |
 |------+-----+---------------+--------------+-------|
