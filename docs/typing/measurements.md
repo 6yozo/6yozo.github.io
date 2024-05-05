@@ -28,6 +28,8 @@ Keyboard design ideas:
 - The columns should be aggressive staggered and splayed based an reachability
   without moving the wrist
 - The switch plate and the pcb should be pulled together by screws
+- The switch plate should be gasket mounted to the bottom of the board.
+  Probably with a series of springs.
 
 Test results
 ============
