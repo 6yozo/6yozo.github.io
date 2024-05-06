@@ -59,6 +59,12 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-05-06
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  78 | pair e200 60s |       100.00 | 30.40 |
 
 2024-05-02
 ----------
