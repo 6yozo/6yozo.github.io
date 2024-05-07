@@ -59,6 +59,37 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-05-07
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  82 | pair e200 60s |       |  |
+| HUN  | 190 | group 1       |        99.65 | 37.21 |
+| HUN  | 190 | group 1       |        99.65 | 37.54 |
+| HUN  | 190 | group 1       |        98.97 | 36.40 |
+| HUN  | 190 | group 1       |       100.00 | 37.75 |
+| HUN  | 190 | group 2       |        99.66 | 36.87 |
+| HUN  | 190 | group 2       |        97.67 | 36.16 |
+| HUN  | 190 | group 2       |       100.00 | 38.10 |
+| HUN  | 190 | 8 min         |        98.97 | 35.62 |
+
+- group 2
+
+vállalkozók megkergül rádió savanyúkáposzta megkergül rádió
+rádió fürge rádió bürök fürge bürök egymástól rádió fürge
+állítólag bürök vállalkozók vállalkozók várhatóan számító
+egymástól egymástól bürök fürge bürök bürök állítólag
+bürök fürge állítólag fürge meghatározó savanyúkáposzta
+
+- group 1
+
+savanyúkáposzta pördül vállalkozók meghatározó állítólag
+megkergül meghatározó számító fürge várhatóan bürök rádió
+vállalkozók bürök savanyúkáposzta várhatóan megkergül
+meghatározó várhatóan várhatóan meghatározó állítólag
+savanyúkáposzta várhatóan fürge vállalkozók számító 
+
 2024-05-06
 ----------
 
