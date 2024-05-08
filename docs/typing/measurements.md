@@ -6,8 +6,6 @@ author: GG
 tags: Typing, Colemak-DH, Colmak Club, Bunya-DTM, Monkeytpe
 ---
 
-Todo: Window navigation by keyboard. Move / Resize
-
 Keyboard design ideas:
 - Built-in 23 degree tent, 7 degree tilt
 - An extra weight should be added to the design for typing comfort
