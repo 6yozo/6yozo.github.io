@@ -57,12 +57,53 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-05-10
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  86 | pair e200 60s |        94.65 | 26.99 |
+| ENG  |  86 | pair e200 60s |        95.86 | 26.40 |
+| HUN  | 185 | group 1       |       100.00 | 36.53 |
+| HUN  | 185 | 8 min         |        99.16 | 35.50 |
+| HUN  | 185 | group 1       |        98.34 | 34.87 |
+
+- group 1
+
+fütyül privatizációs privatizációs privatizációs privatizációs
+privatizációs privatizációs származó privatizációs bütyök
+privatizációs privatizációs privatizációs variáció privatizációs
+variáció privatizációs valójában privatizációs variáció
+privatizációs privatizációs privatizációs bütyök privatizációs
+privatizációs fütyül privatizációs valójában bütyök
+
+2024-05-08
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  82 | pair e200 60s |        99.36 | 30.80 |
+| ENG  |  82 | pair e200 60s |       100.00 | 32.40 |
+| HUN  | 180 | group 1       |       100.00 | 35.10 |
+| HUN  | 180 | group 2       |        98.62 | 34.66 |
+| HUN  | 180 | group 2       |       100.00 | 35.75 |
+| HUN  | 180 | 8 min         |        99.57 | 34.85 |
+| HUN  | 180 | group 1       |        94.55 | 31.04 |
+
+- group 1
+
+ütközik ütközik támadó fütyül fütyül fütyül ütközik
+fütyül ütközik ütközik megkergül támadó ütközik ütközik
+fütyül ütközik ütközik megkergül ütközik támadó
+
 2024-05-07
 ----------
 
 | Lang | BPM | Type          | Accuracy (%) |   WPM |
 |------+-----+---------------+--------------+-------|
-| ENG  |  82 | pair e200 60s |       |  |
+| ENG  |  82 | pair e200 60s |        98.10 | 30.80 |
+| ENG  |  82 | pair e200 60s |        98.75 | 31.60 |
+| ENG  |  82 | pair e200 60s |        96.84 | 30.40 |
 | HUN  | 190 | group 1       |        99.65 | 37.21 |
 | HUN  | 190 | group 1       |        99.65 | 37.54 |
 | HUN  | 190 | group 1       |        98.97 | 36.40 |
@@ -135,7 +176,8 @@ céljából kizárólag céljából támadó állítólag céljából találhat�
 bütyök vakáció található
 
 
-2024-04-30 ----------
+2024-04-30
+ ----------
 
 | Lang | BPM | Type          | Accuracy (%) |   WPM |
 |------+-----+---------------+--------------+-------|
@@ -152,7 +194,8 @@ pördül bütyök bütyök fügedarázs bütyök bütyök pördül
 pördül fügedarázs infláció fügedarázs infláció támadó hülye
 fügedarázs infláció pördül pördül pördül pördül bütyök
 pördül bütyök hülye pördül fügedarázs támadó pördül hülye
-fügedarázs 
+fügedarázs
+ 
 
 2024-04-29
 ----------
@@ -257,7 +300,8 @@ előkerül ürge ürge ütközik kátyú pördül kátyú pördül
 kátyú pördül kátyú előkerül kátyú kátyú ürge kommunikációs
 ürge bürök pördül együttműködés előkerül pördül találkozó
 várható kátyú kommunikációs pördül kommunikációs kommunikációs
-ürge ürge pördül kátyú 
+ürge ürge pördül kátyú
+ 
 
 2024-04-20
 ----------
