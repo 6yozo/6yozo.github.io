@@ -10,9 +10,9 @@ Keyboard design ideas:
 - Built-in 23 degree tent, 7 degree tilt
 - An extra weight should be added to the design for typing comfort
 - The leds should face the typist not the users around, they should be
-  placed to bottom of the board
+  placed to bottom of the board.
 - The switch plate sould be translucent at the bottom or should have a lot of
-  holes.
+  holes where it is facing the user.
 - Jack and the usb cables should be at the bottom of the case
 - The jacks and the usb connectors should be reinforced
   so that no pressure is applied to the internal components
@@ -56,6 +56,48 @@ számító számítógépes származó szempontjából szolgáltató található
 találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
+
+2024-05-12
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  86 | pair e200 60s |        97.02 | 32.60 |
+| ENG  |  86 | pair e200 60s |        95.71 | 30.80 |
+| ENG  |  86 | pair e200 60s |        98.16 | 32.00 |
+| ENG  |  86 | pair e200 60s |        98.79 | 32.60 |
+| ENG  |  86 | pair e200 60s |        96.43 | 32.40 |
+| HUN  | 190 | group 1       |        99.16 | 37.70 |
+| HUN  | 190 | group 1       |       100.00 | 37.49 |
+| HUN  | 190 | 8 min         |        98.96 | 35.57 |
+
+- group 2 
+
+származó információ kórház infláció kommunikációs
+kommunikációs kalapáló információ kommunikációs várhatóan
+kalapáló kalapáló infláció információ kórház kórház kalapáló
+kalapáló kórház terül kalapáló várhatóan információ származó
+
+- group 1
+
+kommunikációs kalapáló kalapáló nagyjából terül nagyjából
+kalapáló kalapáló infláció kalapáló információ információ
+kórház kórház várhatóan terül információ támadó infláció
+támadó kalapáló kommunikációs terül kórház nagyjából
+kommunikációs
+
+2024-05-11
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  86 | pair e200 60s |        98.76 | 31.80 |
+| ENG  |  86 | pair e200 60s |        96.88 | 31.00 |
+| ENG  |  86 | pair e200 60s |        95.73 | 31.20 |
+| ENG  |  86 | pair e200 60s |        98.81 | 33.20 |
+| HUN  | 190 | group 1       |        99.44 | 37.40 |
+| HUN  | 190 | group 1       |        98.35 | 36.15 |
+| HUN  | 190 | group 1       |        99.17 | 36.36 |
 
 2024-05-10
 ----------
