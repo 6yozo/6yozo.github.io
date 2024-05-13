@@ -57,6 +57,28 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-05-13
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  86 | pair e200 60s |        98.77 | 32.00 |
+| ENG  |  86 | pair e200 60s |        98.82 | 33.20 |
+| HUN  | 180 | group 1       |        99.17 | 35.15 |
+| HUN  | 180 | group 1       |        99.58 | 35.91 |
+| HUN  | 180 | group 1       |       100.00 | 35.73 |
+| HUN  | 180 | group 2       |       100.00 | 36.18 |
+| HUN  | 180 | 8 min         |        99.36 | 34.67 |
+
+- group 1
+
+származó együttműködés kátyú együttműködés származó
+származó módosító infláció látható látható megkergül
+származó származó megkergül származó megkergül megkergül kátyú
+származó kátyú származó együttműködés kátyú infláció
+megkergül együttműködés együttműködés származó kátyú
+látható módosító módosító infláció megkergül együttműködés
+
 2024-05-12
 ----------
 
