@@ -57,6 +57,116 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-05-22
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  94 | pair e200 60s |        99.42 | 34.40 |
+| ENG  |  94 | pair e200 60s |        98.90 | 35.80 |
+| ENG  |  94 | pair e200 60s |        98.30 | 34.38 |
+| ENG  |  94 | pair e200 60s |        98.90 | 36.00 |
+| ENG  |  94 | pair e200 60s |        95.83 | 32.22 |
+| HUN  | 180 | 8 min         |        99.08 | 35.07 |
+
+- group 1
+
+dőjárásról pördül órát hülye hülye különb különb pördül
+hülye órát hülye nyilvánvaló különb különb hülye órát
+nyilvánvaló különb hülye nyilvánvaló órát órát órát különb
+vállalkozó pördül különb különb különb pördül különb órát
+órát hülye különb
+
+2024-05-21
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  94 | pair e200 60s |        88.89 | 25.60 |
+| ENG  |  94 | pair e200 60s |        94.83 | 32.80 |
+| ENG  |  94 | pair e200 60s |       100.00 | 35.39 |
+| ENG  |  94 | pair e200 60s |        98.31 | 34.60 |
+| ENG  |  94 | pair e200 60s |        97.27 | 35.60 |
+| ENG  |  94 | pair e200 60s |        99.38 | 31.59 |
+| ENG  |  94 | pair e200 60s |        99.41 | 33.78 |
+| ENG  |  94 | pair e200 60s |        99.44 | 35.60 |
+| HUN  | 175 | 8 min         |        99.71 | 34.10 |
+
+- group 1
+
+együttműködés hálálkodó ütközik ütközik hálálkodó
+hálálkodó hálálkodó állandóan ütközik együttműködés
+állandóan ütközik ütközik ütközik hálálkodó állandóan
+együttműködés hálálkodó ütközik hálálkodó
+
+2024-05-19
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  94 | pair e200 60s |        94.34 | 30.00 |
+| ENG  |  94 | pair e200 60s |        90.59 | 30.80 |
+| ENG  |  94 | pair e200 60s |        98.84 | 34.00 |
+
+- group 1
+
+megkergül trükk irányuló szótár trükk megkergül bürök fütyül
+nagyjából irányuló vakáció vakáció megkergül járó megkergül
+vakáció fütyül kátyú ütközik pördül vállalkozó előkerül
+szótár kátyú kátyú óriási szótár kátyú módosító kátyú
+kátyú vállalkozó irányuló ütközik óriási előkerül megkergül
+vakáció szótár irányuló kátyú módosító megkergül trükk
+vakáció kátyú vakáció megkergül fütyül szótár pördül kátyú
+fütyül bürök trükk megkergül járó kátyú nagyjából szótár
+pördül kátyú óriási módosító kátyú szótár vállalkozó
+irányuló irányuló fütyül vakáció ütközik vakáció trükk
+szótár bürök kátyú megkergül előkerül trükk
+
+2024-05-17
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  90 | pair e200 60s |       100.00 | 34.40 |
+| ENG  |  90 | pair e200 60s |        90.00 | 28.40 |
+| ENG  |  90 | pair e200 60s |       100.00 | 32.40 |
+| HUN  | 175 | group 2       |       100.00 | 33.90 |
+| HUN  | 175 | group 1       |        99.67 | 34.70 |
+| HUN  | 175 | group 1       |       100.00 | 34.49 |
+
+2024-05-14
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  86 | pair e200 60s |        98.81 | 33.20 |
+| ENG  |  86 | pair e200 60s |        96.36 | 31.80 |
+| ENG  |  86 | pair e200 60s |        93.13 | 29.60 |
+| ENG  |  86 | pair e200 60s |       100.00 | 32.80 |
+| HUN  | 185 | group 1       |        99.10 | 36.26 |
+| HUN  | 185 | group 1       |        99.70 | 36.52 |
+| HUN  | 185 | group 1       |        99.40 | 36.11 |
+| HUN  | 185 | group 1       |       100.00 | 36.31 |
+| HUN  | 185 | 8 min         |        98.61 | 35.20 |
+
+- group 1
+
+hülye várhatóan variáció hülye nyilvánvaló tükör ütközik
+ütközik hülye nyilvánvaló kiváló időjárásról leül
+nyilvánvaló előkerül előkerül kiváló hülye előkerül előkerül
+időjárásról előkerül ütközik várhatóan várhatóan várhatóan
+hülye szempontjából nyilvánvaló várhatóan szempontjából
+időjárásról nyilvánvaló 
+
+- group 2
+
+várhatóan nyilvánvaló nyilvánvaló tükör szempontjából
+található előkerül időjárásról kiváló kiváló variáció
+nyilvánvaló található kiváló nyilvánvaló található előkerül
+leül kiváló ütközik előkerül időjárásról időjárásról
+kiváló nyilvánvaló nyilvánvaló nyilvánvaló hülye leül
+időjárásról ütközik időjárásról 
+
 2024-05-13
 ----------
 
