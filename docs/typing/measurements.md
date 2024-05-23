@@ -57,6 +57,33 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-05-23
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  94 | pair e200 60s |        94.19 | 32.40 |
+| ENG  |  94 | pair e200 60s |       100.00 | 29.40 |
+| ENG  |  94 | pair e200 60s |        98.89 | 35.60 |
+| ENG  |  94 | pair e200 60s |        99.45 | 36.00 |
+| ENG  |  94 | pair e200 60s |        98.32 | 34.99 |
+| ENG  |  94 | pair e200 60s |       100.00 | 35.60 |
+| ENG  |  94 | pair e200 60s |        94.48 | 34.00 |
+| ENG  |  94 | pair e200 60s |        98.30 | 34.40 |
+| ENG  |  94 | pair e200 60s |        95.48 | 33.80 |
+| ENG  |  94 | pair e200 60s |        98.37 | 36.20 |
+| ENG  |  94 | pair e200 60s |       100.00 | 37.60 |
+| HUN  | 185 | group 1       |        99.59 | 35.17 |
+| HUN  | 185 | group 1       |       100.00 | 35.66 |
+| HUN  | 185 | 8 min         |        99.52 | 36.07 |ő
+
+- group 1
+
+található található különb bürök bürök tükör található
+található bürök tükör különb található található bürök
+található hülye hülye tükör található tükör hülye hülye
+található található található
+
 2024-05-22
 ----------
 
@@ -71,7 +98,7 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 
 - group 1
 
-dőjárásról pördül órát hülye hülye különb különb pördül
+időjárásról pördül órát hülye hülye különb különb pördül
 hülye órát hülye nyilvánvaló különb különb hülye órát
 nyilvánvaló különb hülye nyilvánvaló órát órát órát különb
 vállalkozó pördül különb különb különb pördül különb órát
