@@ -57,6 +57,54 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-05-29
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  98 | pair e200 60s |        96.70 | 35.20 |
+| ENG  |  98 | pair e200 60s |        99.49 | 38.80 |
+| ENG  |  98 | pair e200 60s |       100.00 | 38.20 |
+| ENG  |  98 | pair e200 60s |       100.00 | 37.60 |
+| ENG  | 102 | pair e200 60s |        98.02 | 39.39 |
+| HUN  | 190 | 8 min         |        99.60 | 36.95 |
+
+- group 1
+
+szolgáló fügedarázs szolgáló terül terül szolgáltató szolgáló
+terül terül terül fügedarázs fügedarázs terül terül szolgáltató
+fügedarázs terül fügedarázs szolgáltató fügedarázs
+
+2024-05-27
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  98 | pair e200 60s |        98.97 | 38.40 |
+| ENG  |  98 | pair e200 60s |        98.34 | 35.60 |
+| ENG  |  98 | pair e200 60s |        98.91 | 36.20 |
+| ENG  |  98 | pair e200 60s |        97.88 | 36.80 |
+| ENG  |  98 | pair e200 60s |        99.48 | 38.40 |
+
+2024-05-26
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  |  98 | pair e200 60s |        97.21 | 34.58 |
+| ENG  |  98 | pair e200 60s |        98.31 | 34.40 |
+| ENG  |  98 | pair e200 60s |        97.81 | 35.60 |
+| ENG  |  98 | pair e200 60s |        97.30 | 35.80 |
+| ENG  |  98 | pair e200 60s |       100.00 | 36.80 |
+| ENG  |  98 | pair e200 60s |        96.72 | 35.40 |
+| ENG  |  98 | pair e200 60s |        99.47 | 37.60 |
+| HUN  | 190 | 8 min         |        99.59 | 36.62 |
+
+- group 1
+
+egymástól órát órát egymástól órát órát egymástól órát
+irányuló órát órát egymástól órát irányuló egymástól
+
 2024-05-23
 ----------
 
@@ -75,7 +123,7 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 | ENG  |  94 | pair e200 60s |       100.00 | 37.60 |
 | HUN  | 185 | group 1       |        99.59 | 35.17 |
 | HUN  | 185 | group 1       |       100.00 | 35.66 |
-| HUN  | 185 | 8 min         |        99.52 | 36.07 |ő
+| HUN  | 185 | 8 min         |        99.52 | 36.07 |
 
 - group 1
 
