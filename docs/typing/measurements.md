@@ -28,7 +28,9 @@ Keyboard design ideas:
 - The switch plate and the pcb should be pulled together by screws
 - The switch plate should be gasket mounted to the bottom of the board.
   Probably with a series of springs.
-
+- The connector between the two halves should be on the ground level and the
+  top of the keyboard. So a catbed can easily fit between the two halves.
+   
 Test results
 ============
 
@@ -57,6 +59,28 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-05-31
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  | 102 | pair e200 60s |         |  |
+
+- group 2
+
+egymástól üdül egymástól egymástól savanyúkáposzta módosító
+üdül variáció egymástól savanyúkáposzta kalandvágyó várhatóan
+üdül üdül irányuló kalandvágyó irányuló kalandvágyó
+kalandvágyó látható módosító üdül megüt egymástól üdül
+
+- group 1
+
+látható várhatóan irányuló látható módosító variáció
+látható variáció üdül üdül savanyúkáposzta savanyúkáposzta
+variáció látható módosító kalandvágyó várhatóan kalandvágyó
+kalandvágyó kalandvágyó egymástól irányuló módosító módosító
+megüt
+
 2024-05-29
 ----------
 
@@ -80,11 +104,11 @@ fügedarázs terül fügedarázs szolgáltató fügedarázs
 
 | Lang | BPM | Type          | Accuracy (%) |   WPM |
 |------+-----+---------------+--------------+-------|
-| ENG  |  98 | pair e200 60s |        98.97 | 38.40 |
-| ENG  |  98 | pair e200 60s |        98.34 | 35.60 |
-| ENG  |  98 | pair e200 60s |        98.91 | 36.20 |
-| ENG  |  98 | pair e200 60s |        97.88 | 36.80 |
-| ENG  |  98 | pair e200 60s |        99.48 | 38.40 |
+| ENG  | 102 | pair e200 60s |        98.97 | 38.40 |
+| ENG  | 102 | pair e200 60s |        98.34 | 35.60 |
+| ENG  | 102 | pair e200 60s |        98.91 | 36.20 |
+| ENG  | 102 | pair e200 60s |        97.88 | 36.80 |
+| ENG  | 102 | pair e200 60s |        99.48 | 38.40 |
 
 2024-05-26
 ----------

@@ -29,3 +29,9 @@ Configure settings for a specific repo
 git config user.email "x.y@z.com"
 git config user.name "X Y"
 ```
+
+Reset submodules to the original state
+---
+
+git submodule deinit -f .
+git submodule update --init
