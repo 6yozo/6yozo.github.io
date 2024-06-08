@@ -30,7 +30,10 @@ Keyboard design ideas:
   Probably with a series of springs.
 - The connector between the two halves should be on the ground level and the
   top of the keyboard. So a catbed can easily fit between the two halves.
-   
+- All connector should be on a different PCB than the switch PCB. 
+  This reduces pressure applied to the PCB which makes the build more stable.
+  Reset button, USB connector, the connector between the two halves.
+
 Test results
 ============
 
@@ -59,12 +62,72 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-06-08
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  | 106 | pair e200 60s |        94.56 | 34.18 |
+| ENG  | 106 | pair e200 60s |        99.50 | 39.60 |
+| ENG  | 106 | pair e200 60s |        98.33 | 35.40 |
+| ENG  | 106 | pair e200 60s |        97.96 | 38.20 |
+| ENG  | 106 | pair e200 60s |        98.02 | 39.40 |
+| ENG  | 106 | pair e200 60s |       100.00 | 38.80 |
+
+2024-06-07
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  | 102 | pair e200 60s |        99.49 | 38.80 |
+| ENG  | 102 | pair e200 60s |        97.85 | 36.20 |
+| ENG  | 102 | pair e200 60s |        98.48 | 38.99 |
+| ENG  | 102 | pair e200 60s |        96.89 | 37.20 |
+| ENG  | 102 | pair e200 60s |        96.63 | 33.60 |
+| ENG  | 102 | pair e200 60s |        96.43 | 37.79 |
+| ENG  | 102 | pair e200 60s |       100.00 | 39.80 |
+
+2024-06-06
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  | 102 | pair e200 60s |        98.01 | 39.40 |
+| ENG  | 102 | pair e200 60s |        96.91 | 37.00 |
+| ENG  | 102 | pair e200 60s |        96.26 | 36.00 |
+| ENG  | 102 | pair e200 60s |        99.48 | 37.80 |
+| ENG  | 102 | pair e200 60s |        98.99 | 39.40 |
+| ENG  | 102 | pair e200 60s |        99.49 | 39.00 |
+| ENG  | 102 | pair e200 60s |        98.96 | 38.00 |
+| ENG  | 102 | pair e200 60s |        98.95 | 37.60 |
+| ENG  | 102 | pair e200 60s |        97.98 | 38.80 |
+| ENG  | 102 | pair e200 60s |       100.00 | 39.20 |
+
+2024-06-05
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  | 102 | pair e200 60s |        94.59 | 35.00 |
+| ENG  | 102 | pair e200 60s |        97.54 | 38.20 |
+| ENG  | 102 | pair e200 60s |        97.46 | 38.40 | 
+| ENG  | 102 | pair e200 60s |        98.98 | 39.00 |
+| ENG  | 102 | pair e200 60s |        96.46 | 38.20 |
+| ENG  | 102 | pair e200 60s |        98.45 | 37.80 |
+| ENG  | 102 | pair e200 60s |       100.00 | 38.40 | 
+
 2024-05-31
 ----------
 
 | Lang | BPM | Type          | Accuracy (%) |   WPM |
 |------+-----+---------------+--------------+-------|
-| ENG  | 102 | pair e200 60s |         |  |
+| ENG  | 102 | pair e200 60s |        93.81 | 36.40 |
+| ENG  | 102 | pair e200 60s |        97.30 | 35.60 |
+| ENG  | 102 | pair e200 60s |        99.49 | 38.80 |
+| ENG  | 102 | pair e200 60s |        98.50 | 39.20 |
+| ENG  | 102 | pair e200 60s |        98.43 | 37.40 |
+| ENG  | 102 | pair e200 60s |        98.44 | 37.80 |
+| ENG  | 102 | pair e200 60s |        98.98 | 36.17 |
 
 - group 2
 
