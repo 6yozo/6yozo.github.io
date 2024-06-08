@@ -74,6 +74,15 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 | ENG  | 106 | pair e200 60s |        98.02 | 39.40 |
 | ENG  | 106 | pair e200 60s |       100.00 | 38.80 |
 
+
+- group 1
+
+kommunikációs várható kommunikációs kommunikációs nyilvánvaló
+kommunikációs pördül nyilvánvaló időjárásról pördül várható
+várható pördül kommunikációs kommunikációs nyilvánvaló
+kommunikációs kommunikációs kommunikációs kommunikációs
+nyilvánvaló időjárásról várható időjárásról pördül
+
 2024-06-07
 ----------
 
