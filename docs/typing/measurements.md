@@ -62,6 +62,50 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-06-11
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  | 110 | pair e200 60s |        99.03 | 40.80 |
+| ENG  | 110 | pair e200 60s |        99.08 | 43.00 |
+| ENG  | 110 | pair e200 60s |        95.61 | 39.00 |
+| ENG  | 110 | pair e200 60s |        98.10 | 41.00 |
+| ENG  | 110 | pair e200 60s |        97.47 | 38.60 |
+| ENG  | 110 | pair e200 60s |        98.59 | 42.00 |
+| ENG  | 110 | pair e200 60s |        98.17 | 43.00 |
+| ENG  | 110 | pair e200 60s |       100.00 | 42.20 |
+
+2024-06-10
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  | 110 | pair e200 60s |        99.06 | 42.20 |
+| ENG  | 110 | pair e200 60s |        99.53 | 42.59 |
+| ENG  | 110 | pair e200 60s |        97.13 | 40.40 |
+| ENG  | 110 | pair e200 60s |        99.52 | 41.80 |
+| ENG  | 110 | pair e200 60s |        96.68 | 40.40 |
+| ENG  | 110 | pair e200 60s |        98.60 | 42.20 |
+| ENG  | 110 | pair e200 60s |        99.54 | 43.20 |
+| ENG  | 110 | pair e200 60s |        99.52 | 40.99 |
+| ENG  | 110 | pair e200 60s |        98.12 | 40.60 |
+| ENG  | 110 | pair e200 60s |        97.54 | 39.59 |
+| ENG  | 110 | pair e200 60s |        97.61 | 40.79 |
+| ENG  | 110 | pair e200 60s |        98.11 | 41.60 |
+
+2024-06-09
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  | 110 | pair e200 60s |        98.55 | 40.77 |
+| ENG  | 110 | pair e200 60s |        98.53 | 40.00 |
+| ENG  | 110 | pair e200 60s |        98.07 | 40.60 |
+| ENG  | 110 | pair e200 60s |        98.54 | 40.59 |
+| ENG  | 110 | pair e200 60s |        98.85 | 41.40 |
+| ENG  | 110 | pair e200 60s |       100.00 | 37.12 |
+
 2024-06-08
 ----------
 
@@ -73,7 +117,7 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 | ENG  | 106 | pair e200 60s |        97.96 | 38.20 |
 | ENG  | 106 | pair e200 60s |        98.02 | 39.40 |
 | ENG  | 106 | pair e200 60s |       100.00 | 38.80 |
-
+| HUN  | 185 | 8 min         |        99.30 | 35.38 |
 
 - group 1
 
