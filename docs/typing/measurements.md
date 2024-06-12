@@ -33,6 +33,10 @@ Keyboard design ideas:
 - All connector should be on a different PCB than the switch PCB. 
   This reduces pressure applied to the PCB which makes the build more stable.
   Reset button, USB connector, the connector between the two halves.
+- The PCB should consist of multiple boards per side to accomodate finger
+  length. One board for the pinky, second for the ring and middle, 
+  third for the pointer and a fourth for the thumb, 
+  a fifth for the connectors and maybe a sixth for the controller.
 
 Test results
 ============
@@ -61,6 +65,17 @@ számító számítógépes származó szempontjából szolgáltató található
 találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
+
+2024-06-12
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  | 110 | pair e200 60s |        99.02 | 40.60 |
+| ENG  | 110 | pair e200 60s |        98.62 | 42.80 |
+| ENG  | 110 | pair e200 60s |        98.56 | 41.00 |
+| ENG  | 110 | pair e200 60s |       100.00 | 42.39 | 
+| ENG  | 114 | pair e200 60s |       100.00 | 44.00 |
 
 2024-06-11
 ----------
