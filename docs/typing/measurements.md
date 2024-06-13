@@ -79,6 +79,21 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 | ENG  | 114 | pair e200 60s |        98.17 | 43.00 |
 | ENG  | 114 | pair e200 60s |       100.00 | 44.80 | 
 | HUN  | 190 | group 1       |       100.00 | 38.17 |
+| HUN  | 190 | 8 min         |        98.85 | 36.20 |
+
+- group 1
+
+számító megkergül pördül pördül megüt megkergül infláció
+fügedarázs fügedarázs látható pördül látható megüt látható
+megkergül infláció terül pördül látható infláció pördül
+kiváló megüt megüt látható 
+
+- group 2
+
+látható kiváló infláció megüt megkergül fügedarázs számító
+megkergül pördül ütközik látható megüt látható terül megüt
+látható ütközik megkergül fügedarázs pördül infláció infláció
+megkergül ütközik fügedarázs
 
 2024-06-12
 ----------
