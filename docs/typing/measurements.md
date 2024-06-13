@@ -66,6 +66,20 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-06-13
+----------
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  | 114 | pair e200 60s |        96.70 | 41.00 |
+| ENG  | 114 | pair e200 60s |        98.66 | 44.20 |
+| ENG  | 114 | pair e200 60s |        99.11 | 44.40 |
+| ENG  | 114 | pair e200 60s |        97.21 | 41.60 |
+| ENG  | 114 | pair e200 60s |        98.65 | 44.00 |
+| ENG  | 114 | pair e200 60s |        98.17 | 43.00 |
+| ENG  | 114 | pair e200 60s |       100.00 | 44.80 | 
+| HUN  | 190 | group 1       |       100.00 | 38.17 |
+
 2024-06-12
 ----------
 
