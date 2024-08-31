@@ -3,7 +3,9 @@ layout: default
 title: Installation
 date: 23 04 2024
 author: GG
-tags: terminal, alacritty
+tags: 
+  - terminal
+  - alacritty
 ---
 
 Tumbleweed
@@ -24,16 +26,31 @@ Windows
 scoop install alacritty
 ```
 
+Brew
+---
+
+```
+brew install --cask alacritty
+```
+
 Set up font
 ---
 
-Install Font:
+## About the JetBrains Mono
+
+– Supports Powerline
+
+– It has italic, bold, and bold italic variants too which very useful.
+
+– JetBrains Mono NL is the no-ligatures version of JetBrains Mono font.
+
+##Install Font on Tumbleweed:
 
 ```zsh
 sudo zypper install jetbrains-mono-fonts
 ```
 
-Check installed fonts:
+##Check installed fonts:
 
 ```zsh
 gg  ~  fc-list : family style | grep -i jetbrains
@@ -72,7 +89,24 @@ JetBrains Mono NL:style=Italic
 JetBrains Mono NL:style=Boldlocalhost% fc-list : family style | grep -i fira
 ```
 
-Setup font in ``$HOME/.config/alacritty/alacritty.toml``
+##Install Font on Mac. 
+
+Download and install it from an URL like:
+
+https://download.jetbrains.com/fonts/JetBrainsMono-2.304.zip
+
+Open Font Book and drag the extracted font files there.
+
+##Create an empty config file
+
+```
+mkdir -p $HOME/.config/alacritty/
+touch $HOME/.config/alacritty/alacritty.toml
+```
+
+##Setup font in ``alacritty.toml``
+
+Add the lines:
 
 ```toml
 [font]
@@ -99,7 +133,7 @@ style = "Regular"
 Change color theme
 ---
 
-create a config file in ``$HOME/.config/alacritty/alacritty.toml`` with content:
+Add the following lines to the config file
 
 ```toml
 # Default colors

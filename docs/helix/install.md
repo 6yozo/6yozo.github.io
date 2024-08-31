@@ -20,21 +20,43 @@ Windows
 scoop install helix
 ```
 
+Mac
+–––
+
+```
+brew install helix
+```
+
+
 Customize settings
 ---
 
 Create the file with the settings:
 
-```
-~/.config/helix/config.toml
-```
-
 ``:config-open`` will open this file for editing
 
-Change the shell helix runs in
+Configure the desktop shortcut for mac
 ---
 
-Configure the desktop shortcut for gnome
+## Mac
+
+Open Automator, choose Application, add a Run Shell Script action and put in:
+
+```
+/Applications/Alacritty.app/Contents/MacOS/alacritty --title "Helix" --class "Helix" -e /opt/homebrew/bin/hx
+```
+
+Save it as an Application, give it the name "Helix". Move it into the Applications folder.
+
+Download the icon file into ``~/.local/share/icons`` from:
+
+```
+https://github.com/helix-editor/helix/blob/master/contrib/helix.png
+```
+
+Open Get Info on the Automator Application and drag and drop the icon on the old icon to replace it.
+	
+## Tumbleweed
 
 Download the desktop file into ``~/.local/share/applications`` from:
 [Helix](https://github.com/helix-editor/helix/blob/master/contrib/Helix.desktop)
