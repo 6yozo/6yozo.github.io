@@ -133,3 +133,18 @@ magenta = '#ff55ff'
 cyan    = '#6ae3f9'
 white   = '#ffffff'
 ```
+
+Use MSYS on windows
+---
+
+``` toml
+[shell]
+program = "C:/msys64/msys2_shell.cmd"
+args = [
+  "-defterm",
+  "-here",
+  "-use-full-path",
+  "-no-start",
+  "-mingw64"
+]
+```
