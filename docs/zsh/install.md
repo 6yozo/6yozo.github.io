@@ -7,7 +7,7 @@ tags: zsh
 ---
 
 Installation
----
+===
 
 Determine the location of the shell
 
@@ -28,9 +28,14 @@ After starting zsh for the first time some settings can be adjusted.
 Set history file size limits to 1 000 000.
 
 The .zshrc file
+===
+
+Settings for both interactive and non-interactive shells
 ---
 
-```
+### History
+
+```zsh
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
 HISTSIZE=1000000
@@ -38,23 +43,40 @@ SAVEHIST=1000000
 unsetopt beep
 bindkey -v
 # End of lines configured by zsh-newuser-install
+```
+### Compinstall
+```zsh
 # The following lines were added by compinstall
 zstyle :compinstall filename '/home/gg/.zshrc'
 
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
-
-## Colorize the ls output ##
-alias ls='ls --color=auto'
 ```
 
-Make Helix the default editor
+### Make Helix the default editor
+
+Make Helix the default editor for command-line tasks
+
+```zsh
+export EDITOR=helix
+alias hx='helix'
+```
+
+Settings for interactive mode
+===
+
+Ignore the rest for non-interactive shells
 ---
 
-# Make Helix the default editor for command-line tasks
-```
-export EDITOR=helix
+```zsh
+# Do not run the rest of the script if the shell is not interactive.
+# This can help avoid unintended behaviors in scripts, cron jobs, or other 
+# automated tasks that might source this configuration file.
+case $- in
+    *i*) ;;
+    *) return;;
+esac
 ```
 
 Set up liquidprompt
@@ -66,7 +88,7 @@ git clone --branch stable https://github.com/nojhan/liquidprompt.git ~/liquidpro
 
 Then add to ``.zshrc``:
 
-```
+```zsh
 # Setup Liquidprompt with Powerline theme
 setup_liquidprompt() {
     LP_ENABLE_TIME=1
@@ -101,10 +123,24 @@ LP_DISABLED_VCS_PATHS=(
 setup_liquidprompt
 ```
 
-Vi navgation
+Colorize things
 ---
 
+```zsh
+# Do not run the rest of the script if the shell is not interactive.
+# This can help avoid unintended behaviors in scripts, cron jobs, or other 
+# automated tasks that might source this configuration file.
+case $- in
+    *i*) ;;
+    *) return;;
+esac
+```
+
+Vi navgation
+===
+
 To get into command mode, press [ESC]
+
 To return to insert mode, simply type i,
 
 - $ go the end of the line or
@@ -116,3 +152,7 @@ To return to insert mode, simply type i,
 - d$ to delete from the current cursor position to the end of the line
 - d0 to delete from the current cursor position to the beginning of the line
 - w to go forward one word, and so forth
+
+TODO:
+===
+Create a script which can update things installed from source like liquibase
