@@ -9,7 +9,7 @@ tags: terminal, alacritty
 Tumbleweed
 ---
 
-```
+```zsh
 sudo zypper install alacritty
 ```
 
@@ -17,18 +17,25 @@ Useful Link:
 
 [Alacritty - ArchWiki](https://wiki.archlinux.org/title/Alacritty)
 
+Windows
+---
+
+```powershell
+scoop install alacritty
+```
+
 Set up font
 ---
 
 Install Font:
 
-```
+```zsh
 sudo zypper install jetbrains-mono-fonts
 ```
 
 Check installed fonts:
 
-```
+```zsh
 gg  ~  fc-list : family style | grep -i jetbrains
 
 JetBrains Mono,JetBrains Mono ExtraBold:style=ExtraBold Italic,Italic
@@ -67,7 +74,7 @@ JetBrains Mono NL:style=Boldlocalhost% fc-list : family style | grep -i fira
 
 Setup font in ``$HOME/.config/alacritty/alacritty.toml``
 
-```
+```toml
 [font]
 size = 13.0
 
@@ -94,7 +101,7 @@ Change color theme
 
 create a config file in ``$HOME/.config/alacritty/alacritty.toml`` with content:
 
-```
+```toml
 # Default colors
 [colors.primary]
 background = '#122637'

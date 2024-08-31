@@ -9,8 +9,15 @@ tags: helix, editor
 Tumbleweed
 ---
 
-```
+```zsh
 sudo zypper install helix
+```
+
+Windows
+---
+
+```powershell
+scoop install helix
 ```
 
 Customize settings
@@ -40,7 +47,7 @@ https://github.com/helix-editor/helix/blob/master/contrib/helix.png
 
 Modify the desktop file into something like:
 
-```
+```ini
 [Desktop Entry]
 Name=Helix in Alacritty
 Comment=Edit text files
