@@ -12,21 +12,47 @@ Alacritty
 - [Installation](/alacritty/install.html)
 - [Snippets](/alacritty/snippets.html)
 
+Git
+===
+
+- [Configuration](/git/configure.html)
+
+Gnome
+===
+
+- [Tricks](/gnome/tricks.html)
+
 Helix
 ===
 
 - [Installation](/helix/install.html)
 - [Pipe](/helix/pipe.html)
 
+KDiff3
+===
+
+- [Installation](/kdiff3/install.html)
+
+Meld
+===
+
+- [Installation](/meld/configure.html)
+
 Tumbleweed
 ===
 
+- [Installation](/tumbleweed/installation.html)
 - [QMK](/tumbleweed/qmk.html)
 
 Typing
 ===
 
 - [Measurements](/typing/measurements.html)
+
+Visual Studio
+===
+
+- [Configuration](/visual-studio/configure.html)
 
 Windows 11
 ===
@@ -37,13 +63,3 @@ ZSH
 ===
 
 - [Installation](/zsh/install.html)
-
-Visual Studio
-===
-
-- [Configuration](/visual-studio/configure.html)
-
-Git
-===
-
-- [Configuration](/git/configure.html)
