@@ -14,7 +14,7 @@ Determine the location of the shell
 ```
 which zsh
 ```
-    
+
 then change the shell
 
 ```
@@ -25,7 +25,8 @@ Log out of your computer and log back in!
 
 After starting zsh for the first time some settings can be adjusted.
 
-Set history file size limits to 1 000 000.
+MSYS2 does not have chsh but zsh can be made the default by changing 
+Alacritty settings.
 
 The .zshrc file
 ===
@@ -44,7 +45,9 @@ unsetopt beep
 bindkey -v
 # End of lines configured by zsh-newuser-install
 ```
+
 ### Compinstall
+
 ```zsh
 # The following lines were added by compinstall
 zstyle :compinstall filename '/home/gg/.zshrc'
