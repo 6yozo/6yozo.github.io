@@ -127,13 +127,34 @@ Colorize things
 ---
 
 ```zsh
-# Do not run the rest of the script if the shell is not interactive.
-# This can help avoid unintended behaviors in scripts, cron jobs, or other 
-# automated tasks that might source this configuration file.
-case $- in
-    *i*) ;;
-    *) return;;
-esac
+# Enble colors in Zsh
+autoload -U colors && colors
+
+# ls command with colors
+alias ls='ls --color=auto'
+
+# grep with colors
+alias grep='grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+
+# Enable colored output for diff
+alias diff='diff --color=auto'
+
+# Git colored outputalias
+git='git --no-pager'
+
+# Add color to less if possible
+export LESS='-R'
+
+# Man pages
+export LESS_TERMCAP_mb=$'\e[1;31m'   # begin blinking
+export LESS_TERMCAP_md=$'\e[1;31m'   # begin bold
+export LESS_TERMCAP_me=$'\e[0m'      # end mode
+export LESS_TERMCAP_se=$'\e[0m'      # end standout-mode
+export LESS_TERMCAP_so=$'\e[1;44;33m' # begin standout-mode - info box
+export LESS_TERMCAP_ue=$'\e[0m'      # end underline
+export LESS_TERMCAP_us=$'\e[1;32m'   # begin underline
 ```
 
 Vi navgation

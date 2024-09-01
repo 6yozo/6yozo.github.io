@@ -146,5 +146,7 @@ args = [
   "-use-full-path",
   "-no-start",
   "-mingw64"
+  "-shell",
+  "zsh"
 ]
 ```
