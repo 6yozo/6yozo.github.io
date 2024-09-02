@@ -79,19 +79,19 @@ Setup font in ``$HOME/.config/alacritty/alacritty.toml``
 size = 13.0
 
 [font.bold]
-family = "JetBrains Mono
+family = "JetBrains Mono"
 style = "Bold"
 
 [font.bold_italic]
-family = "JetBrains Mono
+family = "JetBrains Mono"
 style = "Bold Italic"
 
 [font.italic]
-family = "JetBrains Mono
+family = "JetBrains Mono"
 style = "Italic"
 
 [font.normal]
-family = "JetBrains Mono
+family = "JetBrains Mono"
 style = "Regular"
 ```
   
@@ -136,6 +136,8 @@ white   = '#ffffff'
 
 Use MSYS on windows
 ---
+
+Zsh must be installed in MSYS2 before this is set.
 
 ``` toml
 [shell]
