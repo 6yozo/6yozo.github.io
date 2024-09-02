@@ -85,6 +85,10 @@ esac
 Set up liquidprompt
 ---
 
+Remove any `.liquidpromptrc` in the `.configuration` folder or in any other 
+folder where it gets loaded automatically. This ensures that the settings in
+`.zshrc` can take effect.
+
 ```
 git clone --branch stable https://github.com/nojhan/liquidprompt.git ~/liquidprompt
 ```
@@ -93,12 +97,18 @@ Then add to ``.zshrc``:
 
 ```zsh
 # Setup Liquidprompt with Powerline theme
-setup_liquidprompt() {
-    LP_ENABLE_TIME=1
-    LP_TIME_FORMAT="%Y-%m-%dT%H:%M:%S"
-    LP_PS1_PREFIX='{*]>'
-    LP_PATH="$HOME/liquidprompt"
-    
+export LP_PATH="$HOME/liquidprompt"
+export LP_ENABLE_TIME=1
+export LP_TIME_FORMAT="%Y-%m-%dT%H:%M:%S"
+export LP_PS1_PREFIX='{*]>'
+export LP_ALWAYS_DISPLAY_VALUES=1
+export LP_DISPLAY_VALUES_AS_PERCENTS=1
+LP_DISABLED_VCS_PATHS=(
+    "/c/QMK_MSYS/home/gaspa/qmk_firmware_sequitap/users/sequitap"
+    "/c/Workspace/nFlow2"
+)
+export LP_DISABLED_VCS_PATHS
+setup_liquidprompt() {    
     if [ ! -f "${LP_PATH}/liquidprompt" ]; then
         echo "Error: Liquidprompt script not found."
         return 1
@@ -119,10 +129,6 @@ setup_liquidprompt() {
     
     lp_theme powerline_full
 }
-LP_DISABLED_VCS_PATHS=(
-    "/c/QMK_MSYS/home/gaspa/qmk_firmware_sequitap/users/sequitap" 
-    "/c/Workspace/nFlow2"
-)
 setup_liquidprompt
 ```
 
