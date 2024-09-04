@@ -152,3 +152,14 @@ args = [
   "zsh"
 ]
 ```
+VI mode
+---
+
+- Ctrl-Shift-Space: Turn VI mode on and off.
+- HJKL: Navigate left, down, up and right.
+
+Search mode
+---
+
+- Ctrl-Shift-F: Turn on search mode.
+- Enter, Shift-Enter: Search up and down.
