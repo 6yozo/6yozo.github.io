@@ -152,11 +152,15 @@ args = [
   "zsh"
 ]
 ```
+
 VI mode
 ---
 
 - Ctrl-Shift-Space: Turn VI mode on and off.
 - HJKL: Navigate left, down, up and right.
+- v: selection mode
+- shift-v: line selection mode
+- y: copy to clipboard
 
 Search mode
 ---
