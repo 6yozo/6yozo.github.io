@@ -20,6 +20,13 @@ Configure global settings
 git config --global --get core.autocrlf
 ```
 
+The git hardclean alias will discard all uncommitted changes and delete 
+untracked files and directories, including added folders and files.
+
+``` zsh
+git config --global alias.hardclean '!git reset --hard && git clean -fd'
+```
+
 See how to set up a compare or a merge tool like kdiff3 or meld
 
 Configure settings for a specific repo

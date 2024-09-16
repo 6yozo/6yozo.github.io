@@ -82,6 +82,15 @@ case $- in
 esac
 ```
 
+### Enable run-help for Zsh
+
+Press M-h (Alt + h) to display Zsh help when the cursor is on a keyword.
+
+```zsh
+unalias run-help 2>/dev/null  # Remove any previous alias
+autoload -U run-help  # Load the run-help function
+````
+
 Set up liquidprompt
 ---
 
@@ -182,6 +191,14 @@ To return to insert mode, simply type i,
 - d$ to delete from the current cursor position to the end of the line
 - d0 to delete from the current cursor position to the beginning of the line
 - w to go forward one word, and so forth
+
+List Current Key Bindings
+===
+
+You can view all the current key bindings using the following command:
+```zsh
+bindkey -L
+```
 
 TODO:
 ===
