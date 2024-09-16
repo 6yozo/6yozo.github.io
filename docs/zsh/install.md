@@ -66,6 +66,23 @@ export EDITOR=helix
 alias hx='helix'
 ```
 
+### Powershell
+
+#### Run a powershell script.
+
+```zsh
+alias psrun='powershell.exe -ExecutionPolicy Bypass -File'
+```
+
+#### Copy file to clipboard
+
+```zsh
+clip_file() {
+    local winpath=$(cygpath -w "$1")
+    powershell.exe -Command "Get-Content -Path '$winpath' | Set-Clipboard"
+}
+```
+
 Settings for interactive mode
 ===
 
