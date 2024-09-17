@@ -18,13 +18,27 @@ Configure global settings
 
 ``` zsh
 git config --global --get core.autocrlf
+git config --global core.ignorecase false
 ```
+
+- Line Endings: The `core.autocrlf` setting helps Git automatically handle line
+  endings, which improves cross-platform development by converting line endings 
+  between Windows (CRLF) and Unix-based systems (LF) as needed.
+
+- Case Sensitivity: Setting `core.ignorecase=false` ensures that Git respects 
+  filename casing, making the repository more cross-platform friendly. 
+  On case-insensitive systems like Windows, Git might otherwise ignore case 
+  changes (e.g., File.txt vs. file.txt), which can cause inconsistencies. 
+  
+Set up aliases
+---
 
 The git hardclean alias will discard all uncommitted changes and delete 
 untracked files and directories, including added folders and files.
 
 ``` zsh
 git config --global alias.hardclean '!git reset --hard && git clean -fd'
+git config --global alias.lfi 'log HEAD --graph --all --abbrev-commit --full-history --color --pretty=format:\'"%Cred%h%Creset -%C(yellow)%d%Creset %s%Cgreen(%cr) %C(bold blue)<%an>%Creset\' --date=relative'
 ```
 
 See how to set up a compare or a merge tool like kdiff3 or meld
