@@ -1,10 +1,12 @@
----
-layout: default
+---
+layout: default
 title: Visual Studio
-date: 01 05 2024
-author: GG
-tags: editorconfig
----
+date: 01 05 2024
+author: GG
+tags: 
+  - editorconfig
+---
+
 
 Editorconfig template
 

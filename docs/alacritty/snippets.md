@@ -3,7 +3,9 @@ layout: default
 title: Snippets
 date: 23 04 2024
 author: GG
-tags: terminal, alacritty
+tags: 
+  - terminal
+  - alacritty
 ---
 
 Which shell am I running

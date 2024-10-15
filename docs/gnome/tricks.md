@@ -3,7 +3,9 @@ layout: default
 title: Tricks
 date: 30 06 2023
 author: GG
-tags: linux, gnome
+tags: 
+  - linux
+  - gnome
 ---
 
 Window Mangement

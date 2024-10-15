@@ -3,7 +3,8 @@ layout: default
 title: ZSH
 date: 23 04 2024
 author: GG
-tags: zsh
+tags: 
+  - zsh
 ---
 
 Installation
@@ -62,8 +63,15 @@ compinit
 Make Helix the default editor for command-line tasks
 
 ```zsh
-export EDITOR=helix
-alias hx='helix'
+alias hx='helix' # Not needed if helix is installed with brew
+export EDITOR=hx
+```
+
+### Java
+
+```zsh
+# If Java is installed on OSX via homebrew
+export CPPFLAGS="-I/opt/homebrew/opt/openjdk@11/include"
 ```
 
 ### Powershell

@@ -3,7 +3,9 @@ layout: default
 title: Installation
 date: 23 04 2024
 author: GG
-tags: helix, editor
+tags: 
+  - helix
+  - editor
 ---
 
 Tumbleweed

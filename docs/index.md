@@ -28,6 +28,11 @@ Helix
 - [Installation](/helix/install.html)
 - [Pipe](/helix/pipe.html)
 
+Java
+===
+
+- [Installation](/java/install.html)
+
 KDiff3
 ===
 

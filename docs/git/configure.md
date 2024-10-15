@@ -3,7 +3,8 @@ layout: default
 title: git
 date: 31 08 2024
 author: GG
-tags: config
+tags: 
+  - config
 ---
 
 Install Windows / Scoop
@@ -19,6 +20,7 @@ Configure global settings
 ``` zsh
 git config --global --get core.autocrlf
 git config --global core.ignorecase false
+git config --global pull.rebase true
 ```
 
 - Line Endings: The `core.autocrlf` setting helps Git automatically handle line
@@ -29,7 +31,12 @@ git config --global core.ignorecase false
   filename casing, making the repository more cross-platform friendly. 
   On case-insensitive systems like Windows, Git might otherwise ignore case 
   changes (e.g., File.txt vs. file.txt), which can cause inconsistencies. 
-  
+
+- Pull Behavior: The `pull.rebase` setting changes the default 
+  behavior of git pull to rebase the current branch on top of the upstream 
+  branch after fetching. This avoids merge commits and keeps the history linear,
+  making it easier to understand and navigate.
+
 Set up aliases
 ---
 

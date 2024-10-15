@@ -3,7 +3,9 @@ layout: default
 title: QMK
 date: 23 04 2024
 author: GG
-tags: tumbleweed, qmk
+tags: 
+  - tumbleweed
+  - qmk
 ---
 
 Install environment

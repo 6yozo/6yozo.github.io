@@ -3,7 +3,10 @@ layout: default
 title: KDiff
 date: 01 05 2024
 author: GG
-tags: kdiff comparision and merge
+tags: 
+  - kdiff
+  - comparision
+  - merge
 ---
 
 Windows / Scoop

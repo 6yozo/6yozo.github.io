@@ -3,7 +3,11 @@ layout: default
 title: Installation
 date: 30 06 2023
 author: GG
-tags: windows 11, amd, tuxedo, scoop
+tags: 
+  - windows 11
+  - amd
+  - tuxedo
+  - scoop
 ---
 
 Installation

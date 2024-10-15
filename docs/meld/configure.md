@@ -1,10 +1,12 @@
----
-layout: default
+---
+layout: default
 title: meld
-date: 01 05 2024
-author: GG
-tags: config
----
+date: 01 05 2024
+author: GG
+tags: 
+ - config
+---
+
 
 Preferences / Editor
 ---

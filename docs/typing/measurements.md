@@ -3,7 +3,11 @@ layout: default
 title: Measurements
 date: 30 06 2023
 author: GG
-tags: Typing, Colemak-DH, Colmak Club, Bunya-DTM, Monkeytpe
+tags: 
+  - typing
+  - colemak-dh
+  - bunya-dtm
+  - monkeytpe
 ---
 
 Keyboard design ideas:
