@@ -35,16 +35,41 @@ The .zshrc file
 Settings for both interactive and non-interactive shells
 ---
 
+### Logging
+
+The executed command can be logged with the following:
+
+```zsh
+# Log each command with a timestamp
+LOGFILE=~/zsh_command_log.txt
+preexec() {
+  echo "$(date '+%Y-%m-%d %H:%M:%S') - $1" >> $LOGFILE
+}
+```
+    
 ### History
 
 ```zsh
-# Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
 HISTSIZE=1000000
 SAVEHIST=1000000
-unsetopt beep
-bindkey -v
-# End of lines configured by zsh-newuser-install
+HIST_STAMPS="yyyy-mm-dd"
+setopt APPEND_HISTORY          # Append instead of overwriting
+setopt EXTENDED_HISTORY        # Record timestamp of each command
+setopt INC_APPEND_HISTORY      # Save each command to immediately
+setopt INC_APPEND_HISTORY_TIME # Save timestamps with each entry
+setopt HIST_IGNORE_DUPS        # Ignore duplicate commands in the history
+setopt HIST_IGNORE_SPACE       # Don't save commands prefixed with a space
+```
+
+###  Usability and Efficiency
+
+```zsh
+unsetopt beep # Don't beep
+bindkey -v    # Vi keybindings
+autoload -Uz edit-command-line
+zle -N edit-command-line
+bindkey '^X^E' edit-command-line  # Edit the current line in editor
 ```
 
 ### Compinstall
