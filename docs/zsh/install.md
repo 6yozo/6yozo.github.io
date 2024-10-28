@@ -132,6 +132,33 @@ case $- in
 esac
 ```
 
+### Display keymap in RPROMPT
+
+```zsh
+# Display keymap in RPROMPT
+function update_rprompt {
+  RPROMPT="[$KEYMAP]"
+}
+# ZLE widget to update RPROMPT when keymap changes
+function zle-keymap-select {
+  update_rprompt
+  zle reset-prompt
+}
+# ZLE widget to initialize the prompt
+function zle-line-init {
+  update_rprompt
+}
+zle -N zle-line-init
+zle -N zle-keymap-select
+# Update the right prompt before each command
+function precmd_update_rprompt {
+  update_rprompt
+}
+# Hook to ensure the right prompt is updated before each prompt
+autoload -Uz add-zsh-hook
+add-zsh-hook precmd precmd_update_rprompt
+```
+
 ### Enable run-help for Zsh
 
 Press M-h (Alt + h) to display Zsh help when the cursor is on a keyword.
