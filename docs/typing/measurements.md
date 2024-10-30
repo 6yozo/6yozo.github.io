@@ -70,6 +70,17 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 állandóan állítólag valójában valóság álló átfogó óriási óráig órás
 órát órától savanyúkáposzta kátyú
 
+2024-10-30
+----------
+
+Started practicing inrolly2.
+30 beat increase per day if accuracy above 98. 
+If accuracy falls below 98 decrease beat by 15 for the next day.
+
+| Lang | BPM | Type          | Accuracy (%) |   WPM |
+|------+-----+---------------+--------------+-------|
+| ENG  | 30  | aeinrt        |        98.25 |   5.9 |
+
 2024-06-14
 ----------
 

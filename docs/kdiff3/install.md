@@ -20,6 +20,13 @@ scoop bucket add extras
 scoop install --global kdiff3
 ```
 
+Mac / Brew
+---
+
+```zsh
+brew install kdiff3
+```
+
 Configure
 ---
 
