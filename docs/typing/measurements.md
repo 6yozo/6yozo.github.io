@@ -73,9 +73,12 @@ találkozó támadó vállalkozó vállalkozók várható várhatóan állandó
 2024-10-30
 ----------
 
-Started practicing inrolly2.
-30 beat increase per day if accuracy above 98. 
-If accuracy falls below 98 decrease beat by 15 for the next day.
+Started practicing inrolly2 on keybr after practicing colemak-dh 
+for four month.
+
+Rules:
+- 30 beat increase per day if accuracy above 98. 
+- If accuracy falls below 98 decrease beat by 15 for the next day.
 
 | Lang | BPM | Type          | Accuracy (%) |   WPM |
 |------+-----+---------------+--------------+-------|
