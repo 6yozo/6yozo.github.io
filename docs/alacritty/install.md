@@ -44,16 +44,16 @@ Set up font
 
 – JetBrains Mono NL is the no-ligatures version of JetBrains Mono font.
 
-##Install Font on Tumbleweed:
+## Install Font on Tumbleweed:
 
 ```zsh
 sudo zypper install jetbrains-mono-fonts
 ```
 
-##Check installed fonts:
+## Check installed fonts:
 
 ```zsh
-gg  ~  fc-list : family style | grep -i jetbrains
+> fc-list : family style | grep -i jetbrains
 
 JetBrains Mono,JetBrains Mono ExtraBold:style=ExtraBold Italic,Italic
 JetBrains Mono,JetBrains Mono Light:style=Light Italic,Italic
@@ -89,7 +89,7 @@ JetBrains Mono NL:style=Italic
 JetBrains Mono NL:style=Boldlocalhost% fc-list : family style | grep -i fira
 ```
 
-##Install Font on Mac. 
+## Install Font on Mac.
 
 Download and install it from an URL like:
 
@@ -97,14 +97,14 @@ https://download.jetbrains.com/fonts/JetBrainsMono-2.304.zip
 
 Open Font Book and drag the extracted font files there.
 
-##Create an empty config file
+## Create an empty config file
 
 ```
 mkdir -p $HOME/.config/alacritty/
 touch $HOME/.config/alacritty/alacritty.toml
 ```
 
-##Setup font in ``alacritty.toml``
+## Setup font in ``alacritty.toml``
 
 Add the lines:
 
@@ -174,7 +174,9 @@ Use MSYS on windows
 Zsh must be installed in MSYS2 before this is set.
 
 ``` toml
-[shell]
+[terminal]
+
+[terminal.shell]
 program = "C:/msys64/msys2_shell.cmd"
 args = [
   "-defterm",
