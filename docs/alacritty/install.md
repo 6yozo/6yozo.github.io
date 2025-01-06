@@ -100,9 +100,17 @@ Open Font Book and drag the extracted font files there.
 
 ## Create an empty config file
 
+### Linux, Mac
+
 ```
 mkdir -p $HOME/.config/alacritty/
 touch $HOME/.config/alacritty/alacritty.toml
+```
+
+### Windows
+
+```
+notepad "%AppData%/alacritty/alacritty.toml" 
 ```
 
 ## Setup font in ``alacritty.toml``
