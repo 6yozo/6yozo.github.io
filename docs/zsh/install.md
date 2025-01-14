@@ -186,7 +186,8 @@ Then add to ``.zshrc``:
 export LP_PATH="$HOME/liquidprompt"
 export LP_ENABLE_TIME=1
 export LP_TIME_FORMAT="%Y-%m-%dT%H:%M:%S"
-export LP_PS1_PREFIX='{*]>'
+# Prefix makes easy to search between commands in Alacritty
+export LP_PS1_PREFIX='#>>'
 export LP_ALWAYS_DISPLAY_VALUES=1
 export LP_DISPLAY_VALUES_AS_PERCENTS=1
 LP_DISABLED_VCS_PATHS=(
